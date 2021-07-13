@@ -46,3 +46,9 @@ description: Catalyst Circle ( CC ) - Toolmakers & Maintainers ( T&M )
 
 ### Who is doing the problem sensing?
 
+## Miro Board
+
+{% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" %}
+
+
+
