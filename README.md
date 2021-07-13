@@ -2,7 +2,7 @@
 description: Catalyst Circle ( CC ) - Toolmakers & Maintainers ( T&M )
 ---
 
-# Circle-of-Toolmakers-and-Maintainers
+# Circle of Toolmakers and Maintainers
 
 ## Catalyst Circle - Introduction: 
 

@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Circle-of-Toolmakers-and-Maintainers](README.md)
+* [Circle of Toolmakers and Maintainers](README.md)
 
