@@ -1,2 +1,2 @@
-# Catalyst-Swarm-Circle-of-Toolmakers-and-Maintainers
+# Circle-of-Toolmakers-and-Maintainers
 
