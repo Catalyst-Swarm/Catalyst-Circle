@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Catalyst Circle Media](README.md)
 * [Catalyst Circle Overview](catalyst-circle-overview.md)
+* [Catalyst Circle Media](README.md)
+
 
 ## Meetings
 
