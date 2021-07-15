@@ -30,3 +30,13 @@ This is a first iteration of an experiment in project Catalyst governance - like
 * Review and suggest improvements to the Catalyst Circle process every quarter.
 * Produce an election protocol document for the next elections.
 
+## Success metrics
+
+* Funds exit survey indicates a score of above 4 approval rating for the Circle.
+* Circle members rate achievement of each goal 1-5 - approval of each goal 4 or above.
+* Members rank Circle meetings as “productive” at end of meeting \(above 4\).
+
+
+
+
+
