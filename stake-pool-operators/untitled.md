@@ -8,3 +8,5 @@ description: Stake Pool Operators
 
 #### Lauris Stiglics
 
+#### Voted
+
