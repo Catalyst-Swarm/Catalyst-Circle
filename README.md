@@ -1,5 +1,5 @@
 ---
-description: Catalyst Circle Overview
+description: Catalyst Circle Overview - adapted from Town Hall Slides
 ---
 
 # Catalyst Circle Overview
