@@ -17,5 +17,5 @@
 
 ## Cardano Foundation
 
-* [Untitled](cardano-foundation/untitled.md)
+* [Cardano Foundation](cardano-foundation/untitled.md)
 
