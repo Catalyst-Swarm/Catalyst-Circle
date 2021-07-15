@@ -33,5 +33,5 @@
 
 ## General Voters
 
-* [Untitled](general-voters/untitled.md)
+* [General Voters](general-voters/untitled.md)
 
