@@ -11,3 +11,7 @@
 
 * [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
 
+## Stake Pool Operators
+
+* [Untitled](stake-pool-operators/untitled.md)
+
