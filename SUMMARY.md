@@ -27,3 +27,7 @@
 
 * [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
 
+## Funded Proposers
+
+* [Untitled](funded-proposers/untitled.md)
+
