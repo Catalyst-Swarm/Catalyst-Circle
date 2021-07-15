@@ -4,5 +4,7 @@ description: Funded Proposers
 
 # Funded Proposers
 
-Juliane Montag
+## Representative
+
+#### Juliane Montag
 
