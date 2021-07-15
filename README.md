@@ -60,5 +60,7 @@ Facilitator \(responsible for ensuring that everyone is heard and the group is a
 
 ### Secretary 
 
+#### Pete Oliver-Krueger \(Secretary, Governance Alive\)
+
 Secretary \(responsible for keeping track of agreements, planning agendas, and publishing both past minutes and upcoming meetings\)
 
