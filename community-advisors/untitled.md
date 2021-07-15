@@ -4,7 +4,7 @@ description: Community Advisors
 
 # Community Advisors
 
-## Representative
+## Representative Profile
 
 #### Victor Corcino
 

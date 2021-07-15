@@ -4,7 +4,7 @@ description: Cardano Foundation
 
 # Cardano Foundation
 
-## Representative
+## Representative Profile
 
 #### David Taylor
 

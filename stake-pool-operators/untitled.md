@@ -4,7 +4,7 @@ description: Stake Pool Operators
 
 # Stake Pool Operators
 
-## Representative
+## Representative Profile
 
 #### Lauris Stiglics
 

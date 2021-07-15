@@ -4,7 +4,7 @@ description: General Voters
 
 # General Voters
 
-## Representative
+## Representative Profile
 
 #### TBA
 
