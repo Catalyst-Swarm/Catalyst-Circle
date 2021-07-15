@@ -4,9 +4,6 @@ description: Toolmakers and Maintainers Activity
 
 # Activity
 
-
-## 
-
 ## First Steps:
 
 ### Problem sensing:
@@ -15,7 +12,7 @@ description: Toolmakers and Maintainers Activity
 
 [Things that are going well](https://docs.google.com/document/d/1VeZVIlWWn4q85q3SL5BaQSZ0WI_BAXWIjtWSDSvhPzc/edit?usp=sharing)
 
-{% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" %}
+{% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" caption="" %}
 
 ### Team building: ?
 
@@ -30,7 +27,4 @@ description: Toolmakers and Maintainers Activity
 ## Miro Board
 
 {% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" caption="" %}
-
-
-
 
