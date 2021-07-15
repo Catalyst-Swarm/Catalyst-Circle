@@ -30,6 +30,7 @@
 ## Toolmakers and Maintainers
 
 * [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
+* [Activity](toolmakers-and-maintainers/activity.md)
 
 ## General Voters
 
