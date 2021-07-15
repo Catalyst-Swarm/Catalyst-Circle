@@ -62,5 +62,7 @@ Facilitator \(responsible for ensuring that everyone is heard and the group is a
 
 #### Pete Oliver-Krueger \(Secretary, Governance Alive\)
 
+#### Nate Whitestone as back up.
+
 Secretary \(responsible for keeping track of agreements, planning agendas, and publishing both past minutes and upcoming meetings\)
 
