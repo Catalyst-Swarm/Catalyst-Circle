@@ -7,11 +7,11 @@
 
 * [July 12th, 2021](meetings/july-12th-2021.md)
 
-## Toolmakers and Maintainers
-
-* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
-
 ## Stake Pool Operators
 
 * [Stake Pool Operators](stake-pool-operators/untitled.md)
+
+## Toolmakers and Maintainers
+
+* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
 
