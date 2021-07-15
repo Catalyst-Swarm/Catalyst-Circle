@@ -4,6 +4,8 @@ description: 'Catalyst Circle Overview - adapted from Town Hall Slides, June 23r
 
 # Catalyst Circle Overview
 
+![Introducing Catalyst Circle Version 1](.gitbook/assets/2021-07-15.png)
+
 ## Definition
 
 The Catalyst Circle is a “human sensor array” that monitors the current state and future plans regarding governance in Project Catalyst. The Circle detects and discusses concerns, objections and opportunities arising within the Catalyst eco-system. The activity outputs a transparent view into the hopes, wants, needs and concerns of the community, IOG and CF with project Catalyst.  
