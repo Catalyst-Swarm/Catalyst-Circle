@@ -4,9 +4,9 @@ description: Catalyst Circle as presented on media platforms
 
 # Catalyst Circle Media
 
-Catalyst Circle - Introduction
+## Catalyst Circle - Introduction
 
-## July 8, 2021 Kriss Baird.
+#### July 8, 2021 Kriss Baird.
 
 The world’s largest decentralized innovation fund continues to evolve its governance and leadership model
 
