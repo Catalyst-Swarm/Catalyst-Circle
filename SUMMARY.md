@@ -21,5 +21,5 @@
 
 ## Input Output
 
-* [Untitled](input-output/untitled.md)
+* [Input Output](input-output/untitled.md)
 
