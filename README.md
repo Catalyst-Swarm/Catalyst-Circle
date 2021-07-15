@@ -1,9 +1,6 @@
 ---
-description: Catalyst Circle Overview - adapted from Town Hall Slides
+description: 'Catalyst Circle Overview - adapted from Town Hall Slides, June 23rd 2021'
 ---
-
-![2021-07-15](https://user-images.githubusercontent.com/25156451/125729961-539ea443-2d42-4980-b015-6012554b0e01.png)
-
 
 # Catalyst Circle Overview
 
