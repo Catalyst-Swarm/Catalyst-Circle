@@ -11,11 +11,11 @@
 
 * [Stake Pool Operators](stake-pool-operators/untitled.md)
 
-## Toolmakers and Maintainers
-
-* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
-
 ## Cardano Foundation
 
 * [Cardano Foundation](cardano-foundation/untitled.md)
+
+## Toolmakers and Maintainers
+
+* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
 
