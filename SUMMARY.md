@@ -29,5 +29,5 @@
 
 ## Funded Proposers
 
-* [Untitled](funded-proposers/untitled.md)
+* [Funded Proposers](funded-proposers/untitled.md)
 
