@@ -1,8 +1,8 @@
 ---
-description: Toolmakers and Maintainers Activity
+description: Toolmakers and Maintainers Circle Activity
 ---
 
-# Activity
+# Toolmakers and Maintainers Circle Activity
 
 ## First Steps:
 
