@@ -10,7 +10,7 @@
 
 ## Stake Pool Operators
 
-* [Stake Pool Operators](stake-pool-operators/untitled.md)
+* [Stake Pool Operators](stake-pool-operators/stake-pool-operators.md)
 
 ## Cardano Foundation
 
