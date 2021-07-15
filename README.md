@@ -11,3 +11,10 @@ It is also responsible for defining the election processes for Catalyst Circle V
 
 This is a first iteration of an experiment in project Catalyst governance - likely to change and evolve from iteration to iteration.
 
+## Goals
+
+* Facilitate the different functional groups in Catalyst to communicate with each other.
+* Provide a heads-up when any red lines are crossed within a certain group.
+* Suggest improvements on plans and processes that shape Project Catalyst.
+* Define the election process for the Catalyst Circle V2.
+
