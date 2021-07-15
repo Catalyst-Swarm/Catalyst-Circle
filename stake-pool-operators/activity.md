@@ -4,7 +4,7 @@ description: Stake Pool Operators Circle Activity
 
 # Stake Pool Operators Activity
 
-## Catalyst Circle Voting
+## Catalyst Circle Voting - June 30th 2021
 
 ## Catalyst Circle Voting - Stake Pool Operator Room Recount
 
