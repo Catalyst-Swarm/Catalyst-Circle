@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Circle of Toolmakers and Maintainers](README.md)
+* [Catalyst Circle](README.md)
 * [Discord History](discord-history.md)
 
 ## Meetings
