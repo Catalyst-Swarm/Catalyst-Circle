@@ -6,7 +6,13 @@ description: Stake Pool Operators
 
 ## Representative Profile
 
-#### Lauris Stiglics
+### Lauris Stiglics
 
 #### Voted
+
+### Stake Pool Operators
+
+{% embed url="https://members.spocra.io/feed" %}
+
+
 
