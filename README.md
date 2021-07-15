@@ -48,3 +48,13 @@ First iteration will be volunteer based - this will be reviewed after the first 
 
 The Catalyst Circle will start off as a consulting and catalyzing body. Over time, as it accomplishes its success metrics, it can gain more formal authorities.
 
+## Roles
+
+### Facilitator 
+
+Facilitator \(responsible for ensuring that everyone is heard and the group is able to quickly choose affordable experiments\)
+
+### Secretary 
+
+Secretary \(responsible for keeping track of agreements, planning agendas, and publishing both past minutes and upcoming meetings\)
+
