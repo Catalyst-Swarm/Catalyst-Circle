@@ -2,5 +2,5 @@
 description: Catalyst Circle Overview
 ---
 
-# Overview
+# Catalyst Circle Overview
 
