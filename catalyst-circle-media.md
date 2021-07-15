@@ -1,3 +1,7 @@
+---
+description: Catalyst Circle as presented on media platforms
+---
+
 # Catalyst Circle Media
 
 ### Catalyst Circle - Introduction

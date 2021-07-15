@@ -18,3 +18,15 @@ This is a first iteration of an experiment in project Catalyst governance - like
 * Suggest improvements on plans and processes that shape Project Catalyst.
 * Define the election process for the Catalyst Circle V2.
 
+## Functions
+
+* Maintain an agile backlog list to track issues between meetings.
+* Hold a transparent meeting every two weeks. During that meeting:
+  * Review the current state of project Catalyst and provide feedback.
+  * Review upcoming plans for project Catalyst and provide feedback.
+  * Raise strong objections to governance processes in Catalyst.
+  * Review actions taken following objections and recommendations made by the circle.
+* Disseminate the Circle outputs in a transparent and accessible way.
+* Review and suggest improvements to the Catalyst Circle process every quarter.
+* Produce an election protocol document for the next elections.
+
