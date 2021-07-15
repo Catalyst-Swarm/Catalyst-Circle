@@ -40,5 +40,11 @@ This is a first iteration of an experiment in project Catalyst governance - like
 
 All meetings and documents will be open and accessible to the community
 
+## Budget
 
+First iteration will be volunteer based - this will be reviewed after the first quarter and pending on community approval of the circle.
+
+## Authority
+
+The Catalyst Circle will start off as a consulting and catalyzing body. Over time, as it accomplishes its success metrics, it can gain more formal authorities.
 
