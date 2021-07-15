@@ -19,11 +19,11 @@
 
 * [Input Output](input-output/untitled.md)
 
-## Toolmakers and Maintainers
-
-* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
-
 ## Community Advisors
 
 * [Community Advisors](community-advisors/untitled.md)
+
+## Toolmakers and Maintainers
+
+* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
 
