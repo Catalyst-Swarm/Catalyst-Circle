@@ -23,11 +23,11 @@
 
 * [Community Advisors](community-advisors/untitled.md)
 
-## Toolmakers and Maintainers
-
-* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
-
 ## Funded Proposers
 
 * [Funded Proposers](funded-proposers/untitled.md)
+
+## Toolmakers and Maintainers
+
+* [Toolmakers and Maintainers](toolmakers-and-maintainers/untitled.md)
 
