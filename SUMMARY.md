@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Catalyst Circle](README.md)
-* [Discord History](discord-history.md)
+* [Catalyst Circle Media](README.md)
+* [Overview](discord-history.md)
 
 ## Meetings
 

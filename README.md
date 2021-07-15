@@ -1,8 +1,8 @@
 ---
-description: Catalyst Circle
+description: Catalyst Circle Media
 ---
 
-# Catalyst Circle
+# Catalyst Circle Media
 
 ## Catalyst Circle - Introduction:
 
