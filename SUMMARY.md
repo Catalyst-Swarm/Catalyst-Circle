@@ -25,5 +25,5 @@
 
 ## Community Advisors
 
-* [Untitled](community-advisors/untitled.md)
+* [Community Advisors](community-advisors/untitled.md)
 
