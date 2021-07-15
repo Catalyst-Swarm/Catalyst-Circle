@@ -36,7 +36,9 @@ This is a first iteration of an experiment in project Catalyst governance - like
 * Circle members rate achievement of each goal 1-5 - approval of each goal 4 or above.
 * Members rank Circle meetings as “productive” at end of meeting \(above 4\).
 
+## Accessibility
 
+All meetings and documents will be open and accessible to the community
 
 
 
