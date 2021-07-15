@@ -54,6 +54,8 @@ The Catalyst Circle will start off as a consulting and catalyzing body. Over tim
 
 ### Facilitator 
 
+#### John Buck \(Facilitator, Governance Alive\)
+
 Facilitator \(responsible for ensuring that everyone is heard and the group is able to quickly choose affordable experiments\)
 
 ### Secretary 
