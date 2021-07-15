@@ -6,5 +6,7 @@ description: Cardano Foundation
 
 ## Representative
 
-#### David Taylor 
+#### David Taylor
+
+#### Appointed
 
