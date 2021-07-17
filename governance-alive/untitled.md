@@ -176,6 +176,26 @@ You may optionally call for additional vote rounds if a lot of people have chang
 
 Once problems have been assigned values, use those values to provide an ordered list.List items in descending order by the number of dots.
 
+### Option C: Emotional Ranking o Have someone describe each item in the list and open the floor for discussion.
+
+You may optionally go in order through the group to collect feedback, or allow people to speak as they feel moved to speak.
+
+Use a time box to limit discussion.
+
+The goal of the discussion is not to solve the problem, or even agree on the problem, but to elicit an emotional response from participants, if applicable. o Rank the emotional reactions of participants
+
+0 - No emotion \(Uninvested\)
+
+1 - Intellectual conversation, no emotion \(Within the Range of Comfort\) \(Further discussion could lead to finding subjects outside the Range of Comfort\)
+
+2 - Emotions in the face and hands \(Near or Outside the Range of Comfort but within the Range of Tolerance\)
+
+3 - Full-body emotion \(On the Edge or Outside Range of Tolerance\)
+
+Discuss ratings in small groups, identifying what makes some problems outside the range of tolerance \(and therefore urgent and/or important\)
+
+For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group \(either in meeting or via notes on spreadsheet, Miro board, etc.\)
+
 
 
 
