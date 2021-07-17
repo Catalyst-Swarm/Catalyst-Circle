@@ -28,7 +28,7 @@ In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-cir
 
 ### Note
 
-NOTE: To further assist the Catalyst Circle members, Governance Alive has compiled a list of options that representatives may want to reference when gathering problem statements from your communities, if desired. This list is certainly not exhaustive, and members are not constrained to use any technique\(s\) on this list. No expectations are set with the document, just a reference if you would like some inspiration.
+**NOTE**: To further assist the Catalyst Circle members, Governance Alive has compiled a list of options that representatives may want to reference when gathering problem statements from your communities, if desired. This list is certainly not exhaustive, and members are not constrained to use any technique\(s\) on this list. No expectations are set with the document, just a reference if you would like some inspiration.
 
 ## About the Minimum Viable Product \(MVP\) Approach
 
@@ -38,17 +38,17 @@ Whatever we can do now is good enough, and below is why.
 
 ### The Background Science
 
-Brains work primarily as a “difference engine.”
+Brains work primarily as a “_difference engine_.”
 
 To minimize the cognitive load of processing information, brains will ignore anything that it expects to see. For example, when you look around the room, if your brain expects the furniture to be in a particular location, it will only recognize items that are unexpectedly out-of-place.
 
 As a result, anything that we expect to happen will often be ignored by the brain!
 
-WARNING: This means that some of the most-important information may not be immediately accessible, specifically because it is experienced frequently.
+**WARNING**: This means that some of the most-important information may not be immediately accessible, specifically because it is experienced frequently.
 
 ### The Antidote
 
-The goal of “Prototyping” is to create a visual representation for review and analysis, sometimes called a “straw man” or a “prototype”. It does not have to be complete, and is sometimes more effective when it is not complete. The presentation of the prototype allows participants to use the difference engine in their brain to identify what is missing, fill in the gaps, and remember the things that are hard to remember because they are experienced frequently
+The goal of “_Prototyping_” is to create a visual representation for review and analysis, sometimes called a “_straw man_” or a “_prototype_”. It does not have to be complete, and is sometimes more effective when it is not complete. The presentation of the prototype allows participants to use the difference engine in their brain to identify what is missing, fill in the gaps, and remember the things that are hard to remember because they are experienced frequently
 
 ### Recommendation
 
