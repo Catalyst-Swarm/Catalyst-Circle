@@ -8,7 +8,7 @@ In order to provide complete transparency the activities of the Catalyst Circle 
 
 ## Catalyst-Circle Tracking - Project Board
 
-Every Catalyst-Circle event will be raised as a GitHub Issue and placed in the Catalyst-Circle Tracking Project Board.
+Every Catalyst-Circle event will be raised as a GitHub Issue and placed in the [Catalyst-Circle Tracking Project Board](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/projects/2).
 
 ![Catalyst-Circle Tracking - Project Board](.gitbook/assets/2021-07-17-3-.png)
 
