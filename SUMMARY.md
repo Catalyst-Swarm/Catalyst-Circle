@@ -3,6 +3,7 @@
 * [Catalyst Circle Overview](README.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
+* [Catalyst Circle Tracking](catalyst-circle-tracking.md)
 
 ## Meetings
 
