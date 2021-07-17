@@ -94,7 +94,7 @@ Once you have made a change, iterate. Iteration is the process of incremental im
 
 ### Techniques for Identifying Problems
 
-#### [Card Sort](https://www.optimalworkshop.com/learn/101s/card-sorting/)
+#### Card Sort - [link](https://www.optimalworkshop.com/learn/101s/card-sorting/)
 
 Brainstorm a list of ideas in three \(3\) categories:
 
@@ -110,7 +110,7 @@ Works well with a Miro board
 
 Very mental
 
-#### [Kepner-Tregoe](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version_2_20130307.pdf)
+#### Kepner-Tregoe - [link](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version_2_20130307.pdf)
 
 - Describe what’s working well
 - Describe what’s not working well
