@@ -1,5 +1,5 @@
 ---
-description: MVP Lists of Prioritized Problems
+description: MVP Lists of Prioritized Problems - Governance Alive
 ---
 
 # Minimum Viable Product - Lists of Prioritized Problems
