@@ -290,15 +290,15 @@ Are expenses increased or revenue decreased by this problem?
 
 **Retention**
 
-Do people repeatedly engage with the problem?
+- Do people repeatedly engage with the problem?
 
-How frequently or quickly does the problem occur?
+- How frequently or quickly does the problem occur?
 
 **Referral**
 
-Do people talk about the problem?
+- Do people talk about the problem?
 
-Does sharing about the problem increase or decrease the occurrence of the problem?
+- Does sharing about the problem increase or decrease the occurrence of the problem?
 
 
 
