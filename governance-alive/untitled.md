@@ -150,6 +150,32 @@ The Boat - Populate a list of things you do now, that you want to preserve, and 
 
 ## Techniques for Prioritizing Problems
 
+### Option A: Dot Voting \(Ranked Majority Voting - “Dotmocracy”\)
+
+Everyone is able to add X number of dots \(usually 3-5 dots depending on the number of items\). 
+
+Each person can distribute their dots on whichever items they wish, for whatever reason.
+
+A person can place multiple dots on one item, if they wish, and may opt to not use all of their dots.
+
+### Option B: Planning Poker \(but modified a little as described below\)
+
+Everyone simultaneously votes on a scale from 0 to 5. 5 is a high-value / important problem to solve. \(Can be done by raising hands with the number of fingers extended, or values can be recorded using a Planning Poker tool.\)
+
+Vote simultaneously, or register votes in secret and reveal all answers at the same time to avoid biasing each other with your answers. \(Unbiased answers lead to much better results!\)
+
+Start at the extremes \(highest values and lowest values\) and ask, “Would you be willing to come up/down, or if not, why not?”
+
+The point is for people to discuss their reasoning behind their scores.
+
+Sometimes there are multiple \(but related\) problems that need to be split. If useful, split the problem to reflect the multiple understandings of it.
+
+Sometimes people have overlooked a significant fact that would change their ranking.
+
+You may optionally call for additional vote rounds if a lot of people have changed their minds based on the reasons given.
+
+Once problems have been assigned values, use those values to provide an ordered list.List items in descending order by the number of dots.
+
 
 
 
