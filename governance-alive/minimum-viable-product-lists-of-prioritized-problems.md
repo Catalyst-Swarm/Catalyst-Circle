@@ -10,15 +10,15 @@ description: MVP Lists of Prioritized Problems - Governance Alive
 
 ## Catalyst Circle Aim
 
- In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/july-12th-2021), the Catalyst Circle made the following decision:
+In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/july-12th-2021), the Catalyst Circle made the following decision:
 
-**DECISION**: For next meeting members will be prepared to: 
+**DECISION**: For next meeting members will be prepared to:
 
 \(1\) share a list of the problems within your group. Problem statement rubrik o What problem do you see?
 
-Why is solving this problem important to the mission of Project Catalyst? 
+Why is solving this problem important to the mission of Project Catalyst?
 
- Can you articulate the gap between the current state and the expected or envisioned state?  How might the value of solving this problem be quantified and/or measured? \(optional\) 
+Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
 
 \(2\) Rank the problems \(focus on top two statements\)
 
@@ -60,13 +60,13 @@ Setup a limit to the amount of time spent on initial brainstorming in order to c
 
 CAUTION: Hold brainstorming activities and sorting activities in separate stages instead of mixing the two activities.
 
- The Background Science: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas. 
+The Background Science: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas.
 
-\(You may have heard the phrase “there are no bad ideas” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\) 
+\(You may have heard the phrase “there are no bad ideas” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\)
 
 “Not every idea will be a great idea, but a great idea can come from anywhere” - The Ratatouille Principle \(based on the Pixar movie\)
 
-### Tip \#2: Embrace the fact that some people are better at brainstorming, and others at sorting 
+### Tip \#2: Embrace the fact that some people are better at brainstorming, and others at sorting
 
 Suggestion: Allow people to participate according to their strengths. Don’t require everyone to brainstorm, or everyone to sort. Some will be more naturally inclined to one activity or the other.
 
@@ -76,11 +76,11 @@ For an item to be Viable, it must be:
 
 ### Desirable
 
- People must care about the item and want to engage. Usually you can measure the amount of engagement through observing the emotional impact of each item on the potential audience.
+People must care about the item and want to engage. Usually you can measure the amount of engagement through observing the emotional impact of each item on the potential audience.
 
-### Feasible 
+### Feasible
 
-It must be possible for the item to be accomplished technologically, logistically, and financially. If there are any potential blocks to success, the item is said to be at risk. • 
+It must be possible for the item to be accomplished technologically, logistically, and financially. If there are any potential blocks to success, the item is said to be at risk. •
 
 ### Scalable
 
@@ -96,7 +96,7 @@ Once you have made a change, iterate. Iteration is the process of incremental im
 
 #### [Card Sort](https://www.optimalworkshop.com/learn/101s/card-sorting/)
 
-Brainstorm a list of ideas in three \(3\) categories: 
+Brainstorm a list of ideas in three \(3\) categories:
 
 1\) What's gone well?
 
@@ -104,7 +104,7 @@ Brainstorm a list of ideas in three \(3\) categories:
 
 3\) What's interesting? o You can optionally prioritize cards by moving more-important cards to the top of each list
 
-This can be done by select individuals or in “round robin” with each person getting a chance to move a card higher or lower in the list in rotation. 
+This can be done by select individuals or in “round robin” with each person getting a chance to move a card higher or lower in the list in rotation.
 
 Works well with a Miro board
 
@@ -152,7 +152,7 @@ The Boat - Populate a list of things you do now, that you want to preserve, and 
 
 ### Option A: Dot Voting \(Ranked Majority Voting - “Dotmocracy”\)
 
-Everyone is able to add X number of dots \(usually 3-5 dots depending on the number of items\). 
+Everyone is able to add X number of dots \(usually 3-5 dots depending on the number of items\).
 
 Each person can distribute their dots on whichever items they wish, for whatever reason.
 
@@ -198,61 +198,60 @@ For all high urgency/importance problems identified in small groups, share probl
 
 ### Option D: Ranked Voting
 
-- Participants vote for as many items as they wish, listing their votes in priority order. 
-
-- Votes are tallied in rounds
+* Participants vote for as many items as they wish, listing their votes in priority order.
+* Votes are tallied in rounds
 
 First, everyone’s top option is recorded.
 
 If there is an option with more than 50% of the votes, it is declared the winner.
 
-If no option has greater than 50%, the option with the fewest votes is eliminated, and the second choice for each person who voted for the eliminated option is tallied. 
+If no option has greater than 50%, the option with the fewest votes is eliminated, and the second choice for each person who voted for the eliminated option is tallied.
 
 If there is now an option with more than 50% of the vote, it is declared the winner.
 
-If no option has greater than 50%, the next option with the lowest number of votes is eliminated, and the votes retallied based on next priorities, etc. 
+If no option has greater than 50%, the next option with the lowest number of votes is eliminated, and the votes retallied based on next priorities, etc.
 
 Eventually one item will achieve greater than 50% of the vote.
 
-- Here is an app to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
+* [Here is an app](https://app.rankedvote.co/elections/8920/Test-Election/8905/vote) to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
 
 ## Defining Problem Statements \(after prioritization\) \([link](https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2450)\)
 
 Among the multiple schools of thought throughout the areas of Agile, Lean Startup, Design Thinking, Business Process Modeling, etc. Most problem statements overlap with the following 5 components.
 
-###  Who
+### Who
 
-- Option A: User Types
+* Option A: User Types
 
 Identify one or more user groups that have this problem.
 
-What makes each group different from other groups in how they engage? 
+What makes each group different from other groups in how they engage?
 
-- Option B: Personas
+* Option B: Personas
 
 Identify a real, representative person that expresses the average set of characteristics for a group of users.
 
-You might also collect relevant demographic information, like age, racial or social backgrounds, gender, education, etc., if appropriate.  
+You might also collect relevant demographic information, like age, racial or social backgrounds, gender, education, etc., if appropriate.
 
-### Causal Conditions 
+### Causal Conditions
 
-Option A: Present problem statements in If-Then format 
+Option A: Present problem statements in If-Then format
 
 IF this condition happens, THEN this outcome will happen
 
 You may combine multiple conditions or outcomes together using AND/OR logic
 
-e.g. If condition A happens AND condition B happens, then outcome A AND outcome B will happen  e.g. If condition A OR condition B happens, then outcome A OR outcome B will happen o Option B: As a  I want to  so that I can .
+e.g. If condition A happens AND condition B happens, then outcome A AND outcome B will happen  e.g. If condition A OR condition B happens, then outcome A OR outcome B will happen o Option B: As a I want to so that I can .
 
-###  Aims - Why is solving this problem important to the mission of Project Catalyst?
+### Aims - Why is solving this problem important to the mission of Project Catalyst?
 
-###  Obstacles - What is standing between the Problem and the Aim? \(optional\)
+### Obstacles - What is standing between the Problem and the Aim? \(optional\)
 
 ### Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\)
 
 #### Option A: American Metrics
 
-- How can you affect a person’s... 
+* How can you affect a person’s... 
 
 Quality of Life?
 
@@ -260,7 +259,7 @@ Liberty of Choice?
 
 Pursuit of Happiness?
 
-- Operationalization \(optional\)
+* Operationalization \(optional\)
 
 What might you observe if this change is successful?
 
@@ -271,28 +270,27 @@ How might you track the difference between the future state and current state th
 #### Option B: Pirate Metrics
 
 **Awareness**
-- How many people are aware of the problem?
-- How do you know that they are aware?
+
+* How many people are aware of the problem?
+* How do you know that they are aware?
 
 **Activation**
-- When do people start engaging with the problem?
-- What precipitates the switch to action for people?
+
+* When do people start engaging with the problem?
+* What precipitates the switch to action for people?
 
 **Revenue**
-- Are there any expenses or revenue involved?
-- Are expenses increased or revenue decreased by this problem?
+
+* Are there any expenses or revenue involved?
+* Are expenses increased or revenue decreased by this problem?
 
 **Retention**
-- Do people repeatedly engage with the problem?
-- How frequently or quickly does the problem occur?
+
+* Do people repeatedly engage with the problem?
+* How frequently or quickly does the problem occur?
 
 **Referral**
-- Do people talk about the problem?
-- Does sharing about the problem increase or decrease the occurrence of the problem?
 
-
-
-
-
-
+* Do people talk about the problem?
+* Does sharing about the problem increase or decrease the occurrence of the problem?
 
