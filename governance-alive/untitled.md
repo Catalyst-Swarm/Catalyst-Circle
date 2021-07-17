@@ -196,7 +196,7 @@ Discuss ratings in small groups, identifying what makes some problems outside th
 
 For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group \(either in meeting or via notes on spreadsheet, Miro board, etc.\)
 
-Option D: Ranked Voting
+### Option D: Ranked Voting
 
 Participants vote for as many items as they wish, listing their votes in priority order. 
 
@@ -215,6 +215,38 @@ If no option has greater than 50%, the next option with the lowest number of vot
 Eventually one item will achieve greater than 50% of the vote.
 
 Here is an app to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
+
+## Defining Problem Statements \(after prioritization\) \([link](https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2450)\)
+
+Among the multiple schools of thought throughout the areas of Agile, Lean Startup, Design Thinking, Business Process Modeling, etc. Most problem statements overlap with the following 5 components.
+
+###  Who
+
+Option A: User Types
+
+Identify one or more user groups that have this problem.
+
+What makes each group different from other groups in how they engage? 
+
+Option B: Personas
+
+Identify a real, representative person that expresses the average set of characteristics for a group of users.
+
+You might also collect relevant demographic information, like age, racial or social backgrounds, gender, education, etc., if appropriate.  
+
+### Causal Conditions 
+
+Option A: Present problem statements in If-Then format 
+
+IF this condition happens, THEN this outcome will happen
+
+You may combine multiple conditions or outcomes together using AND/OR logic
+
+e.g. If condition A happens AND condition B happens, then outcome A AND outcome B will happen  e.g. If condition A OR condition B happens, then outcome A OR outcome B will happen o Option B: As a  I want to  so that I can .
+
+###  Aims - Why is solving this problem important to the mission of Project Catalyst?
+
+ • Obstacles - What is standing between the Problem and the Aim? \(optional\) • Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\) o Option A: American Metrics  How can you affect a person’s...  Quality of Life?  Liberty of Choice?  Pursuit of Happiness?  Operationalization \(optional\)  What might you observe if this change is successful?  How can you observe the current state, to know the difference between now and when the change is successful?  How might you track the difference between the future state and current state through time? o Option B: Pirate Metrics  Awareness  How many people are aware of the problem?  How do you know that they are aware?  Activation  When do people start engaging with the problem?  What precipitates the switch to action for people?  Revenue  Are there any expenses or revenue involved?  Are expenses increased or revenue decreased by this problem?  Retention  Do people repeatedly engage with the problem?  How frequently or quickly does the problem occur?  Referral  Do people talk about the problem?  Does sharing about the problem increase or decrease the occurrence of the problem?
 
 
 
