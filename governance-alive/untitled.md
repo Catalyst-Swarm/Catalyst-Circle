@@ -122,6 +122,14 @@ What could be the cause of the difference?
 
 The causes become your problem statements
 
+#### Uncovering Direction
+
+Inspiration - What inspires participants?
+
+Tensions - What feels wrong to participants?
+
+Capacity - Given where we are right now, which steps to develop our inspirations or relieve our tensions are within our capacity?
+
 
 
 
