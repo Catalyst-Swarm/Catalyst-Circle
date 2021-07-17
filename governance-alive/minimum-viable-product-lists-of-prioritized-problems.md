@@ -98,11 +98,11 @@ Once you have made a change, iterate. Iteration is the process of incremental im
 
 Brainstorm a list of ideas in three \(3\) categories:
 
-1\) What's gone well?
+- 1\) What's gone well?
 
-2\) What's gone badly? \(i.e. danger signals\)
+- 2\) What's gone badly? \(i.e. danger signals\)
 
-3\) What's interesting? o You can optionally prioritize cards by moving more-important cards to the top of each list
+- 3\) What's interesting? o You can optionally prioritize cards by moving more-important cards to the top of each list
 
 This can be done by select individuals or in “round robin” with each person getting a chance to move a card higher or lower in the list in rotation.
 
@@ -112,51 +112,40 @@ Very mental
 
 #### [Kepner-Tregoe](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version_2_20130307.pdf)
 
-Describe what’s working well
-
-Describe what’s not working well
-
-What is the difference between the two?
-
-What could be the cause of the difference?
-
-The causes become your problem statements
+- Describe what’s working well
+- Describe what’s not working well
+- What is the difference between the two?
+- What could be the cause of the difference?
+- The causes become your problem statements
 
 #### Uncovering Direction
 
-Inspiration - What inspires participants?
-
-Tensions - What feels wrong to participants?
-
-Capacity - Given where we are right now, which steps to develop our inspirations or relieve our tensions are within our capacity?
+- Inspiration - What inspires participants?
+- Tensions - What feels wrong to participants?
+- Capacity - Given where we are right now, which steps to develop our inspirations or relieve our tensions are within our capacity?
 
 #### Awesome Island Retrospective
 
-Awesome Island - Populate a list of things you would like to start doing
+> Awesome Island - Populate a list of things you would like to start doing
 
-What you would love to do?
+- What you would love to do?
+- What are things you have read about?
+- What have you done before in another environment?
+- 
+> Status Quo Island - Populate a list of things that you would like to stop doing
 
-What are things you have read about?
+- Things you do now that you'd like, and would like to leave behind
+- Things that make you frustrated, for which you would like to find an alternative.
 
-What have you done before in another environment?
-
-Status Quo Island - Populate a list of things that you would like to stop doing
-
-Things you do now that you'd like, and would like to leave behind
-
-Things that make you frustrated, for which you would like to find an alternative.
-
-The Boat - Populate a list of things you do now, that you want to preserve, and take with you to Awesome Island
+> The Boat - Populate a list of things you do now, that you want to preserve, and take with you to Awesome Island
 
 ## Techniques for Prioritizing Problems
 
 ### Option A: Dot Voting \(Ranked Majority Voting - “Dotmocracy”\)
 
-Everyone is able to add X number of dots \(usually 3-5 dots depending on the number of items\).
-
-Each person can distribute their dots on whichever items they wish, for whatever reason.
-
-A person can place multiple dots on one item, if they wish, and may opt to not use all of their dots.
+- Everyone is able to add X number of dots \(usually 3-5 dots depending on the number of items\).
+- Each person can distribute their dots on whichever items they wish, for whatever reason.
+- A person can place multiple dots on one item, if they wish, and may opt to not use all of their dots.
 
 ### Option B: Planning Poker \(but modified a little as described below\)
 
