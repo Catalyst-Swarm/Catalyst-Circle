@@ -221,17 +221,15 @@ Among the multiple schools of thought throughout the areas of Agile, Lean Startu
 
 ### Who
 
-* Option A: User Types
+> Option A: User Types
 
-Identify one or more user groups that have this problem.
+- Identify one or more user groups that have this problem.
+- What makes each group different from other groups in how they engage?
 
-What makes each group different from other groups in how they engage?
+> Option B: Personas
 
-* Option B: Personas
-
-Identify a real, representative person that expresses the average set of characteristics for a group of users.
-
-You might also collect relevant demographic information, like age, racial or social backgrounds, gender, education, etc., if appropriate.
+- Identify a real, representative person that expresses the average set of characteristics for a group of users.
+- You might also collect relevant demographic information, like age, racial or social backgrounds, gender, education, etc., if appropriate.
 
 ### Causal Conditions
 
