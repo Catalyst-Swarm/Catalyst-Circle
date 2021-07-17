@@ -6,7 +6,7 @@ description: MVP Lists of Prioritized Problems - Governance Alive
 
 {% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T\_14AF2vnnAZE/edit\#" caption="MVP Lists of Prioritized Problems - Governance Alive" %}
 
-
+## Document Transcription
 
 ## Catalyst Circle Aim
 
