@@ -4,7 +4,7 @@
 
  In the meeting on July 12, 2021, the Catalyst Circle made the following decision:
 
-DECISION: For next meeting members will be prepared to: 
+**DECISION**: For next meeting members will be prepared to: 
 
 \(1\) share a list of the problems within your group. Problem statement rubrik o What problem do you see?
 
