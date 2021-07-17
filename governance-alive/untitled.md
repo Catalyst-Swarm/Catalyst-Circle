@@ -130,6 +130,28 @@ Tensions - What feels wrong to participants?
 
 Capacity - Given where we are right now, which steps to develop our inspirations or relieve our tensions are within our capacity?
 
+#### Awesome Island Retrospective
+
+Awesome Island - Populate a list of things you would like to start doing
+
+What you would love to do?
+
+What are things you have read about?
+
+What have you done before in another environment?
+
+Status Quo Island - Populate a list of things that you would like to stop doing
+
+Things you do now that you'd like, and would like to leave behind
+
+Things that make you frustrated, for which you would like to find an alternative.
+
+The Boat - Populate a list of things you do now, that you want to preserve, and take with you to Awesome Island
+
+## Techniques for Prioritizing Problems
+
+
+
 
 
 
