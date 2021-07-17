@@ -56,7 +56,9 @@ Setup a limit to the amount of time spent on initial brainstorming in order to c
 
 CAUTION: Hold brainstorming activities and sorting activities in separate stages instead of mixing the two activities.
 
- The Background Science: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas. o \(You may have heard the phrase “there are no bad ideas” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\) 
+ The Background Science: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas. 
+
+\(You may have heard the phrase “there are no bad ideas” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\) 
 
 “Not every idea will be a great idea, but a great idea can come from anywhere” - The Ratatouille Principle \(based on the Pixar movie\)
 
