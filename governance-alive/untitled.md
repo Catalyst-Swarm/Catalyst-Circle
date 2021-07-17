@@ -250,7 +250,7 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 
 ### Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\)
 
-Option A: American Metrics
+#### Option A: American Metrics
 
 How can you affect a person’s... 
 
@@ -268,33 +268,33 @@ How can you observe the current state, to know the difference between now and wh
 
 How might you track the difference between the future state and current state through time?
 
-Option B: Pirate Metrics
+#### Option B: Pirate Metrics
 
-Awareness
+**Awareness**
 
 How many people are aware of the problem?
 
 How do you know that they are aware?
 
-Activation
+**Activation**
 
 When do people start engaging with the problem?
 
 What precipitates the switch to action for people?
 
-Revenue
+**Revenue**
 
 Are there any expenses or revenue involved?
 
 Are expenses increased or revenue decreased by this problem?
 
-Retention
+**Retention**
 
 Do people repeatedly engage with the problem?
 
 How frequently or quickly does the problem occur?
 
-Referral
+**Referral**
 
 Do people talk about the problem?
 
