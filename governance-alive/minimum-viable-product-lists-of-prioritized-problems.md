@@ -158,44 +158,39 @@ Very mental
 - You may optionally call for additional vote rounds if a lot of people have changed their minds based on the reasons given.
 - Once problems have been assigned values, use those values to provide an ordered list.List items in descending order by the number of dots.
 
-### Option C: Emotional Ranking o Have someone describe each item in the list and open the floor for discussion.
+### Option C: Emotional Ranking 
 
-You may optionally go in order through the group to collect feedback, or allow people to speak as they feel moved to speak.
+> Have someone describe each item in the list and open the floor for discussion.
 
-Use a time box to limit discussion.
+- You may optionally go in order through the group to collect feedback, or allow people to speak as they feel moved to speak.
+- Use a time box to limit discussion.
+- The goal of the discussion is not to solve the problem, or even agree on the problem, but to elicit an emotional response from participants, if applicable. 
 
-The goal of the discussion is not to solve the problem, or even agree on the problem, but to elicit an emotional response from participants, if applicable. o Rank the emotional reactions of participants
+> Rank the emotional reactions of participants
 
-0 - No emotion \(Uninvested\)
+- 0 - No emotion \(Uninvested\)
+- 1 - Intellectual conversation, no emotion \(Within the Range of Comfort\) \(Further discussion could lead to finding subjects outside the Range of Comfort\)
+- 2 - Emotions in the face and hands \(Near or Outside the Range of Comfort but within the Range of Tolerance\)
+- 3 - Full-body emotion \(On the Edge or Outside Range of Tolerance\)
 
-1 - Intellectual conversation, no emotion \(Within the Range of Comfort\) \(Further discussion could lead to finding subjects outside the Range of Comfort\)
+> Discuss ratings in small groups, identifying what makes some problems outside the range of tolerance \(and therefore urgent and/or important\)
 
-2 - Emotions in the face and hands \(Near or Outside the Range of Comfort but within the Range of Tolerance\)
-
-3 - Full-body emotion \(On the Edge or Outside Range of Tolerance\)
-
-Discuss ratings in small groups, identifying what makes some problems outside the range of tolerance \(and therefore urgent and/or important\)
-
-For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group \(either in meeting or via notes on spreadsheet, Miro board, etc.\)
+> For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group \(either in meeting or via notes on spreadsheet, Miro board, etc.\)
 
 ### Option D: Ranked Voting
 
-* Participants vote for as many items as they wish, listing their votes in priority order.
-* Votes are tallied in rounds
+> Participants vote for as many items as they wish, listing their votes in priority order.
 
-First, everyone’s top option is recorded.
+> Votes are tallied in rounds
 
-If there is an option with more than 50% of the votes, it is declared the winner.
+- First, everyone’s top option is recorded.
+- If there is an option with more than 50% of the votes, it is declared the winner.
+- If no option has greater than 50%, the option with the fewest votes is eliminated, and the second choice for each person who voted for the eliminated option is tallied.
+- If there is now an option with more than 50% of the vote, it is declared the winner.
+- If no option has greater than 50%, the next option with the lowest number of votes is eliminated, and the votes retallied based on next priorities, etc.
+- Eventually one item will achieve greater than 50% of the vote.
 
-If no option has greater than 50%, the option with the fewest votes is eliminated, and the second choice for each person who voted for the eliminated option is tallied.
-
-If there is now an option with more than 50% of the vote, it is declared the winner.
-
-If no option has greater than 50%, the next option with the lowest number of votes is eliminated, and the votes retallied based on next priorities, etc.
-
-Eventually one item will achieve greater than 50% of the vote.
-
-* [Here is an app](https://app.rankedvote.co/elections/8920/Test-Election/8905/vote) to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
+> [Here is an app](https://app.rankedvote.co/elections/8920/Test-Election/8905/vote) to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
 
 ## Defining Problem Statements \(after prioritization\) \([link](https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2450)\)
 
