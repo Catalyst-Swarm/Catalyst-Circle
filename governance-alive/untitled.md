@@ -38,5 +38,11 @@ As a result, anything that we expect to happen will often be ignored by the brai
 
 WARNING: This means that some of the most-important information may not be immediately accessible, specifically because it is experienced frequently.
 
+### The Antidote
+
+The goal of “Prototyping” is to create a visual representation for review and analysis, sometimes called a “straw man” or a “prototype”. It does not have to be complete, and is sometimes more effective when it is not complete. The presentation of the prototype allows participants to use the difference engine in their brain to identify what is missing, fill in the gaps, and remember the things that are hard to remember because they are experienced frequently
+
+### Recommendation
+
 
 
