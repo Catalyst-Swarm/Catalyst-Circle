@@ -86,5 +86,29 @@ It must be possible for the item to be accomplished technologically, logisticall
 
 The item needs to be usable as part of a system. If it requires a large amount of activity and personal interaction to succeed, the item can not be delivered at scale in a population larger than a few hundred people.
 
+## About Iterating
+
+Once you have made a change, iterate. Iteration is the process of incremental improvement- when we understand problems through this lens we open ourselves to creativity. This allows for our first capture of the problem to blossom into a detailed understanding of the problem. There is never just one MVP. The Minimum Viable Product is an iterative process resulting in multiple successive MVPs.
+
+## Library of Techniques
+
+### Techniques for Identifying Problems
+
+#### Card Sort
+
+Brainstorm a list of ideas in three \(3\) categories: 
+
+1\) What's gone well?
+
+2\) What's gone badly? \(i.e. danger signals\)
+
+3\) What's interesting? o You can optionally prioritize cards by moving more-important cards to the top of each list
+
+This can be done by select individuals or in “round robin” with each person getting a chance to move a card higher or lower in the list in rotation. 
+
+Works well with a Miro board
+
+Very mental
+
 
 
