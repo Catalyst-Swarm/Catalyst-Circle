@@ -198,9 +198,9 @@ For all high urgency/importance problems identified in small groups, share probl
 
 ### Option D: Ranked Voting
 
-Participants vote for as many items as they wish, listing their votes in priority order. 
+- Participants vote for as many items as they wish, listing their votes in priority order. 
 
-Votes are tallied in rounds
+- Votes are tallied in rounds
 
 First, everyone’s top option is recorded.
 
@@ -214,7 +214,7 @@ If no option has greater than 50%, the next option with the lowest number of vot
 
 Eventually one item will achieve greater than 50% of the vote.
 
-Here is an app to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
+- Here is an app to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
 
 ## Defining Problem Statements \(after prioritization\) \([link](https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2450)\)
 
@@ -222,13 +222,13 @@ Among the multiple schools of thought throughout the areas of Agile, Lean Startu
 
 ###  Who
 
-Option A: User Types
+- Option A: User Types
 
 Identify one or more user groups that have this problem.
 
 What makes each group different from other groups in how they engage? 
 
-Option B: Personas
+- Option B: Personas
 
 Identify a real, representative person that expresses the average set of characteristics for a group of users.
 
@@ -252,7 +252,7 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 
 #### Option A: American Metrics
 
-How can you affect a person’s... 
+- How can you affect a person’s... 
 
 Quality of Life?
 
@@ -260,7 +260,7 @@ Liberty of Choice?
 
 Pursuit of Happiness?
 
-Operationalization \(optional\)
+- Operationalization \(optional\)
 
 What might you observe if this change is successful?
 
