@@ -196,6 +196,26 @@ Discuss ratings in small groups, identifying what makes some problems outside th
 
 For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group \(either in meeting or via notes on spreadsheet, Miro board, etc.\)
 
+Option D: Ranked Voting
+
+Participants vote for as many items as they wish, listing their votes in priority order. 
+
+Votes are tallied in rounds
+
+First, everyone’s top option is recorded.
+
+If there is an option with more than 50% of the votes, it is declared the winner.
+
+If no option has greater than 50%, the option with the fewest votes is eliminated, and the second choice for each person who voted for the eliminated option is tallied. 
+
+If there is now an option with more than 50% of the vote, it is declared the winner.
+
+If no option has greater than 50%, the next option with the lowest number of votes is eliminated, and the votes retallied based on next priorities, etc. 
+
+Eventually one item will achieve greater than 50% of the vote.
+
+Here is an app to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
+
 
 
 
