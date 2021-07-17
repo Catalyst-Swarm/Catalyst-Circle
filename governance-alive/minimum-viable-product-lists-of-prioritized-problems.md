@@ -235,13 +235,15 @@ You might also collect relevant demographic information, like age, racial or soc
 
 ### Causal Conditions
 
-Option A: Present problem statements in If-Then format
+> Option A: Present problem statements in If-Then format
 
-IF this condition happens, THEN this outcome will happen
+- IF this condition happens, THEN this outcome will happen
+- You may combine multiple conditions or outcomes together using AND/OR logic
 
-You may combine multiple conditions or outcomes together using AND/OR logic
+e.g. If condition A happens AND condition B happens, then outcome A AND outcome B will happen 
+e.g. If condition A OR condition B happens, then outcome A OR outcome B will happen
 
-e.g. If condition A happens AND condition B happens, then outcome A AND outcome B will happen  e.g. If condition A OR condition B happens, then outcome A OR outcome B will happen o Option B: As a I want to so that I can .
+> Option B: As a I want to so that I can .
 
 ### Aims - Why is solving this problem important to the mission of Project Catalyst?
 
