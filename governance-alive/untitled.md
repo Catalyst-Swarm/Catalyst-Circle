@@ -22,3 +22,19 @@ Why is solving this problem important to the mission of Project Catalyst?
 
 NOTE: To further assist the Catalyst Circle members, Governance Alive has compiled a list of options that representatives may want to reference when gathering problem statements from your communities, if desired. This list is certainly not exhaustive, and members are not constrained to use any technique\(s\) on this list. No expectations are set with the document, just a reference if you would like some inspiration.
 
+## About the Minimum Viable Product \(MVP\) Approach
+
+Whatever we can do now is good enough, and below is why.
+
+### About Prototyping
+
+#### The Background Science
+
+Brains work primarily as a “difference engine.”
+
+To minimize the cognitive load of processing information, brains will ignore anything that it expects to see. For example, when you look around the room, if your brain expects the furniture to be in a particular location, it will only recognize items that are unexpectedly out-of-place.
+
+As a result, anything that we expect to happen will often be ignored by the brain!
+
+WARNING: This means that some of the most-important information may not be immediately accessible, specifically because it is experienced frequently.
+
