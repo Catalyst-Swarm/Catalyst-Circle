@@ -14,11 +14,11 @@ In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-cir
 
 **DECISION**: For next meeting members will be prepared to:
 
-#### \(1\) share a list of the problems within your group. Problem statement rubrik 
+#### \(1\) share a list of the problems within your group. Problem statement rubrik
 
-- What problem do you see?
-- Why is solving this problem important to the mission of Project Catalyst?
-- Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
+* What problem do you see?
+* Why is solving this problem important to the mission of Project Catalyst?
+* Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
 
 #### \(2\) Rank the problems \(focus on top two statements\)
 
@@ -58,17 +58,17 @@ Setup a limit to the amount of time spent on initial brainstorming in order to c
 
 ### Tip \#1: Collect ideas and suggestions separately from the sorting of the same ideas
 
-CAUTION: Hold brainstorming activities and sorting activities in separate stages instead of mixing the two activities.
+**CAUTION**: Hold brainstorming activities and sorting activities in separate stages instead of mixing the two activities.
 
-The Background Science: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas.
+**The Background Science**: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas.
 
-\(You may have heard the phrase “there are no bad ideas” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\)
+\(You may have heard the phrase “_there are no bad ideas_” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\)
 
-“Not every idea will be a great idea, but a great idea can come from anywhere” - The Ratatouille Principle \(based on the Pixar movie\)
+“_Not every idea will be a great idea, but a great idea can come from anywhere_” - The Ratatouille Principle \(based on the Pixar movie\)
 
 ### Tip \#2: Embrace the fact that some people are better at brainstorming, and others at sorting
 
-Suggestion: Allow people to participate according to their strengths. Don’t require everyone to brainstorm, or everyone to sort. Some will be more naturally inclined to one activity or the other.
+**Suggestion**: Allow people to participate according to their strengths. Don’t require everyone to brainstorm, or everyone to sort. Some will be more naturally inclined to one activity or the other.
 
 ## The Definition of Viable
 
