@@ -14,17 +14,19 @@ In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-cir
 
 **DECISION**: For next meeting members will be prepared to:
 
-\(1\) share a list of the problems within your group. Problem statement rubrik o What problem do you see?
+#### \(1\) share a list of the problems within your group. Problem statement rubrik 
+
+What problem do you see?
 
 Why is solving this problem important to the mission of Project Catalyst?
 
 Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
 
-\(2\) Rank the problems \(focus on top two statements\)
+#### \(2\) Rank the problems \(focus on top two statements\)
 
-\(3\) Share our feedback with each other and look for problem statements to solve together \(eg. join with another member - eg Victor, Juli, Felix\)
+#### \(3\) Share our feedback with each other and look for problem statements to solve together \(eg. join with another member - eg Victor, Juli, Felix\)
 
-\(4\) Place Problems in accessible backlog tool \(E.g Trello\)
+#### \(4\) Place Problems in accessible backlog tool \(E.g Trello\)
 
 ### Note
 
