@@ -28,7 +28,7 @@ Whatever we can do now is good enough, and below is why.
 
 ### About Prototyping
 
-#### The Background Science
+### The Background Science
 
 Brains work primarily as a “difference engine.”
 
@@ -37,4 +37,6 @@ To minimize the cognitive load of processing information, brains will ignore any
 As a result, anything that we expect to happen will often be ignored by the brain!
 
 WARNING: This means that some of the most-important information may not be immediately accessible, specifically because it is experienced frequently.
+
+
 
