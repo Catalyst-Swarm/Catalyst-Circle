@@ -42,5 +42,5 @@
 
 ## Governance Alive
 
-* [Minimum Viable Product - Lists of Prioritized Problems](governance-alive/untitled.md)
+* [Minimum Viable Product - Lists of Prioritized Problems](governance-alive/minimum-viable-product-lists-of-prioritized-problems.md)
 
