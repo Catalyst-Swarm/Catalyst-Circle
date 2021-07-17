@@ -46,5 +46,7 @@ The goal of “Prototyping” is to create a visual representation for review an
 
 Setup a limit to the amount of time spent on initial brainstorming in order to create a prototype. Then let people pick apart the prototype and identify what is missing or inaccurate.
 
+### About Brainstorming vs Sorting
+
 
 
