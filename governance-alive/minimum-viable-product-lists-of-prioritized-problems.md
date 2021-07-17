@@ -251,21 +251,17 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 
 #### Option A: American Metrics
 
-* How can you affect a person’s... 
+> How can you affect a person’s... 
 
-Quality of Life?
+- Quality of Life?
+- Liberty of Choice?
+- Pursuit of Happiness?
 
-Liberty of Choice?
+> Operationalization \(optional\)
 
-Pursuit of Happiness?
-
-* Operationalization \(optional\)
-
-What might you observe if this change is successful?
-
-How can you observe the current state, to know the difference between now and when the change is successful?
-
-How might you track the difference between the future state and current state through time?
+- What might you observe if this change is successful?
+- How can you observe the current state, to know the difference between now and when the change is successful?
+- How might you track the difference between the future state and current state through time?
 
 #### Option B: Pirate Metrics
 
