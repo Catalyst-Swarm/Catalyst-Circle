@@ -37,4 +37,5 @@
 ## General Voters
 
 * [General Voters](general-voters/general-voters.md)
+* [General Voters Activity](general-voters/general-voters-activity.md)
 
