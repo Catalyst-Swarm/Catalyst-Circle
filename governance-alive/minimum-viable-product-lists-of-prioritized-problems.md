@@ -131,7 +131,7 @@ Very mental
 - What you would love to do?
 - What are things you have read about?
 - What have you done before in another environment?
-- 
+
 > Status Quo Island - Populate a list of things that you would like to stop doing
 
 - Things you do now that you'd like, and would like to leave behind
