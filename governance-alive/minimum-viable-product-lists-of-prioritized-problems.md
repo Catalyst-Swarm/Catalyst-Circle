@@ -80,7 +80,7 @@ People must care about the item and want to engage. Usually you can measure the 
 
 ### Feasible
 
-It must be possible for the item to be accomplished technologically, logistically, and financially. If there are any potential blocks to success, the item is said to be at risk. •
+It must be possible for the item to be accomplished technologically, logistically, and financially. If there are any potential blocks to success, the item is said to be at risk.
 
 ### Scalable
 
@@ -149,21 +149,14 @@ Very mental
 
 ### Option B: Planning Poker \(but modified a little as described below\)
 
-Everyone simultaneously votes on a scale from 0 to 5. 5 is a high-value / important problem to solve. \(Can be done by raising hands with the number of fingers extended, or values can be recorded using a Planning Poker tool.\)
-
-Vote simultaneously, or register votes in secret and reveal all answers at the same time to avoid biasing each other with your answers. \(Unbiased answers lead to much better results!\)
-
-Start at the extremes \(highest values and lowest values\) and ask, “Would you be willing to come up/down, or if not, why not?”
-
-The point is for people to discuss their reasoning behind their scores.
-
-Sometimes there are multiple \(but related\) problems that need to be split. If useful, split the problem to reflect the multiple understandings of it.
-
-Sometimes people have overlooked a significant fact that would change their ranking.
-
-You may optionally call for additional vote rounds if a lot of people have changed their minds based on the reasons given.
-
-Once problems have been assigned values, use those values to provide an ordered list.List items in descending order by the number of dots.
+- Everyone simultaneously votes on a scale from 0 to 5. 5 is a high-value / important problem to solve. \(Can be done by raising hands with the number of fingers extended, or values can be recorded using a Planning Poker tool.\)
+- Vote simultaneously, or register votes in secret and reveal all answers at the same time to avoid biasing each other with your answers. \(Unbiased answers lead to much better results!\)
+- Start at the extremes \(highest values and lowest values\) and ask, “Would you be willing to come up/down, or if not, why not?”
+- The point is for people to discuss their reasoning behind their scores.
+- Sometimes there are multiple \(but related\) problems that need to be split. If useful, split the problem to reflect the multiple understandings of it.
+- Sometimes people have overlooked a significant fact that would change their ranking.
+- You may optionally call for additional vote rounds if a lot of people have changed their minds based on the reasons given.
+- Once problems have been assigned values, use those values to provide an ordered list.List items in descending order by the number of dots.
 
 ### Option C: Emotional Ranking o Have someone describe each item in the list and open the floor for discussion.
 
