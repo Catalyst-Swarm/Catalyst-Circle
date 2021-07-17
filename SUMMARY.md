@@ -36,5 +36,5 @@
 
 ## General Voters
 
-* [General Voters](general-voters/untitled.md)
+* [General Voters](general-voters/general-voters.md)
 
