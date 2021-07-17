@@ -16,11 +16,9 @@ In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-cir
 
 #### \(1\) share a list of the problems within your group. Problem statement rubrik 
 
-What problem do you see?
-
-Why is solving this problem important to the mission of Project Catalyst?
-
-Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
+- What problem do you see?
+- Why is solving this problem important to the mission of Project Catalyst?
+- Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
 
 #### \(2\) Rank the problems \(focus on top two statements\)
 
