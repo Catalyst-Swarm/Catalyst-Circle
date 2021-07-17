@@ -42,5 +42,5 @@
 
 ## Governance Alive
 
-* [Untitled](governance-alive/untitled.md)
+* [Governance Alive](governance-alive/untitled.md)
 
