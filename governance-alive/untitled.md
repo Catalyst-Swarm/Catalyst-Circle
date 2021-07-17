@@ -62,5 +62,9 @@ CAUTION: Hold brainstorming activities and sorting activities in separate stages
 
 “Not every idea will be a great idea, but a great idea can come from anywhere” - The Ratatouille Principle \(based on the Pixar movie\)
 
+### Tip \#2: Embrace the fact that some people are better at brainstorming, and others at sorting 
+
+Suggestion: Allow people to participate according to their strengths. Don’t require everyone to brainstorm, or everyone to sort. Some will be more naturally inclined to one activity or the other.
+
 
 
