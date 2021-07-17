@@ -1,4 +1,8 @@
-# Governance Alive
+---
+description: MVP Lists of Prioritized Problems
+---
+
+# Minimum Viable Product - Lists of Prioritized Problems
 
 ## Catalyst Circle Aim
 
