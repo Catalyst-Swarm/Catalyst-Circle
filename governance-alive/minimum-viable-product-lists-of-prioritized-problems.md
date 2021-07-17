@@ -271,33 +271,23 @@ How might you track the difference between the future state and current state th
 #### Option B: Pirate Metrics
 
 **Awareness**
-
-How many people are aware of the problem?
-
-How do you know that they are aware?
+- How many people are aware of the problem?
+- How do you know that they are aware?
 
 **Activation**
-
-When do people start engaging with the problem?
-
-What precipitates the switch to action for people?
+- When do people start engaging with the problem?
+- What precipitates the switch to action for people?
 
 **Revenue**
-
-Are there any expenses or revenue involved?
-
-Are expenses increased or revenue decreased by this problem?
+- Are there any expenses or revenue involved?
+- Are expenses increased or revenue decreased by this problem?
 
 **Retention**
-
 - Do people repeatedly engage with the problem?
-
 - How frequently or quickly does the problem occur?
 
 **Referral**
-
 - Do people talk about the problem?
-
 - Does sharing about the problem increase or decrease the occurrence of the problem?
 
 
