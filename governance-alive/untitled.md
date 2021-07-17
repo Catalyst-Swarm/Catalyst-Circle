@@ -70,5 +70,21 @@ CAUTION: Hold brainstorming activities and sorting activities in separate stages
 
 Suggestion: Allow people to participate according to their strengths. Don’t require everyone to brainstorm, or everyone to sort. Some will be more naturally inclined to one activity or the other.
 
+## The Definition of Viable
+
+For an item to be Viable, it must be:
+
+### Desirable
+
+ People must care about the item and want to engage. Usually you can measure the amount of engagement through observing the emotional impact of each item on the potential audience.
+
+### Feasible 
+
+It must be possible for the item to be accomplished technologically, logistically, and financially. If there are any potential blocks to success, the item is said to be at risk. • 
+
+### Scalable
+
+The item needs to be usable as part of a system. If it requires a large amount of activity and personal interaction to succeed, the item can not be delivered at scale in a population larger than a few hundred people.
+
 
 
