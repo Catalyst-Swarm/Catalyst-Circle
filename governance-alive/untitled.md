@@ -246,7 +246,59 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 
 ###  Aims - Why is solving this problem important to the mission of Project Catalyst?
 
- • Obstacles - What is standing between the Problem and the Aim? \(optional\) • Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\) o Option A: American Metrics  How can you affect a person’s...  Quality of Life?  Liberty of Choice?  Pursuit of Happiness?  Operationalization \(optional\)  What might you observe if this change is successful?  How can you observe the current state, to know the difference between now and when the change is successful?  How might you track the difference between the future state and current state through time? o Option B: Pirate Metrics  Awareness  How many people are aware of the problem?  How do you know that they are aware?  Activation  When do people start engaging with the problem?  What precipitates the switch to action for people?  Revenue  Are there any expenses or revenue involved?  Are expenses increased or revenue decreased by this problem?  Retention  Do people repeatedly engage with the problem?  How frequently or quickly does the problem occur?  Referral  Do people talk about the problem?  Does sharing about the problem increase or decrease the occurrence of the problem?
+###  Obstacles - What is standing between the Problem and the Aim? \(optional\)
+
+### Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\)
+
+Option A: American Metrics
+
+How can you affect a person’s... 
+
+Quality of Life?
+
+Liberty of Choice?
+
+Pursuit of Happiness?
+
+Operationalization \(optional\)
+
+What might you observe if this change is successful?
+
+How can you observe the current state, to know the difference between now and when the change is successful?
+
+How might you track the difference between the future state and current state through time?
+
+Option B: Pirate Metrics
+
+Awareness
+
+How many people are aware of the problem?
+
+How do you know that they are aware?
+
+Activation
+
+When do people start engaging with the problem?
+
+What precipitates the switch to action for people?
+
+Revenue
+
+Are there any expenses or revenue involved?
+
+Are expenses increased or revenue decreased by this problem?
+
+Retention
+
+Do people repeatedly engage with the problem?
+
+How frequently or quickly does the problem occur?
+
+Referral
+
+Do people talk about the problem?
+
+Does sharing about the problem increase or decrease the occurrence of the problem?
 
 
 
