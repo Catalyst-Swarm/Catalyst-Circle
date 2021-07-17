@@ -110,6 +110,18 @@ Works well with a Miro board
 
 Very mental
 
+#### [Kepner-Tregoe](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version_2_20130307.pdf)
+
+Describe what’s working well
+
+Describe what’s not working well
+
+What is the difference between the two?
+
+What could be the cause of the difference?
+
+The causes become your problem statements
+
 
 
 
