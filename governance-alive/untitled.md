@@ -4,6 +4,10 @@ description: MVP Lists of Prioritized Problems - Governance Alive
 
 # Minimum Viable Product - Lists of Prioritized Problems
 
+{% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T\_14AF2vnnAZE/edit\#" caption="MVP Lists of Prioritized Problems - Governance Alive" %}
+
+
+
 ## Catalyst Circle Aim
 
  In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/july-12th-2021), the Catalyst Circle made the following decision:
