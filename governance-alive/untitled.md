@@ -94,7 +94,7 @@ Once you have made a change, iterate. Iteration is the process of incremental im
 
 ### Techniques for Identifying Problems
 
-#### Card Sort
+#### [Card Sort](https://www.optimalworkshop.com/learn/101s/card-sorting/)
 
 Brainstorm a list of ideas in three \(3\) categories: 
 
