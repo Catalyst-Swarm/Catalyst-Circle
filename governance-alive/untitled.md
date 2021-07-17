@@ -2,7 +2,7 @@
 
 ## Catalyst Circle Aim
 
- In the meeting on July 12, 2021, the Catalyst Circle made the following decision:
+ In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/july-12th-2021), the Catalyst Circle made the following decision:
 
 **DECISION**: For next meeting members will be prepared to: 
 
