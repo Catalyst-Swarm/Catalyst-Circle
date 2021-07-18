@@ -16,7 +16,7 @@ Catalyst-Circle activities are grouped by Circle Meeting and Circle Representati
 
 ### Circle Meeting 1 - Community Advisor Circle - Tracking
 
-Which tracks the activities of the Community Advisor Circle for Meeting 1.
+Which tracks the activities of the Community Advisor Circle,Victor Corcino \(Community Advisors\),  for Meeting 1.
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/4" %}
 
