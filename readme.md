@@ -6,21 +6,21 @@ description: 'Catalyst Circle Overview - adapted from Town Hall Slides, June 23r
 
 ![Introducing Catalyst Circle Version 1](.gitbook/assets/2021-07-15.png)
 
-### Definition
+## Definition
 
 The Catalyst Circle is a “human sensor array” that monitors the current state and future plans regarding governance in Project Catalyst. The Circle detects and discusses concerns, objections and opportunities arising within the Catalyst eco-system. The activity outputs a transparent view into the hopes, wants, needs and concerns of the community, IOG and CF with project Catalyst.  
 It is also responsible for defining the election processes for Catalyst Circle V2.
 
 This is a first iteration of an experiment in project Catalyst governance - likely to change and evolve from iteration to iteration.
 
-### Goals
+## Goals
 
 * Facilitate the different functional groups in Catalyst to communicate with each other.
 * Provide a heads-up when any red lines are crossed within a certain group.
 * Suggest improvements on plans and processes that shape Project Catalyst.
 * Define the election process for the Catalyst Circle V2.
 
-### Functions
+## Functions
 
 * Maintain an agile backlog list to track issues between meetings.
 * Hold a transparent meeting every two weeks. During that meeting:
@@ -32,37 +32,37 @@ This is a first iteration of an experiment in project Catalyst governance - like
 * Review and suggest improvements to the Catalyst Circle process every quarter.
 * Produce an election protocol document for the next elections.
 
-### Success metrics
+## Success metrics
 
 * Funds exit survey indicates a score of above 4 approval rating for the Circle.
 * Circle members rate achievement of each goal 1-5 - approval of each goal 4 or above.
 * Members rank Circle meetings as “productive” at end of meeting \(above 4\).
 
-### Accessibility
+## Accessibility
 
 All meetings and documents will be open and accessible to the community
 
-### Budget
+## Budget
 
 First iteration will be volunteer based - this will be reviewed after the first quarter and pending on community approval of the circle.
 
-### Authority
+## Authority
 
 The Catalyst Circle will start off as a consulting and catalyzing body. Over time, as it accomplishes its success metrics, it can gain more formal authorities.
 
-### Roles
+## Roles
 
-#### Facilitator
+### Facilitator
 
-**John Buck \(Facilitator, Governance Alive\)**
+#### John Buck \(Facilitator, Governance Alive\)
 
 Facilitator \(responsible for ensuring that everyone is heard and the group is able to quickly choose affordable experiments\)
 
-#### Secretary
+### Secretary
 
-**Pete Oliver-Krueger \(Secretary, Governance Alive\)**
+#### Pete Oliver-Krueger \(Secretary, Governance Alive\)
 
-**Nate Whitestone as back up.**
+#### Nate Whitestone as back up.
 
 Secretary \(responsible for keeping track of agreements, planning agendas, and publishing both past minutes and upcoming meetings\)
 

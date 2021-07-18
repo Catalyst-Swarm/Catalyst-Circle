@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Welcome](welcome.md)
-* [Catalyst Circle Overview](README.md)
+* [Introduction](README.md)
+* [Catalyst Circle Overview](welcome.md)
+* [Catalyst Circle Overview](readme.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
 * [Catalyst Circle Tracking](catalyst-circle-tracking.md)
@@ -44,7 +45,4 @@
 ## Governance Alive
 
 * [Minimum Viable Product - Lists of Prioritized Problems](governance-alive/minimum-viable-product-lists-of-prioritized-problems.md)
-
----
-
 

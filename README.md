@@ -2,7 +2,7 @@
 description: 'Catalyst Circle Overview - adapted from Town Hall Slides, June 23rd 2021'
 ---
 
-# Catalyst Circle Overview
+# Introduction
 
 ![Introducing Catalyst Circle Version 1](.gitbook/assets/2021-07-15.png)
 
