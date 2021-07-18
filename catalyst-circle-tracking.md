@@ -14,19 +14,19 @@ Catalyst-Circle activities are raised as GitHub Issues and placed in the [Cataly
 
 Catalyst-Circle activities are grouped by Circle Meeting and Circle Representative. For example the Circle Meeting 1 has the following events ...
 
-### Circle Meeting 1 - Community Advisor Circle - Tracking
+### Meeting 1 - Community Advisor Circle - Tracking
 
 Which tracks the activities of the Community Advisor Circle,Victor Corcino \(Community Advisors\),  for Meeting 1.
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/4" %}
 
-### Circle Meeting 1 - Toolmaker and Maintainer Circle - Tracking
+### Meeting 1 - Toolmaker and Maintainer Circle - Tracking
 
 Which tracks the activities of the Toolmaker and Maintainer Circle, Felix Weber \(Toolmakers & maintainers\), for Meeting 1.
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/3" %}
 
-### Circle Meeting 1 - Governance Alive - Tracking
+### Meeting 1 - Governance Alive - Tracking
 
 Which tracks the activities of Governance Alive,  John Buck \(Facilitator, Governance Alive\) and Pete Oliver-Krueger \(Secretary, Governance Alive\) for Meeting 1.
 
