@@ -22,7 +22,7 @@ Which tracks the activities of the Community Advisor Circle for Meeting 1.
 
 ### Circle Meeting 1 - Toolmaker and Maintainer Circle - Tracking
 
-Which tracks the activities of the Toolmaker and Maintainer Circle for Meeting 1.
+Which tracks the activities of the Toolmaker and Maintainer Circle, Felix Weber \(Toolmakers & maintainers\), for Meeting 1.
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/3" %}
 
