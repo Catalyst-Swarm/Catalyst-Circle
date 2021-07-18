@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Welcome](welcome.md)
 * [Catalyst Circle Overview](README.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
@@ -46,5 +47,4 @@
 
 ---
 
-* [Welcome](welcome.md)
 
