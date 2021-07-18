@@ -103,11 +103,11 @@ Brainstorm a list of ideas in three \(3\) categories:
 * 3\) What's interesting?
 
 > You can optionally prioritize cards by moving more-important cards to the top of each list
-
+>
 > This can be done by select individuals or in “round robin” with each person getting a chance to move a card higher or lower in the list in rotation.
-
+>
 > Works well with a Miro board
-
+>
 > Very mental
 
 #### Kepner-Tregoe - [link](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version_2_20130307.pdf)
