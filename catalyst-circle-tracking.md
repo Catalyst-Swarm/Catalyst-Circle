@@ -8,13 +8,11 @@ In order to provide complete transparency the activities of the Catalyst Circle 
 
 ## Catalyst-Circle Tracking - Project Board
 
-Every Catalyst-Circle event will be raised as a GitHub Issue and placed in the [Catalyst-Circle Tracking Project Board](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/projects/2).
+Catalyst-Circle activities are raised as GitHub Issues and placed in the [Catalyst-Circle Tracking Project Board](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/projects/2).
 
 ![Catalyst-Circle Tracking - Project Board](.gitbook/assets/2021-07-18-3-.png)
 
-## Catalyst-Circle event 
-
-Catalyst-Circle events are grouped by Circle Meeting and Circle Representative. For example the Circle Meeting 1 has the following events ...
+Catalyst-Circle activties are grouped by Circle Meeting and Circle Representative. For example the Circle Meeting 1 has the following events ...
 
 ### Circle Meeting 1 - Community Advisor Circle - Tracking
 
