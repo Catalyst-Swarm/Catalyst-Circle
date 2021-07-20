@@ -10,7 +10,17 @@ description: Toolmakers and Maintainers Circle Activity
 
 {% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" %}
 
+#### Timestamps and summary
 
+#### Victor Corcino - Introduction - 0:00
+
+#### Len - How is ranked voting interface going to work with the Miro board ?- 1:48
+
+#### Victor Corcino - Listing all the problem statements first - 2:05
+
+#### Felix - Our role is only to re-present the problem statement - 2:28
+
+Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers
 
 ## 
 
