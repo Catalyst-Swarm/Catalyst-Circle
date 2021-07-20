@@ -4,6 +4,18 @@ description: Toolmakers and Maintainers Circle Activity
 
 # Toolmakers and Maintainers Circle Activity
 
+## Toolmakers and Maintainers problem sensing
+
+### Saturday Swarm Session - 17/07/2021 - 18:00
+
+{% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" %}
+
+
+
+## 
+
+## 
+
 ## First Steps:
 
 ### Problem sensing:
