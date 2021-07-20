@@ -20,7 +20,7 @@ description: Toolmakers and Maintainers Circle Activity
 
 #### Felix - Our role is only to re-present the problem statement - 2:28
 
-Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers
+Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers. I prefer to start from zero. Everyone here goes on the Miro board and puts their problem statements on the notes. The iteration of this will come in the next Wednesday After Town Hall when we only use the outcomes from today's session.The idea is to include the people into the process.
 
 ## 
 
