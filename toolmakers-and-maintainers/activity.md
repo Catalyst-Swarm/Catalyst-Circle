@@ -100,8 +100,6 @@ How to make voters aware about projects already under development? \(funded by C
 * you can not assume people are making a fully informed affirmative decision if they move quickly towards the largest text if given 30 secs to assess 9 statements.
 * hovering does not work on a touch screen, so my preference could not be registered in the 30 sec herding experiment.. FYI. So might want to warn ppl ahead if herding is likely to be part of decision making!!
 
-
-
 ## T&M Problem sensing \#2
 
 ### After Townhall, 22nd July 2021
