@@ -22,6 +22,14 @@ description: Toolmakers and Maintainers Circle Activity
 
 Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers. I prefer to start from zero. Everyone here goes on the Miro board and puts their problem statements on the notes. The iteration of this will come in the next Wednesday After Town Hall when we only use the outcomes from today's session.The idea is to include the people into the process.
 
+T&M Problem sensing \#1
+
+Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
+
+{% embed url="https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit" %}
+
+
+
 ## 
 
 ## 
