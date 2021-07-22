@@ -61,7 +61,7 @@ Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/
 
 How to make voters aware about projects already under development? \(funded by Catalyst or not\)
 
-* New comers don't know where to go or how to start getting involved in the catalyst process. How can we ensure a frictionless experience for every participant?
+* Newcomers don't know where to go or how to start getting involved in the catalyst process. How can we ensure a frictionless experience for every participant?
 * Currently 3-12 people determine the ranking, and therefore likelihood of a proposal getting funded
 * How can we recruit influencers to promote community involvement \(many are simply promoting participation in crypto as a monetary construct, not social\)
 * Upcoming Fund Challenges have no place to build momentum, teams and synergy
