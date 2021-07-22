@@ -59,7 +59,7 @@ Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/
 * The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T&M problem sensing \#2 on July 21st at 18.00 UTC 
 * The outcome from T&M problem sensing \#2 will be delegated to next Swarm Session on 24/07/2021
 
-### Selected problem statements: 
+### 9 Selected problem statements: 
 
 How to make voters aware about projects already under development? \(funded by Catalyst or not\)  
 
