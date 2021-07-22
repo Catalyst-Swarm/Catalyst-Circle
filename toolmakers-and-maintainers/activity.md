@@ -32,23 +32,21 @@ Each week we have three sessions. The After Town Halls, Swarm Sessions and Each 
 
 ### T&M Problem sensing \#1 - Transcription
 
-Swarm Session 17/07/2021 from 17.00 - 19.30 UTC  
-
+Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
 
 This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process \#1. 
 
-Miro Board:
+#### Miro Board:
 
 {% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/" %}
 
-Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)  
-
+Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)
 
 #### Statements:
 
 * participants wrote down their problem statement\(s\) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
 
-1. Selection & Filtering:
+#### Selection & Filtering:
 
 * participants which states several problems, selected their own “most important” statements
 * participants filter statements, when statement is covered others already
@@ -59,10 +57,9 @@ Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/
 * The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T&M problem sensing \#2 on July 21st at 18.00 UTC 
 * The outcome from T&M problem sensing \#2 will be delegated to next Swarm Session on 24/07/2021
 
-#### 9 Selected problem statements: 
+#### 9 Selected problem statements:
 
-How to make voters aware about projects already under development? \(funded by Catalyst or not\)  
-
+How to make voters aware about projects already under development? \(funded by Catalyst or not\)
 
 * New comers don't know where to go or how to start getting involved in the catalyst process. How can we ensure a frictionless experience for every participant?
 * Currently 3-12 people determine the ranking, and therefore likelihood of a proposal getting funded
@@ -73,7 +70,7 @@ How to make voters aware about projects already under development? \(funded by C
 * No clear, accountable and democratic process for improving Project Catalyst
 * how to involve CF
 
-#### Not selected problem statements: 
+#### Not selected problem statements:
 
 * Voting power is entirely determined by the amount of ADA an individual holds. This leaves key community members like SPO's with the most power
 * Too much branding
@@ -93,7 +90,7 @@ How to make voters aware about projects already under development? \(funded by C
 * Is there an individual or organization responsible for documenting and spreading info on the problems identified here/everywhere else? \(possible for the Circle to solve this?\)
 * How can we monitor multiple competing projects and measure their comparative success?
 
-#### Afterwards added statements 
+#### Afterwards added statements
 
 * There need to be multiple approaches considered for providing Reputation scores or validating IDs. As otherwise any one system can be used as a means of controlling populations.
 * Note: I had to add my contributions after the session. As I had to have time to think
