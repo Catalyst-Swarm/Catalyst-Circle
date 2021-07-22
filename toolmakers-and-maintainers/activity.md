@@ -104,6 +104,8 @@ How to make voters aware about projects already under development? \(funded by C
 
 ## T&M Problem sensing \#2
 
+### After Townhall, 22nd July 2021
+
 ### Miro Board
 
 {% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/?moveToWidget=3074457361682734208&cot=10" %}
