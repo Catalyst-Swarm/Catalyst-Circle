@@ -108,6 +108,12 @@ How to make voters aware about projects already under development? \(funded by C
 
 {% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/?moveToWidget=3074457361682734208&cot=10" %}
 
+## Timeline
+
+### Overview - relevant steps related to the CC history and specific regard to T&M’s
+
+{% embed url="https://docs.google.com/document/d/1uGn4sbaLIEiDWEGQpdX8bxU5QYaJ3SBBXjCGZzy7NnM/edit" %}
+
 
 
 ## First Steps Archive:
