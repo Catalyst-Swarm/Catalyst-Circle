@@ -6,7 +6,9 @@ description: Toolmakers and Maintainers Circle Activity
 
 ## Toolmakers and Maintainers problem sensing
 
-## Saturday Swarm Session - 17/07/2021 - 18:00
+## T&M Problem sensing \#1
+
+### Saturday Swarm Session - 17/07/2021 - 18:00
 
 {% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" %}
 
@@ -22,7 +24,7 @@ description: Toolmakers and Maintainers Circle Activity
 
 Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers. I prefer to start from zero. Everyone here goes on the Miro board and puts their problem statements on the notes. The iteration of this will come in the next Wednesday After Town Hall when we only use the outcomes from today's session.The idea is to include the people into the process.
 
-### T&M Problem sensing \#1 - Google Doc
+### Google Document
 
 #### Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
 
@@ -40,7 +42,7 @@ Miro Board: [https://miro.com/app/board/o9J\_l5oK3HM=/](https://miro.com/app/boa
 Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)  
 
 
-### Statements:
+#### Statements:
 
 * participants wrote down their problem statement\(s\) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
 
@@ -50,12 +52,12 @@ Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/
 * participants filter statements, when statement is covered others already
 * [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J_l6p5UaQ=/?moveToWidget=3074457361598731172&cot=14)
 
-### Process: 
+#### Process: 
 
 * The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T&M problem sensing \#2 on July 21st at 18.00 UTC 
 * The outcome from T&M problem sensing \#2 will be delegated to next Swarm Session on 24/07/2021
 
-### 9 Selected problem statements: 
+#### 9 Selected problem statements: 
 
 How to make voters aware about projects already under development? \(funded by Catalyst or not\)  
 
@@ -69,7 +71,7 @@ How to make voters aware about projects already under development? \(funded by C
 * No clear, accountable and democratic process for improving Project Catalyst
 * how to involve CF
 
-### Not selected problem statements: 
+#### Not selected problem statements: 
 
 * Voting power is entirely determined by the amount of ADA an individual holds. This leaves key community members like SPO's with the most power
 * Too much branding
@@ -89,16 +91,24 @@ How to make voters aware about projects already under development? \(funded by C
 * Is there an individual or organization responsible for documenting and spreading info on the problems identified here/everywhere else? \(possible for the Circle to solve this?\)
 * How can we monitor multiple competing projects and measure their comparative success?
 
-### Afterwards added statements 
+#### Afterwards added statements 
 
 * There need to be multiple approaches considered for providing Reputation scores or validating IDs. As otherwise any one system can be used as a means of controlling populations.
 * Note: I had to add my contributions after the session. As I had to have time to think
 * you can not assume people are making a fully informed affirmative decision if they move quickly towards the largest text if given 30 secs to assess 9 statements.
 * hovering does not work on a touch screen, so my preference could not be registered in the 30 sec herding experiment.. FYI. So might want to warn ppl ahead if herding is likely to be part of decision making!!
 
-## 
 
-## First Steps:
+
+## T&M Problem sensing \#2
+
+### Miro Board
+
+{% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/?moveToWidget=3074457361682734208&cot=10" %}
+
+
+
+## First Steps Archive:
 
 ### Problem sensing:
 
