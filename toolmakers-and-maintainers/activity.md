@@ -37,7 +37,9 @@ Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
 
 This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process \#1. 
 
-Miro Board: [https://miro.com/app/board/o9J\_l5oK3HM=/](https://miro.com/app/board/o9J_l5oK3HM=/)
+Miro Board:
+
+{% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/" %}
 
 Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)  
 
