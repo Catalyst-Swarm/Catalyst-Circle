@@ -32,6 +32,74 @@ Each week we have three sessions. The After Town Halls, Swarm Sessions and Each 
 
 ## 
 
+### T&M Problem sensing \#1 - Transcription
+
+Swarm Session 17/07/2021 from 17.00 - 19.30 UTC  
+
+
+This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process \#1. 
+
+Miro Board: [https://miro.com/app/board/o9J\_l5oK3HM=/](https://miro.com/app/board/o9J_l5oK3HM=/)
+
+Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)  
+
+
+### Statements:
+
+* participants wrote down their problem statement\(s\) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
+
+1. Selection & Filtering:
+
+* participants which states several problems, selected their own “most important” statements
+* participants filter statements, when statement is covered others already
+* [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J_l6p5UaQ=/?moveToWidget=3074457361598731172&cot=14)
+
+### Process: 
+
+* The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T&M problem sensing \#2 on July 21st at 18.00 UTC 
+* The outcome from T&M problem sensing \#2 will be delegated to next Swarm Session on 24/07/2021
+
+### Selected problem statements: 
+
+How to make voters aware about projects already under development? \(funded by Catalyst or not\)  
+
+
+* New comers don't know where to go or how to start getting involved in the catalyst process. How can we ensure a frictionless experience for every participant?
+* Currently 3-12 people determine the ranking, and therefore likelihood of a proposal getting funded
+* How can we recruit influencers to promote community involvement \(many are simply promoting participation in crypto as a monetary construct, not social\)
+* Upcoming Fund Challenges have no place to build momentum, teams and synergy
+* Proposal system forces waterfall. How to get stakeholder input in between voting rounds?
+* missing reputation system
+* No clear, accountable and democratic process for improving Project Catalyst
+* how to involve CF
+
+### Not selected problem statements: 
+
+* Voting power is entirely determined by the amount of ADA an individual holds. This leaves key community members like SPO's with the most power
+* Too much branding
+* How to Update or revise the Ideascale interface when we agree changes
+* There is no form of "Office Hours" for proposers to speak with CA's on how to improve proposal and get live feedback
+* Need DID's solved still
+* Very high, and growing number of proposals in the system each cycle - difficult to personally attend to them in the time available
+* dominative CA role
+* What is the best practices for driving communication between the various interested community members \(example: all of the parties depicted by Charles in his governance yt video/white board\)[https://www.youtube.com/watch?v=3\_wJOF4Y8gU](https://www.youtube.com/watch?v=3_wJOF4Y8gU)
+* Incentives are what makes governance work. How can we clarify/quantify the incentives for each member of the community to participate?
+* missing Ideascale API access
+* no rewarding system for highly engaged community members
+* Dev Daedalus App "snap" in: Nix, SCSS, Java Script or Rust?
+* how to improve the quality of proposals
+* Monetary Incentives - vs other system of incentivisation can we use?
+* Project Catalyst Community self-awareness that there are multiple options for funding, and this is one
+* Is there an individual or organization responsible for documenting and spreading info on the problems identified here/everywhere else? \(possible for the Circle to solve this?\)
+* How can we monitor multiple competing projects and measure their comparative success?
+
+### Afterwards added statements 
+
+* There need to be multiple approaches considered for providing Reputation scores or validating IDs. As otherwise any one system can be used as a means of controlling populations.
+* Note: I had to add my contributions after the session. As I had to have time to think
+* you can not assume people are making a fully informed affirmative decision if they move quickly towards the largest text if given 30 secs to assess 9 statements.
+* hovering does not work on a touch screen, so my preference could not be registered in the 30 sec herding experiment.. FYI. So might want to warn ppl ahead if herding is likely to be part of decision making!!
+
 ## 
 
 ## First Steps:
