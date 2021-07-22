@@ -6,7 +6,7 @@ description: Toolmakers and Maintainers Circle Activity
 
 ## Toolmakers and Maintainers problem sensing
 
-### Saturday Swarm Session - 17/07/2021 - 18:00
+## Saturday Swarm Session - 17/07/2021 - 18:00
 
 {% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" %}
 
@@ -27,10 +27,6 @@ Each week we have three sessions. The After Town Halls, Swarm Sessions and Each 
 #### Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
 
 {% embed url="https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit" %}
-
-
-
-## 
 
 ### T&M Problem sensing \#1 - Transcription
 
