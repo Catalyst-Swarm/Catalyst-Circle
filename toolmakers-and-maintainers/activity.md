@@ -130,7 +130,7 @@ How to make voters aware about projects already under development? \(funded by C
 
 ### Who is doing the problem sensing?
 
-## Miro Board
+### Miro Board
 
 {% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" caption="" %}
 
