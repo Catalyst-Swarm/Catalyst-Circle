@@ -44,12 +44,12 @@ Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/
 
 #### Statements:
 
-* participants wrote down their problem statement\(s\) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
+* Participants wrote down their problem statement\(s\) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
 
 #### Selection & Filtering:
 
-* participants which states several problems, selected their own “most important” statements
-* participants filter statements, when statement is covered others already
+* Participants which states several problems, selected their own “most important” statements
+* Participants filter statements, when statement is covered others already
 * [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J_l6p5UaQ=/?moveToWidget=3074457361598731172&cot=14)
 
 #### Process: 
@@ -66,9 +66,9 @@ How to make voters aware about projects already under development? \(funded by C
 * How can we recruit influencers to promote community involvement \(many are simply promoting participation in crypto as a monetary construct, not social\)
 * Upcoming Fund Challenges have no place to build momentum, teams and synergy
 * Proposal system forces waterfall. How to get stakeholder input in between voting rounds?
-* missing reputation system
+* Missing reputation system
 * No clear, accountable and democratic process for improving Project Catalyst
-* how to involve CF
+* How to involve CF
 
 #### Not selected problem statements:
 
