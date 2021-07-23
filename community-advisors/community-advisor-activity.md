@@ -1,4 +1,8 @@
-# Community Advisor Activity
+---
+description: Activities of the Community Advisor Circle
+---
+
+# Community Advisor Circle Activity
 
 ## The problem sensing phase about Catalyst from the CAs perspective has just ended. 23rd July 2021
 
