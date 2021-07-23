@@ -16,7 +16,7 @@ description: Toolmakers and Maintainers
 
 ## Tracking
 
-The Activities of the Toolmakers and Maintainers are recorded as Issues in the location linked below :
+The Activities of the Toolmakers and Maintainers Circle are recorded as Issues in the location linked below :
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/labels/Toolmaker%20and%20Maintainer%20Tracking" %}
 
