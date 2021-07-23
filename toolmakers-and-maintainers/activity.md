@@ -99,11 +99,11 @@ How to make voters aware about projects already under development? \(funded by C
 
 ## T&M Problem sensing \#2
 
-### After Townhall, 22nd July 2021
+### After Townhall, 21st July 2021
 
 {% embed url="https://www.youtube.com/watch?v=vkybM3JiK14" %}
 
-Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hall - 22nd July 2021 Toolmakers and Maintainers Circle Activity
+Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hall - 21st July 2021 Toolmakers and Maintainers Circle Activity
 
 ### Miro Board
 
