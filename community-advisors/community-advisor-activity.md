@@ -8,6 +8,10 @@ description: Activities of the Community Advisor Circle
 
 ![](../.gitbook/assets/2021-07-23-3-.png)
 
+#### Discord Context
+
+{% embed url="https://discord.com/channels/756943420660121600/864480609203519508/868173540476747797" %}
+
 ## Rank your vote
 
 ![](../.gitbook/assets/2021-07-23-2-.png)
