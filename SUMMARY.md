@@ -25,7 +25,7 @@
 
 ## Community Advisors
 
-* [Community Advisors](community-advisors/untitled.md)
+* [Community Advisors](community-advisors/community-advisors.md)
 * [Community Advisor Circle Activity](community-advisors/community-advisor-activity.md)
 
 ## Funded Proposers
