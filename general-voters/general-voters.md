@@ -2,7 +2,7 @@
 description: General Voters
 ---
 
-# General Voters
+# General Voter
 
 ## Representative Profile
 
