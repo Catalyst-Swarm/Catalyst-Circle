@@ -1,5 +1,5 @@
 ---
-description: Funded Proposers
+description: Funded Proposers Circle
 ---
 
 # Funded Proposers
@@ -11,4 +11,10 @@ description: Funded Proposers
 #### Voted
 
 ### Funded Proposers
+
+## Tracking
+
+The Activities of the Community Advisors Circle are recorded as Issues in the location linked below :
+
+
 
