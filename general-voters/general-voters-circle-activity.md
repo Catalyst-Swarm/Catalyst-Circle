@@ -69,7 +69,7 @@ Content Agenda
 
 ⇒ NOTE: We need to make contact info for CC members available to everyone
 
-* What do we want to be the qualifications/selection criteria for the General Ada Holders’ Representative to the Catalyst Circle? [See table](general-voters-activity.md). \(0:28\)
+* What do we want to be the qualifications/selection criteria for the General Ada Holders’ Representative to the Catalyst Circle? [See table](general-voters-circle-activity.md). \(0:28\)
   * Nori: We have a circle seat to represent Stakepool operators, already represented, so would prefer not to include SPOs.
     * Dipin: Fine with removing SPO as a criteria.
   * Nori: Not sure about the requirement that they run a website.
@@ -124,7 +124,7 @@ Content Agenda
   <tbody></tbody>
 </table>
 
-* Given our criteria, who are the top ranked candidates? [See table](general-voters-activity.md). \(0:55\)
+* Given our criteria, who are the top ranked candidates? [See table](general-voters-circle-activity.md). \(0:55\)
 * Do we wish to interview the top candidates? \(If yes, who?\) - Schedule possible times/dates to interview\(1:05\)
 * \(If not\) select a candidate by consent. \(1:05\)
 * Elect someone from this selection committee to answer questions about the selection committee on Discord and elsewhere in the community.
