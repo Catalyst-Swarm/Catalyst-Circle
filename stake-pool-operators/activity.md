@@ -14,3 +14,9 @@ Ron Hill
 
 {% embed url="https://docs.google.com/document/d/1Lwn6-7yphYBjGDSg80eXgCuCMyKW7S1zEcPvG3rdHhk/edit" caption="" %}
 
+## SPO-Circle Discord Channel
+
+![](../.gitbook/assets/2021-07-25-17-.png)
+
+
+
