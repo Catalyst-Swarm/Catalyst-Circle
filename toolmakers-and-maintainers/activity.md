@@ -132,18 +132,15 @@ Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hal
 
 #### What problem do you see?
 
-1.Missing bridges regarding onboarding & introduction process and infrastructure:  
-
+1.Missing bridges regarding onboarding & introduction process and infrastructure:
 
 There is a lot of information for Cardano and Catalyst, but it is very decentralized and hard for someone just starting out to know where to look and learn how to participate. Much of the available materials are also in English only. Different communities do not have bridges between each other, which leads to siloing and potential waste of resources and engagement. People feel overwhelmed and lost when first starting out.
 
-#### Why is solving this problem important to the mission of Project Catalyst? 
+#### Why is solving this problem important to the mission of Project Catalyst?
 
-Diverse and passionate community participation is vital for Catalyst to be successful. If we can build a vibrant community with creativity and input from as wide a group as possible, we will be building the future infrastructure that is as inclusive as possible. We want to avoid instantly alienating people because of feeling overwhelmed, not knowing how to participate, where to start, or other barriers to joining effectively.  
+Diverse and passionate community participation is vital for Catalyst to be successful. If we can build a vibrant community with creativity and input from as wide a group as possible, we will be building the future infrastructure that is as inclusive as possible. We want to avoid instantly alienating people because of feeling overwhelmed, not knowing how to participate, where to start, or other barriers to joining effectively.
 
-
-The amount of information available about Cardano and Catalyst will only continue to grow as more people join the community. It’s a reinforcing feedback loop. Without a way to aggregate and streamline information while giving people direction on where to go next, the process of getting connected will only get more difficult.  
-
+The amount of information available about Cardano and Catalyst will only continue to grow as more people join the community. It’s a reinforcing feedback loop. Without a way to aggregate and streamline information while giving people direction on where to go next, the process of getting connected will only get more difficult.
 
 #### Can you articulate the gap between the current state and the expected or envisioned state?
 
