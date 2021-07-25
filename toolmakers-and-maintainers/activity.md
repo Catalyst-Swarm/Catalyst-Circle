@@ -109,6 +109,57 @@ Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hal
 
 {% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/?moveToWidget=3074457361682734208&cot=10" %}
 
+## T&M Problem sensing \#3
+
+### Saturday Swarm Session - 24th July 2021
+
+{% embed url="https://docs.google.com/document/d/12JddN22m7zjetrFjx6DwWrK-wzW6a8yQGFVRsViK6Zs/edit" %}
+
+### Transcription
+
+#### T&M Problem sensing \#3
+
+#### Swarm Session 24/07/2021 from 17.00 -  UTC
+
+* \(1\) list the problems within your group. Problem statement rubrik
+  * What problem do you see? 
+  * Why is solving this problem important to the mission of Project Catalyst?
+  * Can you articulate the gap between the current state and the expected or envisioned state?
+  * How might the value of solving this problem be quantified and/or measured? \(optional\)
+* \(2\) Rank the problems \(focus on top two statements\) 
+* \(3\) Share our feedback with each other and look for problem statements to solve together \(eg. join with another member  - eg Victor, Juli, Felix\)
+* \(4\) Place Problems in accessible backlog tool \(E.g Trello\)
+
+#### What problem do you see?
+
+1.Missing bridges regarding onboarding & introduction process and infrastructure:  
+
+
+There is a lot of information for Cardano and Catalyst, but it is very decentralized and hard for someone just starting out to know where to look and learn how to participate. Much of the available materials are also in English only. Different communities do not have bridges between each other, which leads to siloing and potential waste of resources and engagement. People feel overwhelmed and lost when first starting out.
+
+#### Why is solving this problem important to the mission of Project Catalyst? 
+
+Diverse and passionate community participation is vital for Catalyst to be successful. If we can build a vibrant community with creativity and input from as wide a group as possible, we will be building the future infrastructure that is as inclusive as possible. We want to avoid instantly alienating people because of feeling overwhelmed, not knowing how to participate, where to start, or other barriers to joining effectively.  
+
+
+The amount of information available about Cardano and Catalyst will only continue to grow as more people join the community. It’s a reinforcing feedback loop. Without a way to aggregate and streamline information while giving people direction on where to go next, the process of getting connected will only get more difficult.  
+
+
+#### Can you articulate the gap between the current state and the expected or envisioned state?
+
+    -   There is an overwhelming amount of information for new people to digest in a large number of places.
+
+    -   A lot of different communities support Cardano. It is hard to know where they are, which are valuable, and where to start. FOMO is real and exhausting.
+
+    -   Blockchain, Cardano, Stake Pools, Staking, Voting, Catalyst, Funding, Proposals, there is SO MUCH to learn to feel like you understand how things work.
+
+    -   Some discord servers have an overwhelming number of servers.
+
+    -   No clear central starting point to learn about Catalyst.
+
+    -   The envisioned state is having information and community mechanisms and systems available to take people deeper and deeper into the community in a safe and inclusive way.  
+
+
 ## Timeline
 
 ### Overview - relevant steps related to the CC history and specific regard to T&M’s
