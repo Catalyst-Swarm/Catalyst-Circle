@@ -16,7 +16,7 @@ Ron Hill
 
 ## SPO-Circle Discord Channel
 
-![](../.gitbook/assets/2021-07-25-17-.png)
+![SPO-Circle Discord Channel](../.gitbook/assets/2021-07-25-17-.png)
 
 
 
