@@ -211,30 +211,16 @@ Action Items:
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
+
+## July 24th, 2021- Search Committee Discord Announcement
+
+![July 24th, 2021- Search Committee Discord Announcement ](../.gitbook/assets/2021-07-25-15-.png)
+
+#### Discord Context
+
+{% embed url="https://discord.com/channels/756943420660121600/867813899817975809/868610176331153478" %}
+
+
 
