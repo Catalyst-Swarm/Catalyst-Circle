@@ -12,3 +12,5 @@ description: Activity of the Funded Proposers Circle
 
 ![](../.gitbook/assets/2021-07-25-2-.png)
 
+![](../.gitbook/assets/2021-07-25-3-.png)
+
