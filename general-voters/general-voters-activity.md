@@ -14,7 +14,7 @@ The Catalyst Circle is filling its last vacant seat for General Voters' \(GV\) r
 
 ![Screen shot - The Catalyst Circle is filling its last vacant seat for General Voters&apos; \(GV\) representative.](../.gitbook/assets/2021-07-17-1-.png)
 
-## Agenda/notes Search Committee
+## Agenda/notes Search Committee - July 2021
 
 {% embed url="https://docs.google.com/document/d/1HOZPsTq6ip173Fn887Q\_aDGbZEhS-QzFLitrzI02P\_Q/edit" caption="" %}
 
