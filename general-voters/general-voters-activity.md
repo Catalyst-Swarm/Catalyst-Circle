@@ -1,8 +1,8 @@
 ---
-description: General Voters Activity
+description: General Voters Circle Activity
 ---
 
-# General Voters Activity
+# General Voters Circle Activity
 
 ## The Catalyst Circle is filling its last vacant seat
 
