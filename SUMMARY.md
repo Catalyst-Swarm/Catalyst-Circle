@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Catalyst Circle Overview](readme.md)
+* [Catalyst Circle Overview](readme-1.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
 * [Catalyst Circle Tracking](catalyst-circle-tracking.md)
