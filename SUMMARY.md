@@ -31,6 +31,7 @@
 ## Funded Proposers
 
 * [Funded Proposers](funded-proposers/untitled.md)
+* [Funded Proposers Activity](funded-proposers/funded-proposers-activity.md)
 
 ## Toolmakers and Maintainers
 
