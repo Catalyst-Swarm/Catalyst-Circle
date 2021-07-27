@@ -113,6 +113,10 @@ Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hal
 
 ### Saturday Swarm Session - 24th July 2021
 
+{% embed url="https://www.youtube.com/watch?v=MavaMPz4a00" caption="T&M Problem sensing \#3 - 24th July 2021" %}
+
+#### Google Document
+
 {% embed url="https://docs.google.com/document/d/12JddN22m7zjetrFjx6DwWrK-wzW6a8yQGFVRsViK6Zs/edit" %}
 
 ### Transcription
