@@ -26,5 +26,15 @@ description: Activities of the Community Advisor Circle
 
 ![The voting for Problem Ranking has finished yesterday, and the two winners are:](../.gitbook/assets/2021-07-28-4-.png)
 
+### Ranked Voting
+
+![CAs in Catalyst Circle - Problem Ranking](../.gitbook/assets/2021-07-28-5-.png)
+
+![Who won?](../.gitbook/assets/2021-07-28-6-.png)
+
+![How were excess votes handled?](../.gitbook/assets/2021-07-28-7-.png)
+
+
+
 
 
