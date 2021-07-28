@@ -62,3 +62,9 @@ description: Activities of the Community Advisor Circle
 
 ![](../.gitbook/assets/2021-07-28-16-.png)
 
+### Ranked Choice Voting!?! Here's How it Works
+
+{% embed url="https://www.youtube.com/watch?v=P10PFuBFVL8" %}
+
+
+
