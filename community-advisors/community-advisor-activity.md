@@ -54,3 +54,7 @@ description: Activities of the Community Advisor Circle
 
 ![](../.gitbook/assets/2021-07-28-14-.png)
 
+### Round 4
+
+![](../.gitbook/assets/2021-07-28-15-.png)
+
