@@ -22,11 +22,11 @@ description: Activities of the Community Advisor Circle
 
 ![](../.gitbook/assets/2021-07-23-5-.png)
 
-## 28th July 2021 -  Ranked Voting
+## 28th July 2021 -  Ranked Voting Results
 
 ![The voting for Problem Ranking has finished yesterday, and the two winners are:](../.gitbook/assets/2021-07-28-4-.png)
 
-### Ranked Voting
+### Ranked Voting Results
 
 ![CAs in Catalyst Circle - Problem Ranking](../.gitbook/assets/2021-07-28-5-.png)
 
