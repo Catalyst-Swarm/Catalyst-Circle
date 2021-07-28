@@ -34,7 +34,9 @@ description: Activities of the Community Advisor Circle
 
 ![How were excess votes handled?](../.gitbook/assets/2021-07-28-7-.png)
 
+### Round 1
 
+![](../.gitbook/assets/2021-07-28-8-.png)
 
 
 
