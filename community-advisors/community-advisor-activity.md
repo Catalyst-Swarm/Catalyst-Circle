@@ -4,7 +4,7 @@ description: Activities of the Community Advisor Circle
 
 # Community Advisor Circle Activity
 
-## 23rd July 2021
+## 23rd July 2021 - **P**roblem Sensing Phase ends
 
 ### The problem sensing phase about Catalyst from the CAs perspective has just ended. 
 
@@ -22,7 +22,7 @@ description: Activities of the Community Advisor Circle
 
 ![](../.gitbook/assets/2021-07-23-5-.png)
 
-## 28th July 2021
+## 28th July 2021 -  Ranked Voting
 
 ![The voting for Problem Ranking has finished yesterday, and the two winners are:](../.gitbook/assets/2021-07-28-4-.png)
 
