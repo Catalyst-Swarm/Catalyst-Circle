@@ -162,11 +162,13 @@ The amount of information available about Cardano and Catalyst will only continu
 
 ## T&M Problem sensing \#4
 
-### Final Form
+### After Town Hall, 28th July 2021
+
+### Final Form of T&M Problem Statement
 
 {% embed url="https://docs.google.com/document/d/12JddN22m7zjetrFjx6DwWrK-wzW6a8yQGFVRsViK6Zs/edit" %}
 
-### T&M Problem sensing \#4 - Transcription
+### Transcription
 
 #### After Town Hall 28/07/2021 
 
