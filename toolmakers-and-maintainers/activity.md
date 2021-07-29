@@ -256,6 +256,12 @@ The future state gives the Cardano ecosystem a veritable treasure chest of primi
 
 #### Written by the T&M Community
 
+![big shout out to a really engaged Toolmaker &amp; Maintainer community](../.gitbook/assets/2021-07-29-8-.png)
+
+#### Discord context
+
+{% embed url="https://discord.com/channels/832894680290951179/857890034610208778/870222222726397952" %}
+
 ## Timeline
 
 ### Overview - relevant steps related to the CC history and specific regard to T&M’s
