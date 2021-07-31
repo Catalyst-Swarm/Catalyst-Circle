@@ -12,3 +12,7 @@ Governance Alive is tracking Prioritized Problems on this Trello Board :
 
 ## Catalyst Prioritized Problems - GitHub Project Board
 
+The Governance Alive Prioritized Problems Trello Board is replicated on this GitHub Project Board :
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/projects/3" caption="Catalyst Prioritized Problems - GitHub Project Board" %}
+
