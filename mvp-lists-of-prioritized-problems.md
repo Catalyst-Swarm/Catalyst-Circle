@@ -1,4 +1,8 @@
-# Untitled
+---
+description: Minimum Viable Product Lists of Prioritized Problems
+---
+
+# MVP Lists of Prioritized Problems
 
 MVP Lists of Prioritized Problems
 
@@ -11,88 +15,6 @@ MVP Lists of Prioritized Problems
 [CF]() 4
 
 [Cohort]() 4
-
-[IOG]() 6
-
-[SPOs]() 7
-
-[Toolmaker & Maintainer]() 8
-
-[**About the Minimum Viable Product \(MVP\) Approach**]() **12**
-
-[About Prototyping]() 12
-
-[The Background Science]() 12
-
-[The Antidote]() 12
-
-[Recommendation]() 12
-
-[About Brainstorming vs Sorting]() 12
-
-[Tip \#1: Collect ideas and suggestions separately from the sorting of the same ideas]() 12
-
-[Tip \#2: Embrace the fact that some people are better at brainstorming, and others at sorting]() 13
-
-[The Definition of Viable]() 13
-
-[Desirable]() 13
-
-[Feasible]() 13
-
-[Scalable]() 13
-
-[About Iterating]() 13
-
-[**Library of Techniques**]() **14**
-
-[Techniques for Identifying Problems]() 14
-
-[Techniques for Prioritizing Problems]() 15
-
-[Option A: Dot Voting \(Ranked Majority Voting - “Dotmocracy”\)]() 15
-
-[Option B: Planning Poker \(but modified a little as described below\)]() 15
-
-[Option C: Emotional Ranking]() 15
-
-[Option D: Ranked Voting]() 16
-
-[Defining Problem Statements \(after prioritization\)]() 16
-
-[Who]() 16
-
-[Option A: User Types]() 16
-
-[Option B: Personas]() 16
-
-[Causal Conditions]() 16
-
-[Option A: Present problem statements in If-Then format]() 16
-
-[Option B: As a &lt;type of person&gt; I want to &lt;perform an activity&gt; so that I can &lt;accomplish a goal&gt;.]() 17
-
-[Aims - Why is solving this problem important to the mission of Project Catalyst?]() 17
-
-[Obstacles - What is standing between the Problem and the Aim? \(optional\)]() 17
-
-[Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\)]() 17
-
-[Option A: American Metrics]() 17
-
-[Option B: Pirate Metrics]() 17
-
-[Awareness]() 17
-
-[Activation]() 17
-
-[Revenue]() 17
-
-[Retention]() 17
-
-[Referral]() 17
-
-## 
 
 ## Catalyst Circle Aim
 
@@ -151,7 +73,7 @@ In the meeting on July 12, 2021, the Catalyst Circle made the following decision
   * How might the value of solving this problem be quantified and/or measured? \(optional\)
     * General improvement on assessments quality and fairness.
 
-#### CF
+#### Cardano Foundation
 
 *  Problem 1:
   * What problem do you see?
