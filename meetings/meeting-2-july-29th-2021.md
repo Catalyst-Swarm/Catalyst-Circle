@@ -78,3 +78,9 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 * 3 - High Emotional interest
 * Importance, Criticality, Speed of Change: Sort the problem statements and identify the top 2 clusters. Top priority would be most important, critical, and urgent.
 
+### Reference Document
+
+{% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1\_oHfrxTvNT66pkhA0kdEN9a7otY/edit\#" %}
+
+
+
