@@ -4,18 +4,6 @@ description: Minimum Viable Product Lists of Prioritized Problems
 
 # MVP Lists of Prioritized Problems
 
-MVP Lists of Prioritized Problems
-
-[**Catalyst Circle Aim**]() **3**
-
-[Prioritized Problems]() 3
-
-[CAs]() 3
-
-[CF]() 4
-
-[Cohort]() 4
-
 ## Catalyst Circle Aim
 
 In the meeting on July 12, 2021, the Catalyst Circle made the following decision:
@@ -50,48 +38,55 @@ In the meeting on July 12, 2021, the Catalyst Circle made the following decision
   <tbody></tbody>
 </table>
 
-### Prioritized Problems
+## Prioritized Problems
 
-#### CAs
+## Community Advisors
 
-*  Problem 1:
-  * What problem do you see?
-    * CAs and vCAs rewarding system does not incentivize higher assessments quality \(CAs\) or higher number of assessment reviews \(vCAs\).
-  * Why is solving this problem important to the mission of Project Catalyst?
-    * Current rewarding system incentivizes quantity instead of quality in CAs assessments, which might lead to unfair scores, and does not incentivize high engagement of vCAs, which is unfair and harms the assessment QA phase.
-  * Can you articulate the gap between the current state and the expected or envisioned state?
-    * Current state: as described in the problem statement. Expected state: change the rewarding system so it rewards CAs based on assessment's quality, and rewards vCAs in a fairer and more engaging way.
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
-    * Measure the increase in quality of assessments and number of reviews after the change in the rewarding system.
-* Problem 2:
-  * What problem do you see?
-    * There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way.
-  * Why is solving this problem important to the mission of Project Catalyst?
-    * CAs/vCAs with a good track record could have higher positive impact in the Catalyst process in general.
-  * Can you articulate the gap between the current state and the expected or envisioned state?
-    * Current state: 'good' and 'bad' CAs/vCAs have the same influence in the final proposal scores. Expected state: CAs/vCAs with good track record influencing more the final proposal scores.
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
-    * General improvement on assessments quality and fairness.
+### Problem 1:
 
-#### Cardano Foundation
+* What problem do you see?
+  * CAs and vCAs rewarding system does not incentivize higher assessments quality \(CAs\) or higher number of assessment reviews \(vCAs\).
+* Why is solving this problem important to the mission of Project Catalyst?
+  * Current rewarding system incentivizes quantity instead of quality in CAs assessments, which might lead to unfair scores, and does not incentivize high engagement of vCAs, which is unfair and harms the assessment QA phase.
+* Can you articulate the gap between the current state and the expected or envisioned state?
+  * Current state: as described in the problem statement. Expected state: change the rewarding system so it rewards CAs based on assessment's quality, and rewards vCAs in a fairer and more engaging way.
+* How might the value of solving this problem be quantified and/or measured? \(optional\)
+  * Measure the increase in quality of assessments and number of reviews after the change in the rewarding system.
 
-*  Problem 1:
-  * What problem do you see?
-  * Why is solving this problem important to the mission of Project Catalyst?
-  * Can you articulate the gap between the current state and the expected or envisioned state?
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
-* Problem 2:
-  * What problem do you see?
-  * Why is solving this problem important to the mission of Project Catalyst?
-  * Can you articulate the gap between the current state and the expected or envisioned state?
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
+### Problem 2:
 
-#### Cohort
+* What problem do you see?
+  * There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way.
+* Why is solving this problem important to the mission of Project Catalyst?
+  * CAs/vCAs with a good track record could have higher positive impact in the Catalyst process in general.
+* Can you articulate the gap between the current state and the expected or envisioned state?
+  * Current state: 'good' and 'bad' CAs/vCAs have the same influence in the final proposal scores. Expected state: CAs/vCAs with good track record influencing more the final proposal scores.
+* How might the value of solving this problem be quantified and/or measured? \(optional\)
+  * General improvement on assessments quality and fairness.
 
-*  Problem 1:
-  * What problem do you see?
-    * Overwhelming amount of information of Project CAtalyst, in particular during onboarding phase \(supposing ongoing\)
-  * Why is solving this problem important to the mission of Project Catalyst?
+## Cardano Foundation
+
+### Problem 1:
+
+* What problem do you see?
+* Why is solving this problem important to the mission of Project Catalyst?
+* Can you articulate the gap between the current state and the expected or envisioned state?
+* How might the value of solving this problem be quantified and/or measured? \(optional\)
+
+### Problem 2:
+
+* What problem do you see?
+* Why is solving this problem important to the mission of Project Catalyst?
+* Can you articulate the gap between the current state and the expected or envisioned state?
+* How might the value of solving this problem be quantified and/or measured? \(optional\)
+
+## Funded Cohort
+
+### Problem 1:
+
+* What problem do you see?
+  * Overwhelming amount of information of Project Catalyst, in particular during onboarding phase \(supposing ongoing\)
+* Why is solving this problem important to the mission of Project Catalyst?
 
 It would lower the entry barrier for newcomers to get involved
 
@@ -112,22 +107,24 @@ Source: [Project Catalyst; introducing our first public fund for Cardano communi
     * \# of people taking on a role
     * Average time \(months/years\) of people being active in roles
     * Well positioned minimum \# of channels used to onboard people
-* Problem 2:
-  * What problem do you see?
-    * Almost non existing “ collaborative layer” to welcome newcomers
-  * Why is solving this problem important to the mission of Project Catalyst?
-    * Human interaction will help people to engage
-  * Can you articulate the gap between the current state and the expected or envisioned state?
-    * Rate 1 \(non existing\) to 10 \(sufficient formats available\): Target 10, rate to date: 2-3; gap: 8 \*subject evaluation
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
-    * \# of new people subscribe to Ideascale
-    * Ratio of engagement vs total people registered in ideascale
-    * \# of registered wallets for voting
-    * \# of proposals
-    * Elevated quality ratings for submitted proposals
-    * \# of people taking on a role
-    * Average time \(months/years\) of people being active in roles
-    * Well positioned relevant \# of facilitators with relevant methods and formats to engage with newcomers and guide them
+
+### Problem 2:
+
+* What problem do you see?
+  * Almost non existing “ collaborative layer” to welcome newcomers
+* Why is solving this problem important to the mission of Project Catalyst?
+  * Human interaction will help people to engage
+* Can you articulate the gap between the current state and the expected or envisioned state?
+  * Rate 1 \(non existing\) to 10 \(sufficient formats available\): Target 10, rate to date: 2-3; gap: 8 \*subject evaluation
+* How might the value of solving this problem be quantified and/or measured? \(optional\)
+  * \# of new people subscribe to Ideascale
+  * Ratio of engagement vs total people registered in ideascale
+  * \# of registered wallets for voting
+  * \# of proposals
+  * Elevated quality ratings for submitted proposals
+  * \# of people taking on a role
+  * Average time \(months/years\) of people being active in roles
+  * Well positioned relevant \# of facilitators with relevant methods and formats to engage with newcomers and guide them
 
 Source of onboarding survey outcomes:
 
