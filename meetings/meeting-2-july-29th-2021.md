@@ -14,6 +14,9 @@ Present \(anticipated\): Victor Corcino, Felix Weber, Juliane Montag, Lauris, Da
 
 * Announcements: 
 * Our Miro board has been updated with problem statements; 
+
+{% embed url="https://miro.com/app/board/o9J\_l7a7K40=/" %}
+
 * Problem statements grouped
 * Same statements not grouped
 * The problem statements in Miro refer to list of problem statements document
