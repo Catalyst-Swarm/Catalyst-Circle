@@ -4,6 +4,7 @@
 * [Catalyst Circle Overview](readme-1.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
+* [Catalyst Prioritized Problems Trello](catalyst-prioritized-problems-trello.md)
 * [Catalyst Circle Tracking](catalyst-circle-tracking.md)
 
 ## Meetings
