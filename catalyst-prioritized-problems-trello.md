@@ -8,7 +8,7 @@ description: Catalyst Prioritized Problems Trello Board
 
 Governance Alive is tracking Prioritized Problems on this Trello Board : 
 
-{% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" %}
+{% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" caption="Catalyst Prioritized Problems Trello Board" %}
 
 ## Catalyst Prioritized Problems - GitHub Project Board
 
