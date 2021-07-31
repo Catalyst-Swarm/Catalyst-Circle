@@ -19,8 +19,14 @@ Present \(anticipated\): Victor Corcino, Felix Weber, Juliane Montag, Lauris, Da
 
 * Problem statements grouped
 * Same statements not grouped
-* The problem statements in Miro refer to list of problem statements document
-* Trello Board created for today’s output: [https://trello.com/b/DRBO6qyF/new-board](https://trello.com/b/DRBO6qyF/new-board) 
+* The problem statements in Miro refer to list of problem statements document 
+
+{% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T\_14AF2vnnAZE/edit" %}
+
+* Trello Board created for today’s output:
+
+{% embed url="https://trello.com/b/DRBO6qyF/new-board" %}
+
 * Next meeting: proposed for August 12  same time
 * Review/accept record of July 12 meeting
 * Accept Content Agenda 
