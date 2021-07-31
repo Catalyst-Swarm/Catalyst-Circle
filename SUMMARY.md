@@ -9,6 +9,7 @@
 ## Meetings
 
 * [Meeting 1 - July 12th, 2021](meetings/meeting-1-july-12th-2021.md)
+* [Meeting 2 - July 29th, 2021](meetings/meeting-2-july-29th-2021.md)
 
 ## Stake Pool Operators
 
