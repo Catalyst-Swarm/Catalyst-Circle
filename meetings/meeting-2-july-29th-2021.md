@@ -4,7 +4,7 @@ description: 'Catalyst Circle Meeting 1 - July 29th, 2021 - Transcription of min
 
 # Meeting 2 - July 29th, 2021
 
-### Proposed Agenda July 29 CC meeting
+### Proposed Agenda July 29 Catalyst Circle meeting
 
 Present \(anticipated\): Victor Corcino, Felix Weber, Juliane Montag, Lauris, David Taylor, Dor Garbash, Dean Jayes, John Buck, Pete Oliver-Krueger
 
