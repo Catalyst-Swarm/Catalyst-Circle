@@ -88,6 +88,6 @@ The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU
 
 **SPOs**: 1\) How to involve “ pure” SPOs in Catalyst Projects 2\) Permanent “undefined “ or “Miscellaneous” challenge bucket for projects which don’ t fit in any of the fund predefined buckets. 3\) \(Extra\) Have opportunity to apply for recurring funding 
 
-**Toolmakers & Maintainers** 1\) Onboarding & Introduction \(more details on meeting notes\) 2\) Trust, Participation, and Reward system\(s\) \(more details on meeting notes\)Message \#🔸ca-circle  
+**Toolmakers & Maintainers** 1\) Onboarding & Introduction \(more details on meeting notes\) 2\) Trust, Participation, and Reward system\(s\) \(more details on meeting notes\)  
 
 
