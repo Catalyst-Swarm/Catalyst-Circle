@@ -66,5 +66,7 @@ description: Activities of the Community Advisor Circle
 
 {% embed url="https://www.youtube.com/watch?v=P10PFuBFVL8" %}
 
-## Update about the last Circle meeting on July 29th
+## 31st July 2021 - Update about Circle Meeting \#2 
+
+
 
