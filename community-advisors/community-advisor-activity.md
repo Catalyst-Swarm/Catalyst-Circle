@@ -82,12 +82,12 @@ Regarding the CAs problem statements, Dor mentioned that IOG has been working fo
 
 The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU](https://bit.ly/3ykgmbU). A summary of the problem statements from the other groups follows below \(CF hasn’t shared their problems statements yet, and Ada Holder’s representant has just been elected and didn’t have time to prepare them yet\). 
 
-Funded proposers cohort: 1\) Overwhelming amount of information of Project CAtalyst, in particular during onboarding phase \(supposing ongoing\) 2\) Almost non existing “ collaborative layer” to welcome newcomers
+**Funded proposers cohort**: 1\) Overwhelming amount of information of Project CAtalyst, in particular during onboarding phase \(supposing ongoing\) 2\) Almost non existing “ collaborative layer” to welcome newcomers
 
-IOG: 1\) How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers? 2\) How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? How do we avoid duplications of effort? How do we generate partnerships? 
+**IOG**: 1\) How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers? 2\) How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? How do we avoid duplications of effort? How do we generate partnerships? 
 
-SPOs: 1\) How to involve “ pure” SPOs in Catalyst Projects 2\) Permanent “undefined “ or “Miscellaneous” challenge bucket for projects which don’ t fit in any of the fund predefined buckets. 3\) \(Extra\) Have opportunity to apply for recurring funding 
+**SPOs**: 1\) How to involve “ pure” SPOs in Catalyst Projects 2\) Permanent “undefined “ or “Miscellaneous” challenge bucket for projects which don’ t fit in any of the fund predefined buckets. 3\) \(Extra\) Have opportunity to apply for recurring funding 
 
-Toolmakers & Maintainers 1\) Onboarding & Introduction \(more details on meeting notes\) 2\) Trust, Participation, and Reward system\(s\) \(more details on meeting notes\)Message \#🔸ca-circle  
+**Toolmakers & Maintainers** 1\) Onboarding & Introduction \(more details on meeting notes\) 2\) Trust, Participation, and Reward system\(s\) \(more details on meeting notes\)Message \#🔸ca-circle  
 
 
