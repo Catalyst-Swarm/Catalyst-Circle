@@ -68,9 +68,9 @@ description: Activities of the Community Advisor Circle
 
 ## 31st July 2021 - Update about Circle Meeting \#2 
 
+![](../.gitbook/assets/2021-08-02.png)
 
-
-
+![Update about Circle Meeting \#2 ](../.gitbook/assets/2021-08-02-1-.png)
 
 ### Transcription
 
