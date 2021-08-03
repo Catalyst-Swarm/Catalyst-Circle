@@ -12,7 +12,7 @@ Catalyst-Circle activities are raised as GitHub Issues and placed in the [Cataly
 
 ![Catalyst-Circle Tracking - Project Board](.gitbook/assets/2021-07-18-3-.png)
 
-Catalyst-Circle activities are grouped by Circle Meeting and Circle Representative. For example the Circle Meeting 1 has the following events ...
+Catalyst-Circle activities are grouped by Circle Meeting and Circle Representative. Below is a list of tracked events ...
 
 ### Meeting 2 - Governance Alive - Tracking
 
