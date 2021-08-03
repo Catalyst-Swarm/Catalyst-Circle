@@ -18,7 +18,11 @@ Catalyst-Circle activities are grouped by Circle Meeting and Circle Representati
 
 Which tracks the activities of Governance Alive,  John Buck \(Facilitator, Governance Alive\) and Pete Oliver-Krueger \(Secretary, Governance Alive\) for Meeting 2.
 
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/10" %}
 
+### Meeting 2 - Community Advisor - Tracking
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/11" %}
 
 ### Meeting 1 - Community Advisor Circle - Tracking
 
