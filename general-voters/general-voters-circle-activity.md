@@ -230,6 +230,10 @@ Action Items:
 
 ### Catalyst Circle Update
 
+#### Dean Jayes - Voters' Representative
+
+#### Nori Nishigaya - Search Committe member
+
 ![](../.gitbook/assets/2021-08-05-1-.png)
 
 ### All ADA Holder's Representative
