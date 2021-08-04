@@ -22,7 +22,7 @@ The Catalyst Circle is filling its last vacant seat for General Voters' \(GV\) r
 
 Link to meeting: [https://us02web.zoom.us/j/745249345?pwd=RVZST0pzeCtWdCtUdFU3NnAzb2o5QT09](https://us02web.zoom.us/j/745249345?pwd=RVZST0pzeCtWdCtUdFU3NnAzb2o5QT09)
 
-## July 26 at 14:00 - 15:30 UTC
+## July 26th, 2021, at 14:00 - 15:30 UTC
 
 Members: Members: Tim Cooper, Dipan Thomas, Keely Jackson, Chow Qwing, Nori Nishigaya, Sean Taylor, Chetas Mehta, Darkhan Kenestegi, Daniel Kennedy, George Lerner, Melanie Russo, John Buck, Pete Oliver-Kreuger
 
@@ -43,7 +43,7 @@ Content Agenda
   * Do a round: do we want to select someone \(if so, who?\) now or arrange to talk more in-depth with the top candidates \(who?\)
 * Closing round \(rate the productivity of the meeting \[1-5\] in chat; verbal: what went well, what could go better next time?\)
 
-## July 22, 2021; 14:00-15:30 UTC.
+## July 22, 2021, 14:00-15:30 UTC.
 
 Members: Tim Cooper, Dipan Thomas, Keely Jackson, Chow Qwing, Nori Nishigaya, Sean Taylor, Chetas Mehta, Darkhan Kenestegi, Daniel Kennedy, Lyndon Joseph, George Lerner, Melanie Russo, John Buck, Pete Oliver-Kreuger
 
@@ -222,5 +222,5 @@ Action Items:
 
 {% embed url="https://discord.com/channels/756943420660121600/867813899817975809/868610176331153478" %}
 
-
+## 4th August, 2021 Town Hall Presentation
 
