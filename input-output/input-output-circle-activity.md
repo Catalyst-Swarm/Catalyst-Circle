@@ -12,7 +12,13 @@ description: Input Output Circle Activity
 
 ### Sense, Signal, Catalyze
 
-![](../.gitbook/assets/2021-08-05-5-.png)
+![Sense, Signal, Catalyze](../.gitbook/assets/2021-08-05-5-.png)
+
+### Trello Board
+
+{% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" %}
+
+
 
 ## iog-circle Discord channel
 
