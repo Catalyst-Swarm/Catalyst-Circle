@@ -232,5 +232,7 @@ Action Items:
 
 ![](../.gitbook/assets/2021-08-05-1-.png)
 
+### All ADA Holder's Representative
+
 ![](../.gitbook/assets/2021-08-05-2-.png)
 
