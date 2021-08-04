@@ -6,7 +6,13 @@ description: Input Output Circle Activity
 
 ## August 5th, 2021 - Town Hall
 
+### Catalyst Circle Update
+
 ![Catalyst Circle Update](../.gitbook/assets/2021-08-05-4-.png)
+
+### Sense, Signal, Catalyze
+
+![](../.gitbook/assets/2021-08-05-5-.png)
 
 ## iog-circle Discord channel
 
