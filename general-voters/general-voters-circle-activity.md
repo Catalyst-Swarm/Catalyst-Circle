@@ -232,7 +232,7 @@ Action Items:
 
 #### Dean Jayes - Voters' Representative
 
-#### Nori Nishigaya - Search Committe member
+#### Nori Nishigaya - Search Committee member
 
 ![](../.gitbook/assets/2021-08-05-1-.png)
 
