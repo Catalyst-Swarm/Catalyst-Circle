@@ -6,7 +6,7 @@ description: General Voters
 
 ## Representative Profile
 
-### TBA
+### Dean Jayes
 
 ### Voted
 
