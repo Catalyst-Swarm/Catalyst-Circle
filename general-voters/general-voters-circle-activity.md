@@ -236,3 +236,7 @@ Action Items:
 
 ![](../.gitbook/assets/2021-08-05-2-.png)
 
+### Where our Search Committee Members are from.
+
+![](../.gitbook/assets/2021-08-05-3-.png)
+
