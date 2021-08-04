@@ -4,6 +4,10 @@ description: 'Catalyst Circle Meeting 2 - July 29th, 2021 - Transcription of min
 
 # Meeting 2 - July 29th, 2021
 
+### Meeting Recording
+
+{% embed url="https://www.youtube.com/watch?v=oHivRmsOD\_o" caption="Meeting \#2 Recording" %}
+
 ### Proposed Agenda July 29 Catalyst Circle meeting
 
 **Attendance**: Victor Corcino, Felix Weber, Juliane Montag, Lauris, Dor Garbash, Dean Jayes, John Buck, Pete Oliver-Krueger, David Taylor \(family emergency\).
