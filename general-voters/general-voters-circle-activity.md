@@ -224,3 +224,11 @@ Action Items:
 
 ## 4th August, 2021 Town Hall Presentation
 
+### General Voter Circle Seat
+
+![](../.gitbook/assets/2021-08-05.png)
+
+### Catalyst Circle Update
+
+![](../.gitbook/assets/2021-08-05-1-.png)
+
