@@ -8,7 +8,7 @@ description: General Voters
 
 ### Dean Jayes
 
-### Committe Voted 
+### Committee Voted 
 
 ## Tracking
 
