@@ -1,5 +1,5 @@
 ---
-description: 'Catalyst Circle Meeting 1 - July 12th, 2021 - Transcription of highlights'
+description: 'Catalyst Circle Meeting 1 - July 12th, 2021'
 ---
 
 # Meeting 1 - July 12th, 2021
