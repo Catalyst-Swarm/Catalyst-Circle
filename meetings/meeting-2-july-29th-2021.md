@@ -1,8 +1,10 @@
 ---
-description: 'Catalyst Circle Meeting 2 - July 29th, 2021 - Transcription of minutes'
+description: 'Catalyst Circle Meeting 2 - July 29th, 2021'
 ---
 
 # Meeting 2 - July 29th, 2021
+
+## Meeting 2 - July 29th, 2021
 
 ### Meeting Recording
 
@@ -94,6 +96,47 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 ### Reference Document
 
 {% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1\_oHfrxTvNT66pkhA0kdEN9a7otY/edit\#" %}
+
+## Agenda items for CC meeting \#3
+
+### Victors suggestions 
+
+* 1 hour: discuss gathered problem statements
+* 1/2 hour: discuss voting process for CCv2
+* 1/2 hour: CC potentially evolution
+* Expectation/Objectives and Roadmap for the next 4 meetings
+
+#### Action Items besides CC meetings \( suggestions \)
+
+* Setting up a dev team to develop a circle-tool 
+* Enable resources to pay dev for developing the circle-tool.
+
+### Lauris suggestions
+
+* 1/2 hour: Enable Ressources to reward CC members
+
+#### Action Items besides CC meetings \( suggestions \)
+
+* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding 
+
+### Julianes & Felix suggestions
+
+* CC Expectation/Objectives and Roadmap 
+
+#### Action Items besides CC meetings \( suggestions\)
+
+* Second Lauris & Victor's action items
+
+### Deans suggestions
+
+* Start initiative – anti-scammer bots on social media platforms, preventing bad user experience for newcomers.
+* Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation \(country specific\)
+* Discuss local community development groups for support. 
+* Too many proposals. Ways to allow all proposals to be reviewed. 
+
+### Reference Document
+
+{% embed url="https://docs.google.com/document/d/1ADPgUiznBeMO9hluJbPWUCophBg2uKnrzBK-DA-LTyY/edit" %}
 
 
 
