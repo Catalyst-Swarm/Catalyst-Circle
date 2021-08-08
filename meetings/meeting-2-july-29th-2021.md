@@ -113,13 +113,13 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 
 ### Lauris suggestions
 
-* 1/2 hour: Enable Ressources to reward CC members
+* 1/2 hour: Enable Resources to reward CC members
 
 #### Action Items besides CC meetings \( suggestions \)
 
-* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding 
+* Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding 
 
-### Julianes & Felix suggestions
+### Julianes suggestions
 
 * CC Expectation/Objectives and Roadmap 
 
@@ -133,6 +133,17 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 * Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation \(country specific\)
 * Discuss local community development groups for support. 
 * Too many proposals. Ways to allow all proposals to be reviewed. 
+
+### Felix suggestions
+
+* CC Expectation/Objectives and Roadmap 
+* Cicle tool & delegate voting power
+
+#### Action Items besides CC meetings \( suggestions \)
+
+* Setting up a dev team to develop a circle-tool 
+* Enable resources to pay dev for developing the circle-tool.
+* Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding 
 
 ### Reference Document
 
