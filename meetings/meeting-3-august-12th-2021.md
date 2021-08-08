@@ -50,3 +50,9 @@ Attendance:  TBA
 
 \(0:45\) End of meeting
 
+#### Reference Document
+
+{% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1\_oHfrxTvNT66pkhA0kdEN9a7otY/edit\#" %}
+
+
+
