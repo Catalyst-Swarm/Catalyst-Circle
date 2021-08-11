@@ -4,9 +4,9 @@ description: Welcome to oversight of the Catalyst Circle
 
 # Oversight of the Catalyst Circle
 
-## Community Oversight
-
 ![](.gitbook/assets/2021-07-15%20%281%29.png)
+
+## Community Oversight
 
 This site documents the activities of the Catalyst Circle a initiative started by [IOHK ](https://iohk.io/)to advance governance in [Project Catalyst](https://cardano.ideascale.com/).
 
