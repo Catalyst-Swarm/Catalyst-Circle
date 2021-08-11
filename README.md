@@ -2,7 +2,7 @@
 description: Welcome to oversight of the Catalyst Circle
 ---
 
-# Welcome
+# Oversight of the Catalyst Circle
 
 ## Community Oversight
 

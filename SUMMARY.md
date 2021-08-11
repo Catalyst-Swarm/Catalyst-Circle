@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Oversight of the Catalyst Circle](README.md)
 * [Catalyst Circle Overview](readme-1.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
