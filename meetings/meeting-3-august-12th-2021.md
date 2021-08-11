@@ -62,3 +62,11 @@ Attendance:  TBA
 
 ![Victor Corcino will facilitate the Catalyst Circle meeting \#3](../.gitbook/assets/2021-08-11.png)
 
+#### Transcription
+
+Catalyst Circle had a pre Agenda meeting on Monday August 9th at 14.30 UTC to discuss the Agenda for the Catalyst Circle meeting \#3 on Thursday August 12th. \( David Taylor - elected member for the Cardano Foundation couldnt join the meeting \)\(edited\) \[2:45 PM\] 
+
+this Meeting was not recorded as we came together to discuss the Agenda only... but well, as each time when humans come together, the conversations always moves a bit off the topic \[2:49 PM\] The Catalyst Circle members agreed, that Victor Corcino will facilitate the Catalyst Circle meeting \#3
+
+
+
