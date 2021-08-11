@@ -54,5 +54,11 @@ Attendance:  TBA
 
 {% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1\_oHfrxTvNT66pkhA0kdEN9a7otY/edit\#" %}
 
+### Outcomes of meeting
 
+#### 11th August, 2021
+
+#### Victor Corcino will facilitate the Catalyst Circle meeting \#3
+
+![Victor Corcino will facilitate the Catalyst Circle meeting \#3](../.gitbook/assets/2021-08-11.png)
 
