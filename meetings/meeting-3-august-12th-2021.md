@@ -331,7 +331,7 @@ Source document :
 
 {% file src="../.gitbook/assets/how-to-prioritizepresent-internal-circle-proposals.pdf" caption="How to prioritize internal circle proposals" %}
 
-DRAFT 
+#### DRAFT 
 
 The Circle exists to fulfill four key goals: 
 
