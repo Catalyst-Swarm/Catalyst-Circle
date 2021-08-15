@@ -335,13 +335,10 @@ Source document :
 
 ### The Circle exists to fulfill four key goals: 
 
-To facilitate communication between the different functional groups 
-
-To provide a heads-up when red lines are crossed within a certain group 
-
-To suggest improvements on plans and processes that shape Project Catalyst 
-
-To define the election process for Circle V2 
+1) To facilitate communication between the different functional groups 
+2) To provide a heads-up when red lines are crossed within a certain group 
+3) To suggest improvements on plans and processes that shape Project Catalyst 
+4) To define the election process for Circle V2 
 
 ### How to prioritize/present internal circle proposals? 
 
@@ -355,35 +352,26 @@ The priorities are measured against the following criteria
 
 ### Criteria
 
- impact - what impact does your proposal have on the wider situation
-
-feasibility - how feasible is the proposal over the short, middle or long term 
-
+- impact - what impact does your proposal have on the wider situation
+- feasibility - how feasible is the proposal over the short, middle or long term 
 ○ - budget - what size budget is required to execute the proposal
-
-auditability - how thoroughly can the proposal be tracked for progress once adopted 
-
-adjustability - as this environment is changing constantly and rapidly , proposals have to be flexible to stay in a “just in time” relation
-
-inclusivity - How many groups can define their needs and interest within the submitted proposal 
+- auditability - how thoroughly can the proposal be tracked for progress once adopted 
+- adjustability - as this environment is changing constantly and rapidly , proposals have to be flexible to stay in a “just in time” relation
+- inclusivity - How many groups can define their needs and interest within the submitted proposal 
 
 ### Preparation 
 
 Formulate the proposal in collaboration with other CC Members and/or the wider community
 
-Submit a proposal [https://app.consenz.co.il/document/CC-meeting-agenda/welcome](https://app.consenz.co.il/document/CC-meeting-agenda/welcome) 
-
-Refine a proposal [https://app.consenz.co.il/document/CC-meeting-agenda/welcome](https://app.consenz.co.il/document/CC-meeting-agenda/welcome) 
-
-Finalize a proposal \( google- doc, Word or other collaborative services \) 
+- Submit a proposal [https://app.consenz.co.il/document/CC-meeting-agenda/welcome](https://app.consenz.co.il/document/CC-meeting-agenda/welcome) 
+- Refine a proposal [https://app.consenz.co.il/document/CC-meeting-agenda/welcome](https://app.consenz.co.il/document/CC-meeting-agenda/welcome) 
+- Finalize a proposal \( google- doc, Word or other collaborative services \) 
 
 ### Presentation 
 
-Present your proposal in the CC meeting or beside, in a short, and understandable format. 
-
-Simplify and shorten your final presentation
-
-Make sure that everyone in the CC has access to your presentation.
+- Present your proposal in the CC meeting or beside, in a short, and understandable format. 
+- Simplify and shorten your final presentation
+- Make sure that everyone in the CC has access to your presentation.
 
 
 
