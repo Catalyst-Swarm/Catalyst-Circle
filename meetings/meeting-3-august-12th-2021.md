@@ -419,3 +419,15 @@ Provide feedback on the effectiveness of the Circle
 
 ![](../.gitbook/assets/2021-08-15-1-.png)
 
+## Agenda Items for CC meeting \#4 
+
+### Thursday, August 26th. at 17.00 UTC Agenda items for CC meeting \#3 - 120min 
+
+Presenting the reward for CC participants \(item 1 excel\) - Lauris and Juliane - 10 min
+
+Present idea for a framework for collaboration \(item 5 excel\) - Victor, Lauris and Juliane - 10 min
+
+Present actions for Onboarding - Victor, Lauris, David, Dean - 10 min
+
+Announce Recruitment for a Challenge team- rapid funding challenge \(TH - August 18th\) Break out rooms for problem discussion - All - 1h Discuss voting process for CCv2 - 10 min Fill out feedback form about the meeting productivity - 5 min"
+
