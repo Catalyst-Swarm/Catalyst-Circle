@@ -165,9 +165,9 @@ How to prioritize/present internal circle proposals? - Felix + Dean
 
 Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
 
-Suggested Agenda Items for CC meeting \#3
+### Suggested Agenda Items for CC meeting \#3
 
-Thursday, August 12th. at 17.00 UTC
+### Thursday, August 12th. at 17.00 UTC
 
 ### Agenda items for CC meeting \#3 - 120min
 
