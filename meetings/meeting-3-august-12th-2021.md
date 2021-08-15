@@ -72,6 +72,10 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 ## August 12th, 2021 - Meeting 3
 
+Source document :
+
+{% file src="../.gitbook/assets/cc-agenda-suggestions.pdf" caption="CC Agenda suggestions " %}
+
 Agenda Items for CC meeting \#3 Thursday, August 12th. at 17.00 UTC 
 
 ### Agenda items for CC meeting \#3 - 120min
