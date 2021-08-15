@@ -73,6 +73,10 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 
 
+### Miro Board :
+
+{% embed url="https://miro.com/app/board/o9J\_l2\_GDfY=/" %}
+
 ### Source document :
 
 {% file src="../.gitbook/assets/cc-agenda-suggestions.pdf" caption="CC Agenda suggestions " %}
