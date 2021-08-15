@@ -415,3 +415,5 @@ Attend training sessions focused on inclusive and lean startup leadership techni
 
 Provide feedback on the effectiveness of the Circle
 
+![](../.gitbook/assets/2021-08-15.png)
+
