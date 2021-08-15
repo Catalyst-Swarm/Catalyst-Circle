@@ -325,5 +325,13 @@ funding \(C\)
 
 2x \(C\)Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
 
+## DRAFT The Circle exists to fulfill four key goals:
+
+Source document :
+
+{% file src="../.gitbook/assets/how-to-prioritizepresent-internal-circle-proposals.pdf" caption="How to prioritize internal circle proposals" %}
+
+
+
 
 
