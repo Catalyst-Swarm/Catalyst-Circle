@@ -69,7 +69,11 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 ## August 12th, 2021 - Meeting 3
 
-Source document :
+### Meeting recording
+
+
+
+### Source document :
 
 {% file src="../.gitbook/assets/cc-agenda-suggestions.pdf" caption="CC Agenda suggestions " %}
 
