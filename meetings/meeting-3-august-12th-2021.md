@@ -70,3 +70,225 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 
 
+## August 12th, 2021 - Meeting 3
+
+Agenda Items for CC meeting \#3 Thursday, August 12th. at 17.00 UTC 
+
+### Agenda items for CC meeting \#3 - 120min
+
+* Check-in - 7m
+* Discuss gathered problem statements - 1.10H - Victor
+
+### Dor on TG:
+
+“Hey, I'm happy to participate in all discussions, but if I had to prioritize I would pick these 3
+
+because I think I can have the most value add there:
+
+\(1\) Onboarding
+
+\(2\) Faster funds
+
+\(3\) CA Reputation
+
+And of course, the problems sensed by IOG.
+
+Can other share, say 3 problem they want to contribute to, that are not the problems they
+
+brought on the board?“
+
+Dor: \(1\) Onboarding
+
+\(2\) Faster funds
+
+\(3\) CA Reputation
+
+Dean: \(1\) Onboarding
+
+\(2\) Trust/Participation
+
+\(3\) IOHK/Catalyst independence
+
+Felix: \(1\) IOG Statements
+
+\(2\) SPO integration into Catalyst
+
+\(3\) CA Reputation
+
+Victor: \(1\) Onboarding & Introduction
+
+\(2\) Faster Funds
+
+\(3\) Improve cooperation / avoid duplicated effort between IOHK and
+
+Community
+
+Lauris:\(1\) Onboarding & Introduction & Awareness
+
+\(2\) SPO integration into Catalyst
+
+\(2\) Faster Funds
+
+Juliane:\(1\)
+
+\(2\)
+
+\(3\)
+
+David: \(1\)
+
+\(2\)
+
+\(3\)
+
+Onboarding & Introduction & Awareness
+
+Faster Funds
+
+CA Reputation
+
+SPO integration into Catalyst
+
+* CC potential evolution - 30m - Juli + Lauris.
+* Circle Funding - What resourcing is needed to make the Circle more
+
+  effective? Requirement, next steps, who does what -
+
+* How to prioritize/present internal circle proposals? - Felix + Dean
+* Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
+
+  Suggested Agenda Items for CC meeting \#3
+
+  Thursday, August 12th. at 17.00 UTC
+
+  Agenda items for CC meeting \#3 - 120min
+
+* Check-in - 7m
+* Discuss gathered problem statements - 1.10H - Victor
+* CC potential evolution - 30m - Juli + Lauris.
+* Circle Funding - What resourcing is needed to make the Circle more
+
+  effective? Requirement, next steps, who does what -
+
+* How to prioritize/present internal circle proposals? - Felix + Dean
+* Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
+
+  To prioritize:
+
+* Discuss voting process for CCv2
+* Resource commitment
+* Time sensitive issues
+* Alternative funding
+* Decision power
+* Training \( transition \)
+
+  Action Items besides CC meetings \( suggestions \)
+
+* Setting up a dev team to develop a circle-tool
+* Enable resources to pay dev for developing the circle-tool.
+* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+
+  Action Items besides CC meetings \( suggestions \)
+
+* Setting up a dev team to develop a circle-tool
+* Enable resources to pay dev for developing the circle-tool.
+
+  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+
+  Agenda items for CC meeting \#3 \( Lauris suggestions \)
+
+* Resources available for CC to fix the issues we are identifying \( changed \)
+* Enable Resources to reward CC members \(next round\)
+
+  Action Items besides CC meetings \( suggestions \)
+
+* Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding
+
+  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+
+  Agenda items for CC meeting \#3 \( Julianes suggestion\)
+
+* CC Expectation/Objectives and Roadmap
+
+  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+
+  Agenda items for CC meeting \#3 \(Deans suggestions\)
+
+* Start initiative – anti-scammer bots on social media platforms, preventing bad user
+
+  experience for newcomers.
+
+* Create a dedicated website for Investor Relations and legislation news. Lobbyists for future
+
+  legislation \(country specific\)
+
+  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+
+  Agenda items for CC meeting \#3 \(Felix suggestions\)
+
+* CC Expectation/Objectives and Roadmap
+* Circle tool & delegate voting power
+
+  Action Items besides CC meetings \( suggestions \)
+
+* Setting up a dev team to develop a circle-tool
+* Enable resources to pay dev for developing the circle-tool.
+* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+
+  Summary- suggested Agenda Items
+
+  Dean, Felix, Juliane, Lauris, Victor
+
+* discuss gathered problem statements \(C\)
+* discuss voting process for CCv2 \(B\)
+* CC potentially evolution \(A\)
+* Expectation/Objectives and Roadmap for the next 4 meetings \(A\)
+* Enable Resources to reward CC members \(D\)
+* CC Expectation/Objectives and Roadmap \(A\)
+* Start initiative – anti-scammer bots on social media platforms, preventing bad user
+
+  experience for newcomers. \(E\)
+
+* Create a dedicated website for Investor Relations and legislation news. Lobbyists for
+
+  future legislation \(country specific\) \(F\)
+
+* CC Expectation/Objectives and Roadmap \(A\)
+* Circle tool & delegate voting power \(B\)
+
+  4x \(A\) CC potentially evolution/ CC Expectation/Objectives and Roadmap
+
+  2x \(B\) discuss voting process for CCv2/ Circle tool & delegate voting power
+
+  1x \(C\) discuss gathered problem statements
+
+  1x \(D\) Enable Resources to reward CC members
+
+  1x \(E\) Start initiative – anti-scammer bots on social media platforms, preventing bad user
+
+  experience for newcomers.
+
+  1x \(F\) Create a dedicated website for Investor Relations and legislation news. Lobbyists for
+
+  future legislation \(country specific\)
+
+  Summary- suggested Action Items
+
+* Setting up a dev team to develop a circle-tool \(A\)
+* Enable resources to pay dev for developing the circle-tool. \(B\)
+* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst
+* funding \(C\)
+* Setting up a dev team to develop a circle-tool \(A\)
+* Enable resources to pay dev for developing the circle-tool.\(B\)
+* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst
+
+  funding \(C\)
+
+  2x \(A\) Setting up a dev team to develop a circle-tool
+
+  2x \(B\) Enable resources to pay dev for developing the circle-tool.
+
+  2x \(C\)Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+
+
+
