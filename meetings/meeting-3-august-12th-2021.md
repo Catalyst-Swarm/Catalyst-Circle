@@ -453,5 +453,5 @@ Break out rooms for problem discussion - All - 1h
 
 Discuss voting process for CCv2 - 10 min 
 
-Fill out feedback form about the meeting productivity - 5 min"
+Fill out feedback form about the meeting productivity - 5 min
 
