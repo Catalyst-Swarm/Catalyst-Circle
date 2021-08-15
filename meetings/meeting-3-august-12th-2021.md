@@ -81,9 +81,19 @@ Agenda Items for CC meeting \#3 Thursday, August 12th. at 17.00 UTC
 
 ### Dor on TG:
 
-“Hey, I'm happy to participate in all discussions, but if I had to prioritize I would pick these 3
+“_Hey, I'm happy to participate in all discussions, but if I had to prioritize I would pick these 3_
 
-because I think I can have the most value add there:
+_because I think I can have the most value add there:_
+
+_\(1\) Onboarding_
+
+_\(2\) Faster funds_
+
+_\(3\) CA Reputation_
+
+_And of course, the problems sensed by IOG. Can other share, say 3 problem they want to contribute to, that are not the problems they brought on the board?_“
+
+**Dor:** 
 
 \(1\) Onboarding
 
@@ -91,204 +101,225 @@ because I think I can have the most value add there:
 
 \(3\) CA Reputation
 
-And of course, the problems sensed by IOG.
+#### Dean: 
 
-Can other share, say 3 problem they want to contribute to, that are not the problems they
-
-brought on the board?“
-
-Dor: \(1\) Onboarding
-
-\(2\) Faster funds
-
-\(3\) CA Reputation
-
-Dean: \(1\) Onboarding
+\(1\) Onboarding
 
 \(2\) Trust/Participation
 
 \(3\) IOHK/Catalyst independence
 
-Felix: \(1\) IOG Statements
+#### Felix: 
+
+\(1\) IOG Statements
 
 \(2\) SPO integration into Catalyst
 
 \(3\) CA Reputation
 
-Victor: \(1\) Onboarding & Introduction
+#### Victor: 
+
+\(1\) Onboarding & Introduction
 
 \(2\) Faster Funds
 
-\(3\) Improve cooperation / avoid duplicated effort between IOHK and
+\(3\) Improve cooperation / avoid duplicated effort between IOHK and ****Community
 
-Community
+#### Lauris:
 
-Lauris:\(1\) Onboarding & Introduction & Awareness
+\(1\) Onboarding & Introduction & Awareness
 
 \(2\) SPO integration into Catalyst
 
 \(2\) Faster Funds
 
-Juliane:\(1\)
+#### Juliane:
+
+\(1\)
 
 \(2\)
 
 \(3\)
 
-David: \(1\)
+#### David: 
+
+\(1\)
 
 \(2\)
 
 \(3\)
 
-Onboarding & Introduction & Awareness
+### On-boarding & Introduction & Awareness
 
-Faster Funds
+### Faster Funds
 
-CA Reputation
+### CA Reputation
 
-SPO integration into Catalyst
+### SPO integration into Catalyst
 
-* CC potential evolution - 30m - Juli + Lauris.
-* Circle Funding - What resourcing is needed to make the Circle more
+CC potential evolution - 30m - Juli + Lauris.
 
-  effective? Requirement, next steps, who does what -
+Circle Funding - What resourcing is needed to make the Circle more effective? Requirement, next steps, who does what -
 
-* How to prioritize/present internal circle proposals? - Felix + Dean
-* Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
+How to prioritize/present internal circle proposals? - Felix + Dean
 
-  Suggested Agenda Items for CC meeting \#3
+Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
 
-  Thursday, August 12th. at 17.00 UTC
+Suggested Agenda Items for CC meeting \#3
 
-  Agenda items for CC meeting \#3 - 120min
+Thursday, August 12th. at 17.00 UTC
 
-* Check-in - 7m
-* Discuss gathered problem statements - 1.10H - Victor
-* CC potential evolution - 30m - Juli + Lauris.
-* Circle Funding - What resourcing is needed to make the Circle more
+### Agenda items for CC meeting \#3 - 120min
 
-  effective? Requirement, next steps, who does what -
+Check-in - 7m
 
-* How to prioritize/present internal circle proposals? - Felix + Dean
-* Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
+Discuss gathered problem statements - 1.10H - Victor
 
-  To prioritize:
+CC potential evolution - 30m - Juli + Lauris.
 
-* Discuss voting process for CCv2
-* Resource commitment
-* Time sensitive issues
-* Alternative funding
-* Decision power
-* Training \( transition \)
+Circle Funding - What resourcing is needed to make the Circle more effective? Requirement, next steps, who does what -
 
-  Action Items besides CC meetings \( suggestions \)
+How to prioritize/present internal circle proposals? - Felix + Dean
 
-* Setting up a dev team to develop a circle-tool
-* Enable resources to pay dev for developing the circle-tool.
-* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
 
-  Action Items besides CC meetings \( suggestions \)
+To prioritize:
 
-* Setting up a dev team to develop a circle-tool
-* Enable resources to pay dev for developing the circle-tool.
+Discuss voting process for CCv2
 
-  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+Resource commitment
 
-  Agenda items for CC meeting \#3 \( Lauris suggestions \)
+Time sensitive issues
 
-* Resources available for CC to fix the issues we are identifying \( changed \)
-* Enable Resources to reward CC members \(next round\)
+Alternative funding
 
-  Action Items besides CC meetings \( suggestions \)
+Decision power
 
-* Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding
+Training \( transition \)
 
-  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+Action Items besides CC meetings \( suggestions \)
 
-  Agenda items for CC meeting \#3 \( Julianes suggestion\)
+Setting up a dev team to develop a circle-tool
 
-* CC Expectation/Objectives and Roadmap
+Enable resources to pay dev for developing the circle-tool.
 
-  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
 
-  Agenda items for CC meeting \#3 \(Deans suggestions\)
+Action Items besides CC meetings \( suggestions \)
 
-* Start initiative – anti-scammer bots on social media platforms, preventing bad user
+Setting up a dev team to develop a circle-tool
 
-  experience for newcomers.
+Enable resources to pay dev for developing the circle-tool.
 
-* Create a dedicated website for Investor Relations and legislation news. Lobbyists for future
+&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-  legislation \(country specific\)
+Agenda items for CC meeting \#3 \( Lauris suggestions \)
 
-  &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+Resources available for CC to fix the issues we are identifying \( changed \)
 
-  Agenda items for CC meeting \#3 \(Felix suggestions\)
+Enable Resources to reward CC members \(next round\)
 
-* CC Expectation/Objectives and Roadmap
-* Circle tool & delegate voting power
+Action Items besides CC meetings \( suggestions \)
 
-  Action Items besides CC meetings \( suggestions \)
+Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding
 
-* Setting up a dev team to develop a circle-tool
-* Enable resources to pay dev for developing the circle-tool.
-* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-  Summary- suggested Agenda Items
+Agenda items for CC meeting \#3 \( Julianes suggestion\)
 
-  Dean, Felix, Juliane, Lauris, Victor
+CC Expectation/Objectives and Roadmap
 
-* discuss gathered problem statements \(C\)
-* discuss voting process for CCv2 \(B\)
-* CC potentially evolution \(A\)
-* Expectation/Objectives and Roadmap for the next 4 meetings \(A\)
-* Enable Resources to reward CC members \(D\)
-* CC Expectation/Objectives and Roadmap \(A\)
-* Start initiative – anti-scammer bots on social media platforms, preventing bad user
+&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-  experience for newcomers. \(E\)
+Agenda items for CC meeting \#3 \(Deans suggestions\)
 
-* Create a dedicated website for Investor Relations and legislation news. Lobbyists for
+Start initiative – anti-scammer bots on social media platforms, preventing bad user
 
-  future legislation \(country specific\) \(F\)
+experience for newcomers.
 
-* CC Expectation/Objectives and Roadmap \(A\)
-* Circle tool & delegate voting power \(B\)
+Create a dedicated website for Investor Relations and legislation news. Lobbyists for future
 
-  4x \(A\) CC potentially evolution/ CC Expectation/Objectives and Roadmap
+legislation \(country specific\)
 
-  2x \(B\) discuss voting process for CCv2/ Circle tool & delegate voting power
+&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-  1x \(C\) discuss gathered problem statements
+Agenda items for CC meeting \#3 \(Felix suggestions\)
 
-  1x \(D\) Enable Resources to reward CC members
+CC Expectation/Objectives and Roadmap
 
-  1x \(E\) Start initiative – anti-scammer bots on social media platforms, preventing bad user
+Circle tool & delegate voting power
 
-  experience for newcomers.
+Action Items besides CC meetings \( suggestions \)
 
-  1x \(F\) Create a dedicated website for Investor Relations and legislation news. Lobbyists for
+Setting up a dev team to develop a circle-tool
 
-  future legislation \(country specific\)
+Enable resources to pay dev for developing the circle-tool.
 
-  Summary- suggested Action Items
+Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
 
-* Setting up a dev team to develop a circle-tool \(A\)
-* Enable resources to pay dev for developing the circle-tool. \(B\)
-* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst
-* funding \(C\)
-* Setting up a dev team to develop a circle-tool \(A\)
-* Enable resources to pay dev for developing the circle-tool.\(B\)
-* Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst
+### Summary- suggested Agenda Items
 
-  funding \(C\)
+Dean, Felix, Juliane, Lauris, Victor
 
-  2x \(A\) Setting up a dev team to develop a circle-tool
+discuss gathered problem statements \(C\)
 
-  2x \(B\) Enable resources to pay dev for developing the circle-tool.
+discuss voting process for CCv2 \(B\)
 
-  2x \(C\)Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+CC potentially evolution \(A\)
+
+Expectation/Objectives and Roadmap for the next 4 meetings \(A\)
+
+Enable Resources to reward CC members \(D\)
+
+CC Expectation/Objectives and Roadmap \(A\)
+
+Start initiative – anti-scammer bots on social media platforms, preventing bad user experience for newcomers. \(E\)
+
+Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation \(country specific\) \(F\)
+
+CC Expectation/Objectives and Roadmap \(A\)
+
+Circle tool & delegate voting power \(B\)
+
+4x \(A\) CC potentially evolution/ CC Expectation/Objectives and Roadmap
+
+2x \(B\) discuss voting process for CCv2/ Circle tool & delegate voting power
+
+1x \(C\) discuss gathered problem statements
+
+1x \(D\) Enable Resources to reward CC members
+
+1x \(E\) Start initiative – anti-scammer bots on social media platforms, preventing bad user
+
+experience for newcomers.
+
+1x \(F\) Create a dedicated website for Investor Relations and legislation news. Lobbyists for
+
+future legislation \(country specific\)
+
+### Summary- suggested Action Items
+
+Setting up a dev team to develop a circle-tool \(A\)
+
+Enable resources to pay dev for developing the circle-tool. \(B\)
+
+Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst
+
+funding \(C\)
+
+Setting up a dev team to develop a circle-tool \(A\)
+
+Enable resources to pay dev for developing the circle-tool.\(B\)
+
+Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst
+
+funding \(C\)
+
+2x \(A\) Setting up a dev team to develop a circle-tool
+
+2x \(B\) Enable resources to pay dev for developing the circle-tool.
+
+2x \(C\)Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
 
 
 
