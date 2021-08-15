@@ -375,7 +375,7 @@ Sheet1
 
 The Circle that monitors the current state and future plans regarding governance in Catalyst. It detects and discusses concerns, objections and opportunities arising within the Catalyst ecosystem. The Circle might By recording meetings and capturing actions in a backlog accessible to all, this activity will provide a view into the hopes, wants, needs, and concerns of the community within Project Catalyst. The Circle is also responsible 
 
-The Circle exists to fulfill four key goals: 
+### The Circle exists to fulfill four key goals: 
 
 To facilitate communication between the different functional groups 
 
@@ -383,5 +383,7 @@ To provide a heads-up when red lines are crossed within a certain group
 
 To suggest improvements on plans and processes that shape Project Catalyst 
 
-To define the election process for Circle V2 Member duties and responsibilities Like Project Catalyst itself, the Circle will also evolve over time. Initially, elected members will serve 3-month terms, and elections will follow to continue improving and iterating the process. For elected members, Each member of the Circle should: Represent the community that selected them Exercise their own best judgement about matters that come before the Circle Familiarise other members with the projects, activities, aims, hopes, and concerns of their communities Periodically take the opportunity to introduce policy proposals into the Circle’s agenda for consideration Inform their communities about initiatives of the Circle Each member also has the responsibility to: Regularly attend meetings every two weeks Maintain an agile backlog list to track issues between meetings Review and comment on agenda issues ahead of time Maintain awareness of the interests and concerns of their community Disseminate the Circle’s outputs transparently and accessibly Learn and practice effective meeting procedures Produce an election protocol document for the next elections Attend training sessions focused on inclusive and lean startup leadership techniques Provide feedback on the effectiveness of the Circle
+To define the election process for Circle V2 
+
+Member duties and responsibilities Like Project Catalyst itself, the Circle will also evolve over time. Initially, elected members will serve 3-month terms, and elections will follow to continue improving and iterating the process. For elected members, Each member of the Circle should: Represent the community that selected them Exercise their own best judgement about matters that come before the Circle Familiarise other members with the projects, activities, aims, hopes, and concerns of their communities Periodically take the opportunity to introduce policy proposals into the Circle’s agenda for consideration Inform their communities about initiatives of the Circle Each member also has the responsibility to: Regularly attend meetings every two weeks Maintain an agile backlog list to track issues between meetings Review and comment on agenda issues ahead of time Maintain awareness of the interests and concerns of their community Disseminate the Circle’s outputs transparently and accessibly Learn and practice effective meeting procedures Produce an election protocol document for the next elections Attend training sessions focused on inclusive and lean startup leadership techniques Provide feedback on the effectiveness of the Circle
 
