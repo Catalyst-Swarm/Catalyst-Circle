@@ -429,5 +429,11 @@ Present idea for a framework for collaboration \(item 5 excel\) - Victor, Lauris
 
 Present actions for Onboarding - Victor, Lauris, David, Dean - 10 min
 
-Announce Recruitment for a Challenge team- rapid funding challenge \(TH - August 18th\) Break out rooms for problem discussion - All - 1h Discuss voting process for CCv2 - 10 min Fill out feedback form about the meeting productivity - 5 min"
+Announce Recruitment for a Challenge team- rapid funding challenge \(TH - August 18th\) 
+
+Break out rooms for problem discussion - All - 1h 
+
+Discuss voting process for CCv2 - 10 min 
+
+Fill out feedback form about the meeting productivity - 5 min"
 
