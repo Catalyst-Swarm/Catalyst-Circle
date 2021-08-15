@@ -214,7 +214,7 @@ Enable resources to pay dev for developing the circle-tool.
 
 &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-### Agenda items for CC meeting \#3 \( Lauris suggestions \)
+### Lauris suggestions
 
 Resources available for CC to fix the issues we are identifying \( changed \)
 
@@ -226,13 +226,13 @@ Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst fu
 
 &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-### Agenda items for CC meeting \#3 \( Julianes suggestion\)
+### Julianes suggestion
 
 CC Expectation/Objectives and Roadmap
 
 &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-### Agenda items for CC meeting \#3 \(Deans suggestions\)
+### Deans suggestions
 
 Start initiative – anti-scammer bots on social media platforms, preventing bad user
 
@@ -244,7 +244,7 @@ legislation \(country specific\)
 
 &lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
 
-### Agenda items for CC meeting \#3 \(Felix suggestions\)
+### Felix suggestions
 
 CC Expectation/Objectives and Roadmap
 
