@@ -333,7 +333,7 @@ Source document :
 
 #### DRAFT 
 
-The Circle exists to fulfill four key goals: 
+### The Circle exists to fulfill four key goals: 
 
 To facilitate communication between the different functional groups 
 
