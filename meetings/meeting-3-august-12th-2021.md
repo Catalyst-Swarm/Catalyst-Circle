@@ -419,6 +419,12 @@ Provide feedback on the effectiveness of the Circle
 
 ![](../.gitbook/assets/2021-08-15-1-.png)
 
+## Faster fund discussion briefing
+
+![](../.gitbook/assets/2021-08-15-2-.png)
+
+![](../.gitbook/assets/2021-08-15-3-.png)
+
 ## Agenda Items for CC meeting \#4 
 
 ### Thursday, August 26th. at 17.00 UTC Agenda items for CC meeting \#3 - 120min 
