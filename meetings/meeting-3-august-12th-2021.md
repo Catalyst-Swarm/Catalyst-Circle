@@ -77,6 +77,8 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 {% embed url="https://miro.com/app/board/o9J\_l2\_GDfY=/" %}
 
+### High Resolution Image of Miro Board
+
 ![High Resolution Image of Miro Board](../.gitbook/assets/catalyst_circle_meeting_notes.jpg)
 
 ### Source document :
