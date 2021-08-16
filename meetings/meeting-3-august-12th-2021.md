@@ -71,7 +71,7 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 ### Meeting recording
 
-
+{% embed url="https://www.youtube.com/watch?v=UyGLR1eA7Qc" %}
 
 ### Miro Board :
 
