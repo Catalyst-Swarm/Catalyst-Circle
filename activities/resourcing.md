@@ -10,6 +10,10 @@ description: Resourcing Catalyst Circle
 
 At the Catalyst Town Hall of 25th August 2021, Catalyst Circle posted a slide "for an meeting facilitator to support the Catalyst Circle in the meetings".
 
+## Tracking
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/19" %}
+
 ## Transcription
 
 The Catalyst Circle is looking for an meeting facilitator to support the Catalyst Circle in the meetings
