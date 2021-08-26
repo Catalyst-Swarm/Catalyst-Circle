@@ -58,3 +58,7 @@
 
 * [Commentary on Catalyst Circle](commentary/untitled.md)
 
+## Activities
+
+* [Untitled](activities/untitled.md)
+
