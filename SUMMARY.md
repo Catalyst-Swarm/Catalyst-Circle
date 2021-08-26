@@ -5,6 +5,10 @@
 * [Catalyst Circle Overview](readme-1.md)
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
+
+
+## Activities
+
 * [Catalyst Prioritized Problems Trello](catalyst-prioritized-problems-trello.md)
 * [MVP Lists of Prioritized Problems](mvp-lists-of-prioritized-problems.md)
 * [Catalyst Circle Tracking](catalyst-circle-tracking.md)
@@ -58,7 +62,4 @@
 
 * [Commentary on Catalyst Circle](commentary/untitled.md)
 
-## Activities
-
-* [Untitled](activities/untitled.md)
 
