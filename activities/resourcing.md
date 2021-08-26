@@ -8,7 +8,7 @@ description: Resourcing Catalyst Circle
 
 ![](../.gitbook/assets/2021-08-26-8-.png)
 
-At the Catalyst Town Hall of 25th August Catalyst Circle posted a slide "for an meeting facilitator to support the Catalyst Circle in the meetings".
+At the Catalyst Town Hall of 25th August 2021, Catalyst Circle posted a slide "for an meeting facilitator to support the Catalyst Circle in the meetings".
 
 ## Transcription
 
