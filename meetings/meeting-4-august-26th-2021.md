@@ -8,3 +8,9 @@ description: Meeting 4 - August 26th 2021
 
 ![](../.gitbook/assets/2021-08-26-15-.png)
 
+## Issue : QA-DAO is no longer able to track the content of Catalyst Circle Meetings
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20" %}
+
+
+
