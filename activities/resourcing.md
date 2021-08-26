@@ -28,9 +28,7 @@ capturing action items
 
 
 
-
-
-
+![](../.gitbook/assets/2021-08-26-12-.png)
 
 ## Transcription
 
