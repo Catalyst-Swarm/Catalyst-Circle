@@ -6,12 +6,12 @@
 * [Catalyst Circle Media](catalyst-circle-media.md)
 * [Catalyst Circle Election Results](catalyst-circle-election-results.md)
 
-
 ## Activities
 
-* [Catalyst Prioritized Problems Trello](catalyst-prioritized-problems-trello.md)
-* [MVP Lists of Prioritized Problems](mvp-lists-of-prioritized-problems.md)
-* [Catalyst Circle Tracking](catalyst-circle-tracking.md)
+* [Catalyst Prioritized Problems Trello](activities/catalyst-prioritized-problems-trello.md)
+* [Resourcing](activities/resourcing.md)
+* [MVP Lists of Prioritized Problems](activities/mvp-lists-of-prioritized-problems.md)
+* [Catalyst Circle Tracking](activities/catalyst-circle-tracking.md)
 
 ## Meetings
 
@@ -61,5 +61,4 @@
 ## Commentary
 
 * [Commentary on Catalyst Circle](commentary/untitled.md)
-
 
