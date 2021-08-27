@@ -100,6 +100,10 @@ The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU
 
 {% embed url="https://miro.com/app/board/o9J\_l0XdBwM=/" %}
 
+### Slides - Victor Corcino
+
+{% embed url="https://docs.google.com/presentation/d/1bATB7RCNKIuiKr6HalxKIOPh8lBQF9cnoY4z1OQbhX4/edit\#slide=id.p" %}
+
 ### Tracking - CA & vCA Rewarding Model - Project Catalyst Fund 6
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/21" %}
