@@ -96,6 +96,10 @@ The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU
 
 {% embed url="https://www.youtube.com/watch?v=0ZKWagnFGZA" %}
 
+### Miro Board Notes
+
+{% embed url="https://miro.com/app/board/o9J\_l0XdBwM=/" %}
+
 ### Tracking - CA & vCA Rewarding Model - Project Catalyst Fund 6
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/21" %}
