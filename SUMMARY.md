@@ -60,5 +60,5 @@
 
 ## Commentary
 
-* [Commentary on Catalyst Circle](commentary/untitled.md)
+* [Commentary on Catalyst Circle](commentary/commentary-on-catalyst-circle.md)
 
