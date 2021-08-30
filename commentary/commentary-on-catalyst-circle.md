@@ -128,7 +128,19 @@ Well, alternative is. no note taking at all. And again to me the document where 
 
 ![](../.gitbook/assets/2021-08-30-15-.png)
 
+#### stephen.rowan — 08/27/2021 
 
+Not about the value of what we do Tevo - these comments are more directed at Circle. 
+
+#### stephen.rowan — 08/27/2021 
+
+I will have another look at the materials and try to figure out a way to transcribe that is not so time-consuming. 
+
+#### Tevo Saks — 08/27/2021 
+
+Ok, missunderstood you, though you had problem that I took notes on Miro, but you were actually trying to point out the problem that Circle work is hard to transcribe.
+
+Another thing, the voting I created is still related about the Miro itself and the note taking process. This feedback can be used to analyze if this kind of method has any value at this stage.
 
 
 
