@@ -54,6 +54,12 @@ In my opinion the mindmap is nice to look at and see how deep the discussions go
 
 But yeah, if nobody else sees value in it, then I will stop doing it. Also the meeting notes and agenda topics are captured in the Miro board as files \(direct link to sources what were open\).
 
+#### Ideascale context
+
+{% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880694041984000030" %}
+
+
+
 
 
 
