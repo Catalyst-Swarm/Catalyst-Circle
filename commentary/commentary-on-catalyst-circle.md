@@ -70,7 +70,29 @@ But yeah, if nobody else sees value in it, then I will stop doing it. Also the m
 
 {% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880694041984000030" %}
 
+#### stephen.rowan — 08/27/2021
 
+So you get to decide the key elements for report ?
+
+![](../.gitbook/assets/2021-08-30-12-.png)
+
+#### Tevo Saks — 08/27/2021 
+
+If by key elements you mean takeaways what i got, ideas I saw surfacing and topics i wanted to highlight. 
+
+Then this is up to the intepreter \(note taker\) As for now, I saw the main note takers were Victor and me. 
+
+My report is the Miro board, so I kinda did decide what are key elements to me, but there are several notes from Pete too. It was living open board. If you make the report in GitBook, its the same way. You decide what you put there. 
+
+I don't know which is the right way to go about this: a\) nodboy takes notes, b\) 1 person takes notes, c\) Everyone who want take notes. 
+
+I would prefer the last version, to have highest chance to extract most relevant information out of video. Everything what overlaps between notes, is kinda more highlighted. It shows that this part is commonly understood and people are aligned. 
+
+Notes what do not overlap, are something what might be worth looking into, off the meeting, but also visually show the edges of where the discussions are sitting in.
+
+#### Discord Context
+
+{% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880720278655762433" %}
 
 
 
