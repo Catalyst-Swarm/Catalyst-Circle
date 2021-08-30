@@ -176,5 +176,23 @@ Yes I do have a proposal in draft - F6: Distributed decision making - Oversight 
 
 @stephen.rowan If possible, I would suggest that you come up to the next Catalyst Circle to present/advise on how to format note taking to enable clear tracking and auditability of our process. We will be releasing a request for secretary to the circle soon, and maybe you would like to candidate yourself as well :slight\_smile:
 
+![](../.gitbook/assets/2021-08-30-19-.png)
+
+#### FelixWeber — 08/27/2021 
+
+could we speed up the process for the secretary? As stephen is engaging in CC since the beginning, it would be quite fair to just give him the role he picked by himself already and make it official? \( if stephen would like to \). 
+
+#### stephen.rowan — 08/27/2021 
+
+@Dor \(Aleph\) - I will be happy to come to the next Catalyst Circle and discuss/present clear tracking and auditability of the Circle process. I could fulfil a secretary role as long as I can continue to conduct oversight activities. I was also going to include a commentary part to my F6 proposal \(e.g. equivalent to political commentary\) - posting about Circle on Reddit, Social Media etc. This might conflict with a secretary role ? 
+
+#### stephen.rowan — 08/27/2021 
+
+I appreciate your support Felix - but I believe that all roles should follow a due process - so I would prefer to apply in an open process. 
+
+#### FelixWeber — 08/28/2021 
+
+fair enough good soul :slight\_smile:
+
 
 
