@@ -170,5 +170,11 @@ Well, I see problem here. Would that fit into one of your existing proposals? To
 
 Yes I do have a proposal in draft - F6: Distributed decision making - Oversight of Catalyst Circle - [https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088](https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088). What I will do is try to work with the current situation and record the additional time it takes me to transcribe content to an open format. I will use the new timeframes to budget my proposal.
 
+![](../.gitbook/assets/2021-08-30-18-.png)
+
+#### Dor \(Aleph\) — 08/27/2021 
+
+@stephen.rowan If possible, I would suggest that you come up to the next Catalyst Circle to present/advise on how to format note taking to enable clear tracking and auditability of our process. We will be releasing a request for secretary to the circle soon, and maybe you would like to candidate yourself as well :slight\_smile:
+
 
 
