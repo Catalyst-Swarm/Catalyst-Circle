@@ -142,5 +142,23 @@ Ok, missunderstood you, though you had problem that I took notes on Miro, but yo
 
 Another thing, the voting I created is still related about the Miro itself and the note taking process. This feedback can be used to analyze if this kind of method has any value at this stage.
 
+#### stephen.rowan — 08/27/2021 
+
+Its more about having what was said and decided in a plain text format that can be version controlled and saved to an open-source location. In this way I can track Circle decisions and discussions. In short, the decision-making process. So that Circle is accountable for its decisions and how it reaches its decisions is transparent and accessible. Accessibility is the key here - because Circle wants to be a “human sensor array” that " outputs a transparent view into the hopes, wants, needs and concerns of the community" - I hold it to this standard. One of Circles main responsibilities is that "output" - e.g., communicating to as wide an audience as possible. How Circle decides to experiment internally itself with its decision-making process should be balanced with how effectively it communicates externally what it does.
+
+![](../.gitbook/assets/2021-08-30-16-.png)
+
+#### Tevo Saks — 08/27/2021 
+
+I think the transparency and impact of decision making is more clear when you look at the Trello board. And again action decision were recorded in the Open Agenda document. \(or as the purple stickies on miro, although i might not got all of them\) So in my opinion your concerns are addressed in a way that they are accessible and transparent 
+
+#### stephen.rowan — 08/27/2021 
+
+I disagree. I think Circle is failing to communicate what it does to the general user. 
+
+#### stephen.rowan — 08/27/2021 
+
+What is palatable to a general user is a plain text overview of what Circle has decided/discussed. With the option to drill down without having to access or have knowledge of proprietary systems.
+
 
 
