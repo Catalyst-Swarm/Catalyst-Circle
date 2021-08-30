@@ -94,6 +94,16 @@ Notes what do not overlap, are something what might be worth looking into, off t
 
 {% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880720278655762433" %}
 
+#### stephen.rowan — 08/27/2021 
+
+It is only open to people who use Miro and because it is "living" there is no version control - which means no history of decisions. No history of decisions means no accountability.
+
+![](../.gitbook/assets/2021-08-30-13-.png)
+
+#### Tevo Saks — 08/27/2021 
+
+There is version control, but thats perhaps not that simple to follow. But dont get stuck in thinking when I talk about taking notes, everyone gotta use Miro board. This is just my choice of the tool.
+
 
 
 
