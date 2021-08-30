@@ -28,3 +28,13 @@ Dear Circle. For Circle Meeting 3, rather than 10 minutes to import a google doc
 
 6\) Circle should take time at each meeting to consider how you summarise and explain what you do to the community. These are my impressions after documenting and tracking Circle from the beginning. I understand that everything we do is a work in progress and I offer these comments in that spirit.
 
+### 26th August 2021
+
+![](../.gitbook/assets/2021-08-30-9-.png)
+
+#### omdesign — 08/26/2021 
+
+Thank you so much for the honest appraisal and insights! Considering that these conversations are so difficult to document, and how much gets lost, what if we leverage the small percentage of people who listen/view the recording to update the ‘rough draft’ of notes provided by the group as a summary of their meeting? It doesn’t seem reasonable to expect a mortal to be supreme archivist and these ‘experimental’ conversations have a lot of nuance! There could be an incentive to adding updates to the main meeting note. Having a much more clear starting point and articulated endpoint would help the meetings I’ve been around. That said, I really do appreciate that the nebulous meetings are also embraced from time to time!
+
+
+
