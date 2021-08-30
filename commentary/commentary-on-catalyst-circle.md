@@ -54,8 +54,6 @@ Issue : QA-DAO is no longer able to track the content of Catalyst Circle Meeting
 
 {% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880550847740780564" %}
 
-
-
 ### 27th August 2021
 
 ![](../.gitbook/assets/2021-08-30-11-.png)
