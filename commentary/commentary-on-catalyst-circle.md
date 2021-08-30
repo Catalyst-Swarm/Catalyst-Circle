@@ -118,6 +118,16 @@ I do not decide what I put in the GitBook - I transcribe everything that can be 
 
 Poll is something personal I want to know. If nobody finds value on these notes on Miro then, I will focus my time somewhere else where I do have value Gotta understand this Miro thing is totally experimental and not a mandatory piece at all. There was idea floating around that circle looking for more note takers and I was happy to show up. With the condition that I use Miro
 
+#### stephen.rowan — 08/27/2021 
+
+When it is being used as the main form of note taking - it is, in effect, mandatory to the general user. 
+
+#### Tevo Saks — 08/27/2021 
+
+Well, alternative is. no note taking at all. And again to me the document where the agenda lives, did collect several notes from meeting.
+
+![](../.gitbook/assets/2021-08-30-15-.png)
+
 
 
 
