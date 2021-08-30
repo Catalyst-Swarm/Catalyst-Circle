@@ -160,5 +160,15 @@ I disagree. I think Circle is failing to communicate what it does to the general
 
 What is palatable to a general user is a plain text overview of what Circle has decided/discussed. With the option to drill down without having to access or have knowledge of proprietary systems.
 
+![](../.gitbook/assets/2021-08-30-17-.png)
+
+#### Tevo Saks — 08/27/2021 
+
+Well, I see problem here. Would that fit into one of your existing proposals? To get funding to solve this issue as like audit requirements or something 
+
+#### stephen.rowan — 08/27/2021 
+
+Yes I do have a proposal in draft - F6: Distributed decision making - Oversight of Catalyst Circle - [https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088](https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088). What I will do is try to work with the current situation and record the additional time it takes me to transcribe content to an open format. I will use the new timeframes to budget my proposal.
+
 
 
