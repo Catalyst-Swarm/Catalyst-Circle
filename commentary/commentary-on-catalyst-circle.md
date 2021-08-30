@@ -28,6 +28,10 @@ Dear Circle. For Circle Meeting 3, rather than 10 minutes to import a google doc
 
 6\) Circle should take time at each meeting to consider how you summarise and explain what you do to the community. These are my impressions after documenting and tracking Circle from the beginning. I understand that everything we do is a work in progress and I offer these comments in that spirit.
 
+#### Ideascale context
+
+{% embed url="https://discord.com/channels/832894680290951179/857887059913211904/876799738769457162" %}
+
 ### 26th August 2021
 
 ![](../.gitbook/assets/2021-08-30-9-.png)
