@@ -40,11 +40,21 @@ Dear Circle. For Circle Meeting 3, rather than 10 minutes to import a google doc
 
 Thank you so much for the honest appraisal and insights! Considering that these conversations are so difficult to document, and how much gets lost, what if we leverage the small percentage of people who listen/view the recording to update the ‘rough draft’ of notes provided by the group as a summary of their meeting? It doesn’t seem reasonable to expect a mortal to be supreme archivist and these ‘experimental’ conversations have a lot of nuance! There could be an incentive to adding updates to the main meeting note. Having a much more clear starting point and articulated endpoint would help the meetings I’ve been around. That said, I really do appreciate that the nebulous meetings are also embraced from time to time!
 
+#### Discord context
+
+{% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880463439485624380" %}
+
 #### stephen.rowan — 08/26/2021
 
 Issue : QA-DAO is no longer able to track the content of Catalyst Circle Meetings \( [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20) \)
 
 ![](../.gitbook/assets/2021-08-30-10-.png)
+
+#### Discord context
+
+{% embed url="https://discord.com/channels/832894680290951179/857887059913211904/880550847740780564" %}
+
+
 
 ### 27th August 2021
 
