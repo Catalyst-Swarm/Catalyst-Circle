@@ -104,6 +104,20 @@ It is only open to people who use Miro and because it is "living" there is no ve
 
 There is version control, but thats perhaps not that simple to follow. But dont get stuck in thinking when I talk about taking notes, everyone gotta use Miro board. This is just my choice of the tool.
 
+#### stephen.rowan — 08/27/2021 
+
+What constituency is this poll addressing? Is it representative of everyone Circle is trying to reach?
+
+![](../.gitbook/assets/2021-08-30-14-.png)
+
+#### stephen.rowan — 08/27/2021 
+
+I do not decide what I put in the GitBook - I transcribe everything that can be transcribed. 
+
+#### Tevo Saks — 08/27/2021 
+
+Poll is something personal I want to know. If nobody finds value on these notes on Miro then, I will focus my time somewhere else where I do have value Gotta understand this Miro thing is totally experimental and not a mandatory piece at all. There was idea floating around that circle looking for more note takers and I was happy to show up. With the condition that I use Miro
+
 
 
 
