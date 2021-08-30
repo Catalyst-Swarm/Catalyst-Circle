@@ -36,5 +36,25 @@ Dear Circle. For Circle Meeting 3, rather than 10 minutes to import a google doc
 
 Thank you so much for the honest appraisal and insights! Considering that these conversations are so difficult to document, and how much gets lost, what if we leverage the small percentage of people who listen/view the recording to update the ‘rough draft’ of notes provided by the group as a summary of their meeting? It doesn’t seem reasonable to expect a mortal to be supreme archivist and these ‘experimental’ conversations have a lot of nuance! There could be an incentive to adding updates to the main meeting note. Having a much more clear starting point and articulated endpoint would help the meetings I’ve been around. That said, I really do appreciate that the nebulous meetings are also embraced from time to time!
 
+#### stephen.rowan — 08/26/2021
+
+Issue : QA-DAO is no longer able to track the content of Catalyst Circle Meetings \( [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20) \)
+
+![](../.gitbook/assets/2021-08-30-10-.png)
+
+### 27th August 2021
+
+![](../.gitbook/assets/2021-08-30-11-.png)
+
+#### Tevo Saks — 08/27/2021 
+
+They still write down stuff on the agenda document. I think the actions are the key elements needed for report.
+
+In my opinion the mindmap is nice to look at and see how deep the discussions go. You can also quickly see what values go down a deep rabbit hole, what end with no results or what end with lot of actions. This is something you wont see in top down text format.
+
+But yeah, if nobody else sees value in it, then I will stop doing it. Also the meeting notes and agenda topics are captured in the Miro board as files \(direct link to sources what were open\).
+
+
+
 
 
