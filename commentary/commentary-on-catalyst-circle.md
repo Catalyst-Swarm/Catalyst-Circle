@@ -194,5 +194,37 @@ I appreciate your support Felix - but I believe that all roles should follow a d
 
 fair enough good soul :slight\_smile:
 
+### 30th August 2021
+
+![](../.gitbook/assets/2021-08-31.png)
+
+#### Randall — Yesterday at 5:12 PM 
+
+I wonder if the difference in personal valuation of Miro may have to do with people who benefit from visual/spacial representations and the relationships between notions in the topic-space :man\_raising\_hand: , vs people for whom that presentation creates confusion instead of meaning. I could understand it being super hard to extract notes from Miro, for someone whose mental style is a mismatch 
+
+#### Randall — Yesterday at 5:48 PM 
+
+conversely, plain-text notes are pain-text notes for some of us \(haha\) 
+
+#### FelixWeber — Yesterday at 6:08 PM 
+
+what you would do next to an secretary role shouldnt be decided nor judged in any way by the CC.. even when you would comment critics on the circle :slight\_smile: \( my point of view \) 
+
+#### FelixWeber — Yesterday at 6:10 PM 
+
+Mhh, i think Miro board is great as an interactive tool, but might fail as a documentation tool ? so keeping the meeting notes and minutes on a simple doc might have more value.. what do you think? 
+
+#### Randall — Yesterday at 6:14 PM 
+
+I think "both" would have more value. 
+
+### 31st August 2021
+
+#### stephen.rowan — Today at 11:13 AM 
+
+I agree that this is not necessarily an either/or issue. The major issue from a communications perspective is accessibility, portability, and open source \(the source is not restricted to a proprietary platform\). There is an outward experimentation requirement: to reach as many people as possible on as many platforms as possible \(we sometimes call this onboarding\). And plain text allows for this. Text is not the interface but the medium of exchange of information. This contrasts and can be in conflict with inward experimentation on a specific platform that serves a group's own work \(e.g. Trello, Miro etc\). I see a lot of inward experimentation - but not so much outward experimentation.
+
+
+
 
 
