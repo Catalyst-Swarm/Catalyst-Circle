@@ -224,6 +224,8 @@ I think "both" would have more value.
 
 I agree that this is not necessarily an either/or issue. The major issue from a communications perspective is accessibility, portability, and open source \(the source is not restricted to a proprietary platform\). There is an outward experimentation requirement: to reach as many people as possible on as many platforms as possible \(we sometimes call this onboarding\). And plain text allows for this. Text is not the interface but the medium of exchange of information. This contrasts and can be in conflict with inward experimentation on a specific platform that serves a group's own work \(e.g. Trello, Miro etc\). I see a lot of inward experimentation - but not so much outward experimentation.
 
+![](../.gitbook/assets/2021-08-31-1-.png)
+
 
 
 
