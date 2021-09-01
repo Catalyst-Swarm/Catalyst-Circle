@@ -16,7 +16,9 @@ Further details in [Catalyst Prioritized Problems Trello](https://catalyst-swarm
 
 ### New Rewarding Model for CA’s & vCA’s.
 
+{% hint style="info" %}
 Further details in [CA & vCA Rewarding Model - Project Catalyst Fund 6](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6)
+{% endhint %}
 
 ### CC established a team to submit a “RAPID FUNDING MECHANISM” Challenge in Fund 6. The Team will steward the Challenge in Fund 7.
 
@@ -26,7 +28,9 @@ Further details in [CA & vCA Rewarding Model - Project Catalyst Fund 6](https://
 
 ### CC recruiting facilitator & secretary
 
+{% hint style="info" %}
 Further details in [Catalyst Circle is looking for an secretary](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/resourcing#catalyst-circle-is-looking-for-an-secretary)
+{% endhint %}
 
 ### Catalyst Circle Budget Proposal Presentation - by Lauris Stiglics 
 
