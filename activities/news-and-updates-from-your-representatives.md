@@ -16,6 +16,16 @@ Further details in [Catalyst Prioritized Problems Trello](https://catalyst-swarm
 
 Further details in [CA & vCA Rewarding Model - Project Catalyst Fund 6](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6)
 
+### CC established a team to submit a “RAPID FUNDING MECHANISM” Challenge in Fund 6. The Team will steward the Challenge in Fund 7.
+
+### Creation of a ‘Miscellaneous Challenge’
+
+### CCv1 working on CCv2 budget
+
+### CC recruiting facilitator & secretary
+
+Further details in
+
 
 
 ![](../.gitbook/assets/2021-09-01-8-.png)
