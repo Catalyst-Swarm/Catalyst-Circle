@@ -62,6 +62,12 @@ Your Catalyst Circle
 
 At the Catalyst Town Hall of 1st September 2021, Catalyst Circle posted a slide "Catalyst Circle is looking for an secretary".
 
+### Tracking
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/22" %}
+
+### Google Form Application
+
 ![](../.gitbook/assets/2021-09-01-2-.png)
 
 ![](../.gitbook/assets/2021-09-01-3-.png)
