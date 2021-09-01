@@ -56,6 +56,10 @@ If you are ready to begin this journey, complete the application form to join th
 
 Your Catalyst Circle
 
+## Catalyst Circle is looking for an secretary
+
+![](../.gitbook/assets/2021-09-01-5-.png)
+
 
 
 
