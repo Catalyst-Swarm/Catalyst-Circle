@@ -10,7 +10,7 @@
 
 {% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" caption="Trello Board" %}
 
-Further details in Catalyst Prioritized Problems Trello
+Further details in [Catalyst Prioritized Problems Trello](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/catalyst-prioritized-problems-trello)
 
 ### New Rewarding Model for CA’s & vCA’s.
 
