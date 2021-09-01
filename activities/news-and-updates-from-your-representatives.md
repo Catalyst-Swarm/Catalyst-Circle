@@ -42,6 +42,10 @@ Breakout Room in the After Town Hall
 
 ![](../.gitbook/assets/2021-09-01-5-.png)
 
+{% hint style="info" %}
+Further details in [Catalyst Circle is looking for an secretary](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/resourcing#catalyst-circle-is-looking-for-an-secretary)
+{% endhint %}
+
 ### Source
 
 {% embed url="https://docs.google.com/presentation/d/1Xi8COzkjn7vINiWNnSRay0as2nyrHNRLkng\_oh8JYzU/edit\#slide=id.gea48315289\_1\_1044" %}
