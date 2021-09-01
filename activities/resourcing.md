@@ -10,11 +10,11 @@ description: Resourcing Catalyst Circle
 
 At the Catalyst Town Hall of 25th August 2021, Catalyst Circle posted a slide "for an meeting facilitator to support the Catalyst Circle in the meetings".
 
-## Tracking
+### Tracking
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/19" %}
 
-## Transcription
+### Transcription
 
 The Catalyst Circle is looking for an meeting facilitator to support the Catalyst Circle in the meetings
 
@@ -28,7 +28,7 @@ steering focus and activity
 
 capturing action items
 
-## Google Form Application
+### Google Form Application
 
 ![](../.gitbook/assets/2021-08-26-11-.png)
 
@@ -36,7 +36,7 @@ capturing action items
 
 ![](../.gitbook/assets/2021-08-26-12-.png)
 
-## Transcription
+### Transcription
 
 Catalyst Circle Facilitator Hello there
 
@@ -55,6 +55,10 @@ Further, you should be able to
 If you are ready to begin this journey, complete the application form to join the Challenge Team and be welcomed as a candidate. We are looking forward to meeting you!
 
 Your Catalyst Circle
+
+
+
+
 
 
 
