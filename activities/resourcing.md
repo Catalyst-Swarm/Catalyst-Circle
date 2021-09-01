@@ -60,7 +60,11 @@ Your Catalyst Circle
 
 ![](../.gitbook/assets/2021-09-01-5-.png)
 
+At the Catalyst Town Hall of 1st September 2021, Catalyst Circle posted a slide "Catalyst Circle is looking for an secretary".
 
+![](../.gitbook/assets/2021-09-01-2-.png)
+
+![](../.gitbook/assets/2021-09-01-3-.png)
 
 
 
