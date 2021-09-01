@@ -26,7 +26,13 @@ Further details in [CA & vCA Rewarding Model - Project Catalyst Fund 6](https://
 
 Further details in [Catalyst Circle is looking for an secretary](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/resourcing#catalyst-circle-is-looking-for-an-secretary)
 
+### Catalyst Circle Budget Proposal Presentation - by Lauris Stiglics 
+
+Breakout Room in the After Town Hall
+
 ![](../.gitbook/assets/2021-09-01-8-.png)
+
+
 
 ![](../.gitbook/assets/2021-09-01-5-.png)
 
