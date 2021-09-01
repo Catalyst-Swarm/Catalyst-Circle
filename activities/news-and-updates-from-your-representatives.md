@@ -24,9 +24,7 @@ Further details in [CA & vCA Rewarding Model - Project Catalyst Fund 6](https://
 
 ### CC recruiting facilitator & secretary
 
-Further details in
-
-
+Further details in [Catalyst Circle is looking for an secretary](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/resourcing#catalyst-circle-is-looking-for-an-secretary)
 
 ![](../.gitbook/assets/2021-09-01-8-.png)
 
