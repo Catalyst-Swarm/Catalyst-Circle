@@ -74,6 +74,23 @@ At the Catalyst Town Hall of 1st September 2021, Catalyst Circle posted a slide 
 
 ![](../.gitbook/assets/2021-09-01-4-.png)
 
+### Transcription
+
+Catalyst Circle - Secretary Hello there
+
+The Catalyst Circle is looking for an secretary to support and help the Catalyst Circle in his functionality. What we would expect for you:
+
+* being present in all the Catalyst Circle meetings, which take place each two weeks
+* Coordinate CC Meeting agendas with the meeting facilitator.
+* Set up and record CC meetings on Zoom with the meeting facilitator
+* Take notes and record actions from Catalyst Circle meetings.
+* Document & Track CC actions \(e.g by git, Trello\).
+* Publish CC meeting recordings on IOHK YouTube
+
+If you are ready to begin this journey, complete the application form to join the Challenge Team and be welcomed as a candidate. We are looking forward to meeting you!
+
+Your Catalyst Circle
+
 
 
 
