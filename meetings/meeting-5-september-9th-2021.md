@@ -35,8 +35,6 @@ Thursday, September 9th. at 17.00 UTC
 
 * Related problem statement: \(CAs\) CAs/vCAs rewarding system
 
-\*\*\*\*
-
 ### **\(00:30\) CA Outreach & Onboarding campaign - Victor and Felix - 10 min**
 
 * Related problem statement: \(CAs\) Risk of not enough CAs/vCAs
