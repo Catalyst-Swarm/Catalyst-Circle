@@ -62,8 +62,6 @@ Thursday, September 9th. at 17.00 UTC
 
 ## **New topics for discussion \(5 min\)**
 
-\*\*\*\*
-
 ### **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
 ### **Next CC priority and update Trello \(10 min\)**
