@@ -25,13 +25,13 @@ Thursday, September 9th. at 17.00 UTC
 
 ## Updates on CC actions \(35 min\) -&gt; Update Trello Board Accordingly
 
-**\(00:15\) Trello board guideline - Dor and Victor - 10 min**
+### **\(00:15\) Trello board guideline - Dor and Victor - 10 min**
 
 * [https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)
 * Trello board : [https://docs.google.com/document/d/1OPqz62i6qNzhIHhjnTUjN3MJDavG6VOAoahVs5uZmEI/edit\#heading=h.4o4a23sgthcs](https://docs.google.com/document/d/1OPqz62i6qNzhIHhjnTUjN3MJDavG6VOAoahVs5uZmEI/edit#heading=h.4o4a23sgthcs)
 * Related problem statement: \(CC\) Tracking problems and actions
 
-  **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
+### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
 
 * Related problem statement: \(CAs\) CAs/vCAs rewarding system
 
