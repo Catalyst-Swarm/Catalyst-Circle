@@ -60,21 +60,21 @@ Thursday, September 9th. at 17.00 UTC
 
 \*\*\*\*
 
-* **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
+### **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
-  **Next CC priority and update Trello \(10 min\)**
+### **Next CC priority and update Trello \(10 min\)**
 
-  **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until CC meeting 5 - All - 10 min**
+### **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until CC meeting 5 - All - 10 min**
 
-  **Open Conversation \(20 min\)**
+## **Open Conversation \(20 min\)**
 
-  **\(01:25\) Open Conversation. Topics:**
+### **\(01:25\) Open Conversation. Topics:**
 
 * CC and lessons learned.
 
-  **Meeting feedback and buffer time \(20 min\)**
+## **Meeting feedback and buffer time \(20 min\)**
 
-  **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
+### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
 
-  **\(01:50\) Buffer time / Open dialogue - All - 10 min**
+### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
 
