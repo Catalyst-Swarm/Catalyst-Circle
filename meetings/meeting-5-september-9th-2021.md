@@ -4,14 +4,12 @@ description: 'Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC'
 
 # Meeting 5 - September 9th 2021
 
-## Agenda
+## Agenda Items for CC meeting 5
+
+Thursday, September 9th. at 17.00 UTC
 
 * Previous Meeting - 
 * Next Meeting - 
-
-### Agenda Items for CC meeting 5
-
-Thursday, September 9th. at 17.00 UTC
 
 #### Topic template:
 
@@ -19,13 +17,13 @@ Thursday, September 9th. at 17.00 UTC
 
 #### Planned agenda items for CC meeting 5 - 120 min
 
-#### Opening, Announcements and Expectations Alignment \(10 min\)
+## Opening, Announcements and Expectations Alignment \(10 min\)
 
 **\(00:00\) Check-in - All - 5 min**
 
 **\(00:05\) Revise agenda and align expectations - All - 5 min**
 
-#### Updates on CC actions \(35 min\) -&gt; Update Trello Board Accordingly
+## Updates on CC actions \(35 min\) -&gt; Update Trello Board Accordingly
 
 **\(00:15\) Trello board guideline - Dor and Victor - 10 min**
 
@@ -58,9 +56,11 @@ Thursday, September 9th. at 17.00 UTC
 
 * Related problem statement: Improve Awareness
 
-  **New topics for discussion \(5 min\)**
+## **New topics for discussion \(5 min\)**
 
-  **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
+\*\*\*\*
+
+* **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
   **Next CC priority and update Trello \(10 min\)**
 
