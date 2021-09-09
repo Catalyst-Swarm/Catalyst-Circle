@@ -11,6 +11,10 @@ Thursday, September 9th. at 17.00 UTC
 * Previous Meeting - 
 * Next Meeting - 
 
+#### GitHub : Catalyst Circle Meeting 5 - Agenda - Thursday, 9th September 2021 at 17.00 UTC
+
+[https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/23](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/23)
+
 #### Topic template:
 
 \(Topic start time\) Topic of discussion/Objective - Leader\(s\) - Duration in minutes
