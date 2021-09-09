@@ -4,12 +4,10 @@ description: 'Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC'
 
 # Meeting 5 - September 9th 2021
 
-### Agenda
+## Agenda
 
-* Previous Meeting - [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/18](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/18)
+* Previous Meeting - 
 * Next Meeting - 
-
-### Catalyst Circle Tracking
 
 ### Agenda Items for CC meeting 5
 
