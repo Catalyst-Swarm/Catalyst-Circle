@@ -35,24 +35,26 @@ Thursday, September 9th. at 17.00 UTC
 
 * Related problem statement: \(CAs\) CAs/vCAs rewarding system
 
-  **\(00:30\) CA Outreach & Onboarding campaign - Victor and Felix - 10 min**
+\*\*\*\*
+
+### **\(00:30\) CA Outreach & Onboarding campaign - Victor and Felix - 10 min**
 
 * Related problem statement: \(CAs\) Risk of not enough CAs/vCAs
 * Related problem statement: \(T&M/ FP\) Catalyst Onboarding
 
-  **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
+### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
 
 * Related problem statement: \(CC\) Faster funding for Catalyst projects
 
-  **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
+### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
 
 * Related problem statement: N/A
 
-  **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
+### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
 
 * Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
 
-  **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
+### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
 
 * Related problem statement: Improve Awareness
 
