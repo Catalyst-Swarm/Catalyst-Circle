@@ -378,7 +378,7 @@ Thursday, September 9th. at 17.00 UTC
 
 * \(Topic start time\) Topic of discussion/Objective - Leader\(s\) - Duration in minutes
 
-### Planned agenda items for CC meeting \#5 - 120 min ✔️ 
+### Planned agenda items for CC meeting \#5 - 120 min ✔️
 
 ### Opening, Announcements and Expectations Alignment \(10 min\) ✔️
 
