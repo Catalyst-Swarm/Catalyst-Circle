@@ -114,21 +114,21 @@ Dor clarified that :
 | 800 | CA’s in Telegram \(TG\) channel. |
 | 100 | registered for on-boarding workshops. |
 
-Felix commented: That as a first draft for a pipeline the outreach and on-boarding campaign was satisfactory and can be improved over time. We could use the same scheme or approach for outreach and onboarding of Veteran Community Advisors \(VCAS\) and Challenge teams.
+**Felix commented:** That as a first draft for a pipeline the outreach and on-boarding campaign was satisfactory and can be improved over time. We could use the same scheme or approach for outreach and onboarding of Veteran Community Advisors \(VCAS\) and Challenge teams.
 
-Dor commented: Can we use this approach for Challenge Teams and replicate for Fund 7? How do we avoid the next Circle being in emergency mode?
+**Dor commented:** Can we use this approach for Challenge Teams and replicate for Fund 7? How do we avoid the next Circle being in emergency mode?
 
-Julianne commented : Circle should define a baseline of responsibilities that are crucial to outreach and on-boarding to complement the processes the IOHK team uses.
+**Julianne commented :** Circle should define a baseline of responsibilities that are crucial to outreach and on-boarding to complement the processes the IOHK team uses.
 
-Dor commented: We have our internal logistic machine, but this should be decentralised. Starting with shared responsibility then handing over.
+**Dor commented:** We have our internal logistic machine, but this should be decentralised. Starting with shared responsibility then handing over.
 
-Julianne commented: How do we do this? We need to agree on what we need to do.
+**Julianne commented:** How do we do this? We need to agree on what we need to do.
 
-Felix commented: There will be new people for Circle Version 2 \(v2\) - platforms need to be in place to support them.
+**Felix commented:** There will be new people for Circle Version 2 \(v2\) - platforms need to be in place to support them.
 
-Dor commented: IOHK are preparing a public dashboard with the intention to inform people of risks & opportunities. At this point in our playbook, we are at the “insight stage” \(analogy with proposal process\) and critical actions still need to be taken. We need to be more transparent about our engagement data and work on a timetable for handover of responsibilities to the community. A retrospective week would be valuable to gain perspective on what are we \(Circle\) doing together
+**Dor commented:** IOHK are preparing a public dashboard with the intention to inform people of risks & opportunities. At this point in our playbook, we are at the “insight stage” \(analogy with proposal process\) and critical actions still need to be taken. We need to be more transparent about our engagement data and work on a timetable for handover of responsibilities to the community. A retrospective week would be valuable to gain perspective on what are we \(Circle\) doing together
 
-John Buck commented: Having staggered terms on the Catalyst Circle \(CC\) would help carry forward the group memory. For example, only three people rotate off in November 2021. Then Trello board projects can be handed off to the new members \(maybe with overlap with the former members\).
+**John Buck commented:** Having staggered terms on the Catalyst Circle \(CC\) would help carry forward the group memory. For example, only three people rotate off in November 2021. Then Trello board projects can be handed off to the new members \(maybe with overlap with the former members\).
 
 ### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
 
@@ -136,11 +136,11 @@ John Buck commented: Having staggered terms on the Catalyst Circle \(CC\) would 
 Related problem statement: \(CC\) Faster funding for Catalyst projects
 {% endhint %}
 
-Felix reported on the Challenge team - Rapid Funding Challenge and suggested that faster more focused mechanisms are needed for the community. The challenge team went off in one direction and this was not the result that Circle were expecting,
+**Felix reported on the Challenge team** - Rapid Funding Challenge and suggested that faster more focused mechanisms are needed for the community. The challenge team went off in one direction and this was not the result that Circle were expecting,
 
-Dor commented: It has been a busy month for people in the network. Who was the problem owner - Felix or Lauris ? Circle needs problem ownership, to fillet problems and work together with challenge teams. The challenge team was supposed to target specific issues and there is now a risk of losing focus by shifting onto other wider problems. Nevertheless, this is a great pilot, let us see if it gets voted and has an impact. We need to help the Challenge team to connect to people on the ground - we are just a mirror of the people.
+**Dor commented:** It has been a busy month for people in the network. Who was the problem owner - Felix or Lauris ? Circle needs problem ownership, to fillet problems and work together with challenge teams. The challenge team was supposed to target specific issues and there is now a risk of losing focus by shifting onto other wider problems. Nevertheless, this is a great pilot, let us see if it gets voted and has an impact. We need to help the Challenge team to connect to people on the ground - we are just a mirror of the people.
 
-Victor commented : Because of the amount of work, we have had similar issues in the last 2 weeks.
+**Victor commented :** Because of the amount of work, we have had similar issues in the last 2 weeks.
 
 ### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
 
