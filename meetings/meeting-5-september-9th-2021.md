@@ -82,7 +82,7 @@ To conclude there is a Circle Reset where the community decides whether to conti
 
 **Juliane Montag commented** : “Would appreciate sometime to look at the Trello Guidelines to give an appreciation.”
 
-#### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
+### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
 
 {% hint style="info" %}
 Related problem statement: \(CAs\) CAs/vCAs rewarding system
@@ -92,7 +92,7 @@ A brief update from Victor. Keeping track of comments made in response to the ne
 
 In regard to the Trello Board, this problem is now in Prototyping \(In Progress\) and we can change it to Validation \(Reporting\) once outcomes and consequences become clear.
 
-#### **\(00:30\) Community Advisor \(CA\) Outreach & Onboarding campaign - Victor and Felix - 10 min**
+### **\(00:30\) Community Advisor \(CA\) Outreach & Onboarding campaign - Victor and Felix - 10 min**
 
 {% hint style="info" %}
 Related problem statement: \(CAs\) Risk of not enough CAs/vCAs
@@ -130,7 +130,7 @@ Dor commented: IOHK are preparing a public dashboard with the intention to infor
 
 John Buck commented: Having staggered terms on the Catalyst Circle \(CC\) would help carry forward the group memory. For example, only three people rotate off in November 2021. Then Trello board projects can be handed off to the new members \(maybe with overlap with the former members\).
 
-#### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
+### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
 
 {% hint style="info" %}
 Related problem statement: \(CC\) Faster funding for Catalyst projects
@@ -142,7 +142,7 @@ Dor commented: It has been a busy month for people in the network. Who was the p
 
 Victor commented : Because of the amount of work, we have had similar issues in the last 2 weeks.
 
-#### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
+### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
 
 {% hint style="info" %}
 Related problem statement: N/A
@@ -152,7 +152,7 @@ Felix reported that: In the last couple of weeks people have participated in the
 
 Dor commented: This could be an issue when it comes to funding. Circle needs more focus on roles and responsibilities.
 
-#### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
+### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
 
 {% hint style="info" %}
 Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
@@ -164,7 +164,7 @@ Julianne commented: The experiment failed, and it is good to talk about this. Bo
 
 Lauris commented: We need to work on miscommunication and who is in charge of a specific task.
 
-#### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
+### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
 
 {% hint style="info" %}
 Related problem statement: Improve Awareness
@@ -172,15 +172,15 @@ Related problem statement: Improve Awareness
 
 Not discussed.
 
-#### New topics for discussion \(5 min\)
+### New topics for discussion \(5 min\)
 
-**\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
+### **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
 Not discussed. Postpone to next meeting.
 
-#### Next Catalyst Circle \(CC\) priority and update Trello \(10 min\)
+### Next Catalyst Circle \(CC\) priority and update Trello \(10 min\)
 
-**\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until Catalyst Circle \(CC\) meeting 6 - All - 10 min**
+### **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until Catalyst Circle \(CC\) meeting 6 - All - 10 min**
 
 Circle members were asked to choose a problem statement to be prioritized in the next 2 weeks :
 
@@ -194,11 +194,11 @@ Victor : Any other comments / suggestions ?
 
 None.
 
-#### Open Conversation \(20 min\)
+### Open Conversation \(20 min\)
 
-#### **\(01:25\) Open Conversation. Topics:**
+### **\(01:25\) Open Conversation. Topics:**
 
-#### Catalyst Circle \(CC\)  and lessons learned.
+### Catalyst Circle \(CC\)  and lessons learned.
 
 The Circle group agreed to devote the rest of Meeting 5 to a discussion of the failure to submit two Fund 6 proposals that were intended to resource Circle activities going forward.
 
@@ -286,11 +286,11 @@ The secretary’s role can include tracking critical items like the CCv2 budget 
 
 Could there be a special meeting on this question tomorrow. It’s very crucial
 
-#### Meeting feedback and buffer time \(20 min\)
+### Meeting feedback and buffer time \(20 min\)
 
-#### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
+### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
 
-#### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
+### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
 
 ## Agenda Items for CC meeting \#5
 
