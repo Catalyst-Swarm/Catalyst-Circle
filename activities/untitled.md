@@ -6,6 +6,10 @@ description: 'F6: Distributed decision making : Power Up The Catalyst Circle'
 
 ![](../.gitbook/assets/2021-08-30-2-.png)
 
+## Ideascale Link
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Catalyst-Circle-Budget-proposal/373192-48088" %}
+
 ## Proposers :
 
 Project Catalyst Admin , Dor Garbash , Juliane Montag, Dean Jayes, Felix Weber, Lauris Steglics & Victor Corcino.
