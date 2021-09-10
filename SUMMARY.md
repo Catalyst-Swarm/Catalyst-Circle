@@ -11,7 +11,7 @@
 * [News & Updates from your representatives](activities/news-and-updates-from-your-representatives.md)
 * [Catalyst Prioritized Problems Trello](activities/catalyst-prioritized-problems-trello.md)
 * [Resourcing](activities/resourcing.md)
-* [Fund 6 Proposal: Power Up The Catalyst Circle](activities/untitled.md)
+* [Fund 6 Proposal: Power Up The Catalyst Circle](activities/fund-6-proposal-power-up-the-catalyst-circle.md)
 * [MVP Lists of Prioritized Problems](activities/mvp-lists-of-prioritized-problems.md)
 * [Catalyst Circle Tracking](activities/catalyst-circle-tracking.md)
 
