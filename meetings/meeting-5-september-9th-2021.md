@@ -30,13 +30,13 @@ description: 'Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC'
 
 Victor Corcino facilitated this meeting and Stephen Whitenstall took the secretary role, taking notes.
 
-#### \(00:00\) Check-in - All - 5 min
+### \(00:00\) Check-in - All - 5 min
 
-#### \(00:05\) Revise agenda and align expectations - All - 5 min
+### \(00:05\) Revise agenda and align expectations - All - 5 min
 
 Updates on Catalyst Circle actions \(35 min\) -&gt; Update Trello Board Accordingly
 
-#### \(00:15\) Trello board guideline - Dor and Victor - 10 min
+### \(00:15\) Trello board guidelines - Dor and Victor - 10 min
 
 The Trello board : [https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)
 
