@@ -12,7 +12,7 @@ description: 'F6: Distributed decision making : Power Up The Catalyst Circle'
 
 ## Proposers :
 
-Project Catalyst Admin , Dor Garbash , Juliane Montag, Dean Jayes, Felix Weber, Lauris Steglics & Victor Corcino.
+Project Catalyst Admin, Dor Garbash , Juliane Montag, Dean Jayes, Felix Weber, Lauris Steglics & Victor Corcino.
 
 ## **Problem statement :**
 
