@@ -210,9 +210,11 @@ Dor commented: IOHK are preparing a public dashboard with the intention to infor
 John Buck commented: Having staggered terms on the Catalyst Circle \(CC\) would help carry forward the group memory. For example, only three people rotate off in November 2021. Then Trello board projects can be handed off to the new members \(maybe with overlap with the former members\).  
 
 
-**\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
+### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
 
+{% hint style="info" %}
 Related problem statement: \(CC\) Faster funding for Catalyst projects
+{% endhint %}
 
 Felix reported on the Challenge team - Rapid Funding Challenge and suggested that faster more focused mechanisms are needed for the community. The challenge team went off in one direction and this was not the result that Circle were expecting,
 
@@ -220,18 +222,22 @@ Dor commented: It has been a busy month for people in the network. Who was the p
 
 Victor commented : Because of the amount of work, we have had similar issues in the last 2 weeks.
 
-**\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
+### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
 
+{% hint style="info" %}
 Related problem statement: N/A
+{% endhint %}
 
 Felix reported that: In the last couple of weeks people have participated in the selection of a secretary and a facilitator. This process has resulted in 1 person for each function \(secretary & facilitator\), backed by a support team. In all, 4 people in the secretariat and 3 in the facilitator team.
 
 Dor commented: This could be an issue when it comes to funding. Circle needs more focus on roles and responsibilities.  
 
 
-**\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
+### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
 
+{% hint style="info" %}
 Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
+{% endhint %}
 
 Lauris reported: At the last After Town Hall, I presented budgeting – but there was not a lot of interest from the community. Tried to squeeze out what interest there was. Made some changes to the budget, put some lump sums to make it easier to calculate. But we did not account for more people coming on board. There has been some miscommunication and the proposal placeholder has now been archived and is still left hanging.
 
@@ -240,9 +246,11 @@ Julianne commented: The experiment failed, and it is good to talk about this. Bo
 Lauris commented: We need to work on miscommunication and who is in charge of a specific task.  
 
 
-**\(01:05\) CC Website & Email Accounts - Felix - 5 min**
+### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
 
+{% hint style="info" %}
 Related problem statement: Improve Awareness
+{% endhint %}
 
 Not discussed.
 
