@@ -254,15 +254,13 @@ Related problem statement: Improve Awareness
 
 Not discussed.
 
-#### New topics for discussion \(5 min\)
+### New topics for discussion \(5 min\)
 
 **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
 Not discussed. Postpone to next meeting.
 
-#### 
-
-#### Next Catalyst Circle \(CC\) priority and update Trello \(10 min\)
+### Next Catalyst Circle \(CC\) priority and update Trello \(10 min\)
 
 **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until Catalyst Circle \(CC\) meeting 6 - All - 10 min**
 
@@ -279,11 +277,11 @@ Victor : Any other comments / suggestions ?
 None.  
 
 
-#### Open Conversation \(20 min\)
+### Open Conversation \(20 min\)
 
-**\(01:25\) Open Conversation. Topics:**
+### **\(01:25\) Open Conversation. Topics:**
 
-Catalyst Circle \(CC\)  and lessons learned.
+### Catalyst Circle \(CC\)  and lessons learned.
 
 The Circle group agreed to devote the rest of Meeting 5 to a discussion of the failure to submit two Fund 6 proposals that were intended to resource Circle activities going forward.
 
@@ -372,9 +370,9 @@ The secretary’s role can include tracking critical items like the CCv2 budget 
 
 Could there be a special meeting on this question tomorrow. It’s very crucial
 
-#### Meeting feedback and buffer time \(20 min\)
+### Meeting feedback and buffer time \(20 min\)
 
-**\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
+### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
 
-**\(01:50\) Buffer time / Open dialogue - All - 10 min**
+### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
 
