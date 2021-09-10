@@ -104,9 +104,9 @@ Related problem statement: \(T&M/ FP\) Catalyst Onboarding
 
 The Community Advisor \(CA\) and Toolmakers and Maintainers \(T&M\) Circles have focused on an on-boarding and outreach campaign to recruit more Community Advisors. IOHK also contributed to outreach. The Catalyst community contributed video presentations such as Ken Adams \(Fund 5 Cohort\) YouTube channel KEWW \([https://www.youtube.com/watch?v=QNjTQ5ogHCU](https://www.youtube.com/watch?v=QNjTQ5ogHCU)\) and the Catalyst School during After Town Hall open space.
 
-Victor and Felix reported : After 1 week we had 100 sign-ups. We are not quite ready to present progress yet as we need to refine our presentation.
+**Victor and Felix reported :** After 1 week we had 100 sign-ups. We are not quite ready to present progress yet as we need to refine our presentation.
 
-Dor clarified that :
+**Dor clarified that :**
 
 |  |  |
 | :--- | :--- |
@@ -148,9 +148,9 @@ Related problem statement: \(CC\) Faster funding for Catalyst projects
 Related problem statement: N/A
 {% endhint %}
 
-Felix reported that: In the last couple of weeks people have participated in the selection of a secretary and a facilitator. This process has resulted in 1 person for each function \(secretary & facilitator\), backed by a support team. In all, 4 people in the secretariat and 3 in the facilitator team.
+**Felix reported that:** In the last couple of weeks people have participated in the selection of a secretary and a facilitator. This process has resulted in 1 person for each function \(secretary & facilitator\), backed by a support team. In all, 4 people in the secretariat and 3 in the facilitator team.
 
-Dor commented: This could be an issue when it comes to funding. Circle needs more focus on roles and responsibilities.
+**Dor commented:** This could be an issue when it comes to funding. Circle needs more focus on roles and responsibilities.
 
 ### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
 
@@ -158,11 +158,11 @@ Dor commented: This could be an issue when it comes to funding. Circle needs mor
 Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
 {% endhint %}
 
-Lauris reported: At the last After Town Hall, I presented budgeting – but there was not a lot of interest from the community. Tried to squeeze out what interest there was. Made some changes to the budget, put some lump sums to make it easier to calculate. But we did not account for more people coming on board. There has been some miscommunication and the proposal placeholder has now been archived and is still left hanging.
+**Lauris reported:** At the last After Town Hall, I presented budgeting – but there was not a lot of interest from the community. Tried to squeeze out what interest there was. Made some changes to the budget, put some lump sums to make it easier to calculate. But we did not account for more people coming on board. There has been some miscommunication and the proposal placeholder has now been archived and is still left hanging.
 
-Julianne commented: The experiment failed, and it is good to talk about this. Both \(Circle\) proposals are withdrawn. We need to return to the theme of how we assign ownership. I opted to not submit, to look at how to establish a baseline for funding.
+**Julianne commented:** The experiment failed, and it is good to talk about this. Both \(Circle\) proposals are withdrawn. We need to return to the theme of how we assign ownership. I opted to not submit, to look at how to establish a baseline for funding.
 
-Lauris commented: We need to work on miscommunication and who is in charge of a specific task.
+**Lauris commented:** We need to work on miscommunication and who is in charge of a specific task.
 
 ### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
 
@@ -184,13 +184,13 @@ Not discussed. Postpone to next meeting.
 
 Circle members were asked to choose a problem statement to be prioritized in the next 2 weeks :
 
-Dor chose: Who has a sense of ownership & capacity to drive one of these problems.
+**Dor chose:** Who has a sense of ownership & capacity to drive one of these problems.
 
-Dean & Victor chose: Address possible scams by ADA holders.
+**Dean & Victor chose:** Address possible scams by ADA holders.
 
-Dean commented: I am still on board for this priority, I had removed it because there was already strong focus on it.
+**Dean commented:** I am still on board for this priority, I had removed it because there was already strong focus on it.
 
-Victor : Any other comments / suggestions ?
+**Victor :** Any other comments / suggestions ?
 
 None.
 
@@ -200,87 +200,87 @@ None.
 
 ### Catalyst Circle \(CC\)  and lessons learned.
 
-The Circle group agreed to devote the rest of Meeting 5 to a discussion of the failure to submit two Fund 6 proposals that were intended to resource Circle activities going forward.
+> The Circle group agreed to devote the rest of Meeting 5 to a discussion of the failure to submit two Fund 6 proposals that were intended to resource Circle activities going forward.
 
-Victor: This is an opportunity to learn. It was a group failure. Such risks arise when we try to move too fast. We should try to identify what went wrong and try to avoid making the same mistake in future. We could submit a proposal in Fund 7 for retrospective payment – but such a strategy is not guaranteed to succeed.
+**Victor:** This is an opportunity to learn. It was a group failure. Such risks arise when we try to move too fast. We should try to identify what went wrong and try to avoid making the same mistake in future. We could submit a proposal in Fund 7 for retrospective payment – but such a strategy is not guaranteed to succeed.
 
-Lauris: I agree we need to discuss this.
+**Lauris:** I agree we need to discuss this.
 
-Dor : This is bad. Funds are needed to mitigate the risk of volunteer burnout. But we are now stuck with a continuation of volunteerism. IOHK can use special powers to modify the Circle proposals outside of timetable. I believe it is not viable for Circle to continue without the possibility of future funding. We can submit a modified proposal and ask IOHK to accept it. I am willing to help redraft the proposals today or else we appoint someone else in the Circle to take responsibility.
+**Dor :** This is bad. Funds are needed to mitigate the risk of volunteer burnout. But we are now stuck with a continuation of volunteerism. IOHK can use special powers to modify the Circle proposals outside of timetable. I believe it is not viable for Circle to continue without the possibility of future funding. We can submit a modified proposal and ask IOHK to accept it. I am willing to help redraft the proposals today or else we appoint someone else in the Circle to take responsibility.
 
-Julianne : I can do it. Get right into the document. I would place it in the Decentralised Decision-Making Challenge. And refer back to the definition of Circle so as not to reinvent the wheel.
+**Julianne :** I can do it. Get right into the document. I would place it in the Decentralised Decision-Making Challenge. And refer back to the definition of Circle so as not to reinvent the wheel.
 
-Dor : In terms of how we can proceed operationally; we write out a draft, distribute it to Circle and submit the revised proposal “out of band”. It is too big a deal to live with the consequences of not submitting a Circle proposal.
+**Dor :** In terms of how we can proceed operationally; we write out a draft, distribute it to Circle and submit the revised proposal “out of band”. It is too big a deal to live with the consequences of not submitting a Circle proposal.
 
-Felix : The background to this is a pressure to deliver on time and meet expectations. We drive in a dangerous direction as Circle members also have other commitments.
+**Felix :** The background to this is a pressure to deliver on time and meet expectations. We drive in a dangerous direction as Circle members also have other commitments.
 
-Julianne: We are all here because we have passion and motivation. But self-criticism is required as well. To pose the questions “Where can I add most value?”, “What are the requirements of Circle?”. I think we might lose impact if we must comply or fit in something prescriptive. Should responsibility be concentrated or distributed to a larger team? What is the mode that is best for Circle? What is best for the community?
+**Julianne:** We are all here because we have passion and motivation. But self-criticism is required as well. To pose the questions “Where can I add most value?”, “What are the requirements of Circle?”. I think we might lose impact if we must comply or fit in something prescriptive. Should responsibility be concentrated or distributed to a larger team? What is the mode that is best for Circle? What is best for the community?
 
-Lauris: To prepare for the next iteration of Circle \(Version 2\) we need to establish an idea of what is expected of them. To understand what their commitments will be.
+**Lauris:** To prepare for the next iteration of Circle \(Version 2\) we need to establish an idea of what is expected of them. To understand what their commitments will be.
 
-Dean: I met with Nori, for the search committee to find a replacement for the General Voters representative. The next person should have a lot of experience with Ideascale and associated tools. And should be able to commit 10 to 20 hours a week. We should treat Circle commitments like job requirements.
+**Dean:** I met with Nori, for the search committee to find a replacement for the General Voters representative. The next person should have a lot of experience with Ideascale and associated tools. And should be able to commit 10 to 20 hours a week. We should treat Circle commitments like job requirements.
 
-Julienne: This depends on what we consider the most value. By defining requirements too rigidly we are going to leave out certain people.
+**Julienne:** This depends on what we consider the most value. By defining requirements too rigidly we are going to leave out certain people.
 
-Victor : We are only now figuring out how much time it takes to participate in Circle. We should be prepared to communicate this to the next Circle. We should write down what kind of knowledge is needed.
+**Victor :** We are only now figuring out how much time it takes to participate in Circle. We should be prepared to communicate this to the next Circle. We should write down what kind of knowledge is needed.
 
-Lauris: Circle could use a full time facilitator to offload these responsibilities.
+**Lauris:** Circle could use a full time facilitator to offload these responsibilities.
 
-Dor : This experience is actually a gift. As a first iteration we are doing amazingly well. The goal is to learn and sometimes to fail. The next stage is to capture lessons learnt so these can be implemented in the next Circle. To prepare a list of recommendations and dedicate some time to review them. Do a full-on retrospective.
+**Dor :** This experience is actually a gift. As a first iteration we are doing amazingly well. The goal is to learn and sometimes to fail. The next stage is to capture lessons learnt so these can be implemented in the next Circle. To prepare a list of recommendations and dedicate some time to review them. Do a full-on retrospective.
 
 We need shared agreement on what happened and for each of us to propose how to improve for the next session. How and why, under pressures of time and uncertainty, our small team did not submit proposals.
 
-Julanne: I would extend lessons learnt to a lack of will to make it happen for the group. I was unclear on completing the proposal. The assignment of responsibility was ambiguous.
+**Julanne:** I would extend lessons learnt to a lack of will to make it happen for the group. I was unclear on completing the proposal. The assignment of responsibility was ambiguous.
 
-Dor: Given the problem statement we have talked about - what is the solution ? We need to work with this shared understanding of the issue at the end of the meeting. We could discuss in our Telegram group and get Stephen to capture it.
+**Dor:** Given the problem statement we have talked about - what is the solution ? We need to work with this shared understanding of the issue at the end of the meeting. We could discuss in our Telegram group and get Stephen to capture it.
 
-Julianne: We would push the proposal and use Dor’s superpower. But I am concerned how this is perceived by the community. I know it's crucial - but, nevertheless.
+**Julianne:** We would push the proposal and use Dor’s superpower. But I am concerned how this is perceived by the community. I know it's crucial - but, nevertheless.
 
-Felix: For me personally it would feel really weird. We failed, then if we failed it is important to say why.
+**Felix:** For me personally it would feel really weird. We failed, then if we failed it is important to say why.
 
-Dor: There is a trade off every time some special action is taken. We will need to explain the circumstances. If our rationale is misaligned with the larger picture, we could lose legitimacy. On the other hand, the intention to decentralise is clear, We intend to move power to the community. Looking at the big picture, from next month to a year from now, we want to create the best conditions for distributed governance.
+**Dor:** There is a trade off every time some special action is taken. We will need to explain the circumstances. If our rationale is misaligned with the larger picture, we could lose legitimacy. On the other hand, the intention to decentralise is clear, We intend to move power to the community. Looking at the big picture, from next month to a year from now, we want to create the best conditions for distributed governance.
 
 If others think the final outcome would be very different. We should discuss this eventuality. But knowing this is just human error - should we just accept that ?
 
-Lauris: Interim funding \(as an option\) is not a solution. If we receive interim funding - the question arises as to who we are working for.
+**Lauris:** Interim funding \(as an option\) is not a solution. If we receive interim funding - the question arises as to who we are working for.
 
-Julianne: Looking forward to a solution. What if these circumstances push us towards a baseline - so that a pipeline is in place for the next Circle to execute. It would be more natural to have retrospective funds together with a process of assessing ourselves, evolving with each proposal.
+**Julianne:** Looking forward to a solution. What if these circumstances push us towards a baseline - so that a pipeline is in place for the next Circle to execute. It would be more natural to have retrospective funds together with a process of assessing ourselves, evolving with each proposal.
 
-Dor: Would you take a job where it says “come work for me and maybe we pay for you later” ?
+**Dor:** Would you take a job where it says “come work for me and maybe we pay for you later” ?
 
-Julianne: The resourcing of Circle is at risk anyway - because funding in any Challenge is never guaranteed.
+**Julianne:** The resourcing of Circle is at risk anyway - because funding in any Challenge is never guaranteed.
 
-Dor: Next Circle would have that assurance - if we submit out of band.
+**Dor:** Next Circle would have that assurance - if we submit out of band.
 
-Felix: Let us go not too much into hypotheticals.
+**Felix:** Let us go not too much into hypotheticals.
 
-David: I do not know how we get consensus on this.
+**David:** I do not know how we get consensus on this.
 
-Dor: The trade-off is between posting our proposals a few hours after the deadline with minor consequences and leaving Circle unfunded which has serious long-term repercussions. I hope people here can see the bigger picture and where we are headed – but this is not on you, it's on IOHK.
+**Dor:** The trade-off is between posting our proposals a few hours after the deadline with minor consequences and leaving Circle unfunded which has serious long-term repercussions. I hope people here can see the bigger picture and where we are headed – but this is not on you, it's on IOHK.
 
-Dean: I agree with Dor. There will be a chain reaction of things that will happen if we do not push this through this time. Can we agree to do this for the next Circle in Fund 7?
+**Dean:** I agree with Dor. There will be a chain reaction of things that will happen if we do not push this through this time. Can we agree to do this for the next Circle in Fund 7?
 
-Dor: The latest possibility is tomorrow for “out of band” submission.
+**Dor:** The latest possibility is tomorrow for “out of band” submission.
 
-Julianne: We could draft the revisions in a Google document.
+**Julianne:** We could draft the revisions in a Google document.
 
-Dor: Yes, write down the rubrics in a google document. IOG admin would then submit.
+**Dor:** Yes, write down the rubrics in a google document. IOG admin would then submit.
 
-Decision polling :
+#### Decision polling :
 
-At this point there was a quick survey of individual positions. And a majority agreed to submit Circle proposals “out of band”.
+> At this point there was a quick survey of individual positions. And a majority agreed to submit Circle proposals “out of band”.
 
-Dor: We will be transparent about this. It was a hard trade off and we are still experimenting. We have to give the system a chance to succeed. A purist approach was never the intention.
+**Dor:** We will be transparent about this. It was a hard trade off and we are still experimenting. We have to give the system a chance to succeed. A purist approach was never the intention.
 
-Julianne: We trust you as well. It comes down to intention and that feels good.
+**Julianne:** We trust you as well. It comes down to intention and that feels good.
 
-Dean: If there is blowback - how do we handle it ?
+**Dean:** If there is blowback - how do we handle it ?
 
-Dor: The community wants decentralised governance and for circle to succeed
+**Dor:** The community wants decentralised governance and for circle to succeed
 
-David: There is no guarantee it will be funded - so that is a reassurance as well.
+**David:** There is no guarantee it will be funded - so that is a reassurance as well.
 
-John Buck comments in Chat :
+**John Buck comments in Chat :**
 
 The secretary’s role can include tracking critical items like the CCv2 budget and alerting everyone if it appears that there are critical deadlines about to be missed.
 
