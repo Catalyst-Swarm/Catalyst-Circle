@@ -84,7 +84,9 @@ To conclude there is a Circle Reset where the community decides whether to conti
 
 #### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
 
+{% hint style="info" %}
 Related problem statement: \(CAs\) CAs/vCAs rewarding system
+{% endhint %}
 
 A brief update from Victor. Keeping track of comments made in response to the new CA/vCA reward model the feedback was generally good.
 
