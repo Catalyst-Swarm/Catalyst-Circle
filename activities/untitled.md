@@ -148,15 +148,11 @@ The Catalyst Circle commits to attend weekly town hall meetings to provide updat
 
 #### **Tags \[Predefined Tag Enabled\] \(Optional\)**
 
-{% embed url="https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/" %}
+[https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/](https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/)
 
+[https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)
 
-
-{% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" %}
-
-
-
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/" %}
+[https://catalyst-swarm.gitbook.io/catalyst-circle/](https://catalyst-swarm.gitbook.io/catalyst-circle/)
 
 ##  **Requested funds in USD** 9500
 
