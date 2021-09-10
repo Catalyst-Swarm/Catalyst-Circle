@@ -33,19 +33,19 @@ We are elected leaders from the ecosystem serving a key role in turning Catalyst
 IOG is currently managing the Catalyst Project, with the aspiration to decentralize Governance to the community. The Catalyst Circle is the first experiment to establish a decentralized instance, that has four major goals:
 
 {% hint style="success" %}
-**To facilitate communication between the different functional groups**
+**1\) To facilitate communication between the different functional groups**
 {% endhint %}
 
 {% hint style="success" %}
-**To provide a heads-up when red lines are crossed within a certain group**
+**2\) To provide a heads-up when red lines are crossed within a certain group**
 {% endhint %}
 
 {% hint style="success" %}
-**To suggest improvements on plans and processes that shape Project Catalyst**
+**3\) To suggest improvements on plans and processes that shape Project Catalyst**
 {% endhint %}
 
 {% hint style="success" %}
-**To define the election process for Circle V2**
+**4\) To define the election process for Circle V2**
 {% endhint %}
 
 #### Link:
