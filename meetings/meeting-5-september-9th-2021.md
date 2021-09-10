@@ -46,11 +46,11 @@ The source document for these guidelines is here:[ https://docs.google.com/docum
 Related problem statement: \(CC\) Tracking problems and actions
 {% endhint %}
 
-Following a brainstorming meeting between Dor & Victor they presented and discussed guidelines for the use of the Trello board.
+Following a brainstorming meeting between **Dor & Victor** they presented and discussed guidelines for the use of the Trello board.
 
-Dor & Victor had discussed previously how to clarify a workflow for tracking problems and actions for Circle members. This was an opportunity to define & make explicit how to move problems across the board.
+**Dor & Victor** had discussed previously how to clarify a workflow for tracking problems and actions for Circle members. This was an opportunity to define & make explicit how to move problems across the board.
 
-They stressed that the guidelines presented can be modified and constantly iterated over time as Circle evolves. Dor & Victor had talked about methodologies - they invited others to share the unique approaches of each Circle representative group.
+They stressed that the guidelines presented can be modified and constantly iterated over time as Circle evolves. **Dor & Victor** had talked about methodologies - they invited others to share the unique approaches of each Circle representative group.
 
 Briefly, the Trello board will start with the Problem Backlog column which is where the results of previous problem sensing exercises reside. Each representative went back to their group and using their own methodologies sourced their problems specific to their situation.
 
@@ -70,17 +70,17 @@ To conclude there is a Circle Reset where the community decides whether to conti
 
 **Comments on the Trello board guideline presentation :**
 
-John Buck commented : “Just a note: “Shared with Community” could be “Shared with IOG” or “Shared with Cardano Foundation”. E.g., if there is something that IOG is doing that is having an adverse impact, the presentation might be given to the IOG manager in charge of the problematic policies/activities.”
+**John Buck commented** : “Just a note: “Shared with Community” could be “Shared with IOG” or “Shared with Cardano Foundation”. E.g., if there is something that IOG is doing that is having an adverse impact, the presentation might be given to the IOG manager in charge of the problematic policies/activities.”
 
-Victor Corcino responded : “I'd say that IOG/CF are part of the community as well. Community covers everyone involved. Maybe we should define this somewhere.”
+**Victor Corcino responde**d : “I'd say that IOG/CF are part of the community as well. Community covers everyone involved. Maybe we should define this somewhere.”
 
-John Buck commented : “Good point. Might be more than one presentation: in Town Hall as well as other appropriate forum.”
+**John Buck commented** : “Good point. Might be more than one presentation: in Town Hall as well as other appropriate forum.”
 
-Dor Garbash commented : “I agree - we need to establish a communication line with IOG/CF as often they don’t track townhalls.”
+**Dor Garbash commented** : “I agree - we need to establish a communication line with IOG/CF as often they don’t track townhalls.”
 
-Victor Corcino commented : “We were going to demonstrate this process at this meeting but there is not enough time.”
+**Victor Corcino commented** : “We were going to demonstrate this process at this meeting but there is not enough time.”
 
-Juliane Montag commented : “Would appreciate sometime to look at the Trello Guidelines to give an appreciation.”
+**Juliane Montag commented** : “Would appreciate sometime to look at the Trello Guidelines to give an appreciation.”
 
 #### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
 
