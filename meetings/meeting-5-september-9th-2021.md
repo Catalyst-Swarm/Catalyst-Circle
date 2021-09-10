@@ -368,3 +368,68 @@ Thursday, September 9th. at 17.00 UTC
 
 #### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
 
+\*\*\*\*
+
+## Agenda Items for CC meeting \#5
+
+#### Thursday, September 9th. at 17.00 UTC 
+
+### Topic template:
+
+* \(Topic start time\) Topic of discussion/Objective - Leader\(s\) - Duration in minutes
+
+### Planned agenda items for CC meeting \#5 - 120 min ✔️ 
+
+### Opening, Announcements and Expectations Alignment \(10 min\) ✔️
+
+### \(00:00\) Check-in - All - 5 min ✔️
+
+### \(00:05\) Revise agenda and align expectations - All - 5 min ✔️
+
+Updates on CC actions \(20 min\) -&gt; Update [Trello Board](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems) Accordingly ✔️
+
+### \(00:10\) Trello board [guideline](https://docs.google.com/document/d/1OPqz62i6qNzhIHhjnTUjN3MJDavG6VOAoahVs5uZmEI/edit?usp=sharing) - Dor and Victor - 10 min ✔️
+
+Related problem statement: \(CC\) Tracking problems and actions
+
+### \(00:20\) Updates on new CA/vCA reward model - Victor - 5 min ✔️
+
+* Related problem statement: \(CAs\) CAs/vCAs rewarding system
+
+### \(00:25\) CA Outreach & Onboarding campaign - Victor and Felix - 10 min✔️
+
+* Related problem statement: \(CAs\) Risk of not enough CAs/vCAs
+* Related problem statement: \(T&M/ FP\) Catalyst Onboarding
+
+### \(00:35\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min ✔️
+
+* Related problem statement: \(CC\) Faster funding for Catalyst projects
+
+### \(00:45\) Updates on CC Facilitator & Secretary teams - Felix - 5 min ✔️
+
+* Related problem statement: N/A
+
+### \(00:50\) Discussing/finalizing the CCv2 budget - Lauris - 10 min ✔️
+
+* Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
+
+### Open Conversation \(25 min\) ✔️
+
+### \(01:00\) Open Conversation. Topics:
+
+* CC and lessons learned.
+
+### New topics for discussion \(5 min\)
+
+### \(01:25\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min
+
+### Next CC priority and update Trello \(10 min\)
+
+### \(01:30\) Choose a problem statement to be prioritized in the next 2 weeks, until CC meeting \#5 - All - 10 min
+
+Meeting feedback and buffer time \(20 min\)
+
+### \(01:40\) Fill out feedback form about the meeting productivity - 5 min
+
+### \(01:45\) Buffer time / Open dialogue - All - 15 min
+
