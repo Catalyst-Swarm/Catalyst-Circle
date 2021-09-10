@@ -2,11 +2,13 @@
 description: 'Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC'
 ---
 
-## Catalyst Circle Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC
+# Meeting 5 - September 9th 2021
 
-### Attendees:
+### Catalyst Circle Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC
 
-#### Catalyst Circle members:
+#### Attendees:
+
+**Catalyst Circle members:**
 
 * David Taylor
 * Dean Jayes
@@ -16,25 +18,25 @@ description: 'Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC'
 * Lauris Steglics
 * Victor Corcino
 
-#### Admin staff:
+**Admin staff:**
 
 * Stephen Whitenstall - Secretary
 
-#### Observation:
+**Observation:**
 
 * John Buck
 
-### Opening, Announcements and Expectations Alignment \(10 min\)
+#### Opening, Announcements and Expectations Alignment \(10 min\)
 
-Victor Corcino facilitated this meeting and Stephen Whitenstall took the secretary role, taking notes. 
+Victor Corcino facilitated this meeting and Stephen Whitenstall took the secretary role, taking notes.
 
-### \(00:00\) Check-in - All - 5 min
+#### \(00:00\) Check-in - All - 5 min
 
-### \(00:05\) Revise agenda and align expectations - All - 5 min
+#### \(00:05\) Revise agenda and align expectations - All - 5 min
 
 Updates on Catalyst Circle actions \(35 min\) -&gt; Update Trello Board Accordingly
 
-### \(00:15\) Trello board guideline - Dor and Victor - 10 min
+#### \(00:15\) Trello board guideline - Dor and Victor - 10 min
 
 The Trello board : [https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)
 
@@ -52,23 +54,23 @@ They stressed that the guidelines presented can be modified and constantly itera
 
 Briefly, the Trello board will start with the Problem Backlog column which is where the results of previous problem sensing exercises reside. Each representative went back to their group and using their own methodologies sourced their problems specific to their situation.
 
-Because of capacity limitations and to accommodate Circle’s capabilities, Circle members limited themselves to 1 problem per representative group. 
+Because of capacity limitations and to accommodate Circle’s capabilities, Circle members limited themselves to 1 problem per representative group.
 
 To recap; the problem owner assigns themselves a ticket and moves their problem across the board. To initiate this, they write out the problem in a structured form and request feedback from another Circle member. Then once the problem is in the problem backlog it will subsequently be presented at a Circle meeting to discuss modifications.
 
- At the Well-Defined Problems \(Ready\) column, the problem enters a solution solving state. Here a strategy is defined by Circle to solve the problem. This could take the form of endorsing an existing Fund proposal, to boost current proposals. Or by facilitating problem sensing sessions. A time is scheduled to present at Town Hall to communicate the solution to the community and to amplify it.
+At the Well-Defined Problems \(Ready\) column, the problem enters a solution solving state. Here a strategy is defined by Circle to solve the problem. This could take the form of endorsing an existing Fund proposal, to boost current proposals. Or by facilitating problem sensing sessions. A time is scheduled to present at Town Hall to communicate the solution to the community and to amplify it.
 
-The problem\(solution\) then goes to the Shared with Community section of the Trello board. And the community picks up the responsibility to track, to identify any duplication of effort and any lack of activity. 
+The problem\(solution\) then goes to the Shared with Community section of the Trello board. And the community picks up the responsibility to track, to identify any duplication of effort and any lack of activity.
 
-Once a solution has been explicitly identified by the community it moves to the Picked Up \(Ready\) column. That is, it is “picked up” by the community or Circle. Here a new ticket is raised that changes the problem statement to the proposed solution. 
+Once a solution has been explicitly identified by the community it moves to the Picked Up \(Ready\) column. That is, it is “picked up” by the community or Circle. Here a new ticket is raised that changes the problem statement to the proposed solution.
 
 When the solution has been built it moves to the Prototyping \(In Progress\) column and then onto the Validation \(Reporting\) column once positive results become apparent. It is critical at this stage to track how well the solution is Integrated \(the solution is accepted\) with the community or whether there are Lessons Learnt \(the solution is Cancelled\). This final resolution aims to initiate new Catalyst members about what worked & what failed.
 
 To conclude there is a Circle Reset where the community decides whether to continue with the problem \(solution\) or move onto another one. The Trello Board can then be reset, abandoned problems archived and handed over to the new Circle Version 2.
 
-#### Comments on the Trello board guideline presentation :
+**Comments on the Trello board guideline presentation :**
 
-John Buck commented : “Just a note: “Shared with Community” could be “Shared with IOG” or “Shared with Cardano Foundation”.  E.g., if there is something that IOG is doing that is having an adverse impact, the presentation might be given to the IOG manager in charge of the problematic policies/activities.”
+John Buck commented : “Just a note: “Shared with Community” could be “Shared with IOG” or “Shared with Cardano Foundation”. E.g., if there is something that IOG is doing that is having an adverse impact, the presentation might be given to the IOG manager in charge of the problematic policies/activities.”
 
 Victor Corcino responded : “I'd say that IOG/CF are part of the community as well. Community covers everyone involved. Maybe we should define this somewhere.”
 
@@ -78,18 +80,17 @@ Dor Garbash commented : “I agree - we need to establish a communication line w
 
 Victor Corcino commented : “We were going to demonstrate this process at this meeting but there is not enough time.”
 
-Juliane Montag commented : “Would appreciate sometime to look at the Trello Guidelines to give an appreciation.”  
+Juliane Montag commented : “Would appreciate sometime to look at the Trello Guidelines to give an appreciation.”
 
-
-### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
+#### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
 
 Related problem statement: \(CAs\) CAs/vCAs rewarding system
 
-A brief update from Victor. Keeping track of comments made in response to the new CA/vCA reward model the feedback was generally good. 
+A brief update from Victor. Keeping track of comments made in response to the new CA/vCA reward model the feedback was generally good.
 
 In regard to the Trello Board, this problem is now in Prototyping \(In Progress\) and we can change it to Validation \(Reporting\) once outcomes and consequences become clear.
 
-### **\(00:30\) Community Advisor \(CA\) Outreach & Onboarding campaign - Victor and Felix - 10 min**
+#### **\(00:30\) Community Advisor \(CA\) Outreach & Onboarding campaign - Victor and Felix - 10 min**
 
 {% hint style="info" %}
 Related problem statement: \(CAs\) Risk of not enough CAs/vCAs
@@ -108,8 +109,8 @@ Dor clarified that :
 |  |  |
 | :--- | :--- |
 | 1100 | CA’s registered in Ideascale. |
-| 800  | CA’s in Telegram \(TG\) channel. |
-| 100  | registered for on-boarding workshops. |
+| 800 | CA’s in Telegram \(TG\) channel. |
+| 100 | registered for on-boarding workshops. |
 
 Felix commented: That as a first draft for a pipeline the outreach and on-boarding campaign was satisfactory and can be improved over time. We could use the same scheme or approach for outreach and onboarding of Veteran Community Advisors \(VCAS\) and Challenge teams.
 
@@ -117,7 +118,7 @@ Dor commented: Can we use this approach for Challenge Teams and replicate for Fu
 
 Julianne commented : Circle should define a baseline of responsibilities that are crucial to outreach and on-boarding to complement the processes the IOHK team uses.
 
- Dor commented: We have our internal logistic machine, but this should be decentralised. Starting with shared responsibility then handing over.
+Dor commented: We have our internal logistic machine, but this should be decentralised. Starting with shared responsibility then handing over.
 
 Julianne commented: How do we do this? We need to agree on what we need to do.
 
@@ -125,10 +126,9 @@ Felix commented: There will be new people for Circle Version 2 \(v2\) - platform
 
 Dor commented: IOHK are preparing a public dashboard with the intention to inform people of risks & opportunities. At this point in our playbook, we are at the “insight stage” \(analogy with proposal process\) and critical actions still need to be taken. We need to be more transparent about our engagement data and work on a timetable for handover of responsibilities to the community. A retrospective week would be valuable to gain perspective on what are we \(Circle\) doing together
 
-John Buck commented: Having staggered terms on the Catalyst Circle \(CC\) would help carry forward the group memory. For example, only three people rotate off in November 2021. Then Trello board projects can be handed off to the new members \(maybe with overlap with the former members\).  
+John Buck commented: Having staggered terms on the Catalyst Circle \(CC\) would help carry forward the group memory. For example, only three people rotate off in November 2021. Then Trello board projects can be handed off to the new members \(maybe with overlap with the former members\).
 
-
-### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
+#### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
 
 {% hint style="info" %}
 Related problem statement: \(CC\) Faster funding for Catalyst projects
@@ -140,7 +140,7 @@ Dor commented: It has been a busy month for people in the network. Who was the p
 
 Victor commented : Because of the amount of work, we have had similar issues in the last 2 weeks.
 
-### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
+#### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
 
 {% hint style="info" %}
 Related problem statement: N/A
@@ -148,10 +148,9 @@ Related problem statement: N/A
 
 Felix reported that: In the last couple of weeks people have participated in the selection of a secretary and a facilitator. This process has resulted in 1 person for each function \(secretary & facilitator\), backed by a support team. In all, 4 people in the secretariat and 3 in the facilitator team.
 
-Dor commented: This could be an issue when it comes to funding. Circle needs more focus on roles and responsibilities.  
+Dor commented: This could be an issue when it comes to funding. Circle needs more focus on roles and responsibilities.
 
-
-### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
+#### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
 
 {% hint style="info" %}
 Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
@@ -161,10 +160,9 @@ Lauris reported: At the last After Town Hall, I presented budgeting – but ther
 
 Julianne commented: The experiment failed, and it is good to talk about this. Both \(Circle\) proposals are withdrawn. We need to return to the theme of how we assign ownership. I opted to not submit, to look at how to establish a baseline for funding.
 
-Lauris commented: We need to work on miscommunication and who is in charge of a specific task.  
+Lauris commented: We need to work on miscommunication and who is in charge of a specific task.
 
-
-### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
+#### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
 
 {% hint style="info" %}
 Related problem statement: Improve Awareness
@@ -172,17 +170,17 @@ Related problem statement: Improve Awareness
 
 Not discussed.
 
-### New topics for discussion \(5 min\)
+#### New topics for discussion \(5 min\)
 
 **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
 Not discussed. Postpone to next meeting.
 
-### Next Catalyst Circle \(CC\) priority and update Trello \(10 min\)
+#### Next Catalyst Circle \(CC\) priority and update Trello \(10 min\)
 
 **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until Catalyst Circle \(CC\) meeting 6 - All - 10 min**
 
-Circle members were asked to choose a problem statement to be prioritized in the next 2 weeks : 
+Circle members were asked to choose a problem statement to be prioritized in the next 2 weeks :
 
 Dor chose: Who has a sense of ownership & capacity to drive one of these problems.
 
@@ -192,25 +190,23 @@ Dean commented: I am still on board for this priority, I had removed it because 
 
 Victor : Any other comments / suggestions ?
 
-None.  
+None.
 
+#### Open Conversation \(20 min\)
 
-### Open Conversation \(20 min\)
+#### **\(01:25\) Open Conversation. Topics:**
 
-### **\(01:25\) Open Conversation. Topics:**
-
-### Catalyst Circle \(CC\)  and lessons learned.
+#### Catalyst Circle \(CC\)  and lessons learned.
 
 The Circle group agreed to devote the rest of Meeting 5 to a discussion of the failure to submit two Fund 6 proposals that were intended to resource Circle activities going forward.
 
 Victor: This is an opportunity to learn. It was a group failure. Such risks arise when we try to move too fast. We should try to identify what went wrong and try to avoid making the same mistake in future. We could submit a proposal in Fund 7 for retrospective payment – but such a strategy is not guaranteed to succeed.
 
-Lauris: I agree we need to discuss this. 
+Lauris: I agree we need to discuss this.
 
-Dor : This is bad. Funds are needed to mitigate the risk of volunteer burnout. But we are now stuck with a continuation of volunteerism. IOHK can use special powers to modify the Circle proposals outside of timetable. I believe it is not viable for Circle to continue without the possibility of future funding. We can submit a modified proposal and ask IOHK to accept it. I am willing to help redraft the proposals today or else we appoint someone else in the Circle to take responsibility.  
+Dor : This is bad. Funds are needed to mitigate the risk of volunteer burnout. But we are now stuck with a continuation of volunteerism. IOHK can use special powers to modify the Circle proposals outside of timetable. I believe it is not viable for Circle to continue without the possibility of future funding. We can submit a modified proposal and ask IOHK to accept it. I am willing to help redraft the proposals today or else we appoint someone else in the Circle to take responsibility.
 
-
-Julianne : I can do it. Get right into the document. I would place it in the Decentralised Decision-Making Challenge. And refer back to the definition of Circle so as not to reinvent the wheel. 
+Julianne : I can do it. Get right into the document. I would place it in the Decentralised Decision-Making Challenge. And refer back to the definition of Circle so as not to reinvent the wheel.
 
 Dor : In terms of how we can proceed operationally; we write out a draft, distribute it to Circle and submit the revised proposal “out of band”. It is too big a deal to live with the consequences of not submitting a Circle proposal.
 
@@ -228,23 +224,23 @@ Victor : We are only now figuring out how much time it takes to participate in C
 
 Lauris: Circle could use a full time facilitator to offload these responsibilities.
 
-Dor : This experience is actually a gift. As a first iteration we are doing amazingly well. The goal is to learn and sometimes to fail. The next stage is to capture lessons learnt so these can be implemented in the next Circle. To prepare a list of recommendations and dedicate some time to review them. Do a full-on retrospective. 
+Dor : This experience is actually a gift. As a first iteration we are doing amazingly well. The goal is to learn and sometimes to fail. The next stage is to capture lessons learnt so these can be implemented in the next Circle. To prepare a list of recommendations and dedicate some time to review them. Do a full-on retrospective.
 
 We need shared agreement on what happened and for each of us to propose how to improve for the next session. How and why, under pressures of time and uncertainty, our small team did not submit proposals.
 
 Julanne: I would extend lessons learnt to a lack of will to make it happen for the group. I was unclear on completing the proposal. The assignment of responsibility was ambiguous.
 
-Dor: Given the problem statement we have talked about - what is the solution ? We need to work with this shared understanding of the issue at the end of the meeting. We could discuss in our Telegram group and get Stephen to capture it. 
+Dor: Given the problem statement we have talked about - what is the solution ? We need to work with this shared understanding of the issue at the end of the meeting. We could discuss in our Telegram group and get Stephen to capture it.
 
 Julianne: We would push the proposal and use Dor’s superpower. But I am concerned how this is perceived by the community. I know it's crucial - but, nevertheless.
 
 Felix: For me personally it would feel really weird. We failed, then if we failed it is important to say why.
 
- Dor: There is a trade off every time some special action is taken. We will need to explain the circumstances. If our rationale is misaligned with the larger picture, we could lose legitimacy. On the other hand, the intention to decentralise is clear, We intend to move power to the community. Looking at the big picture, from next month to a year from now, we want to create the best conditions for distributed governance.
+Dor: There is a trade off every time some special action is taken. We will need to explain the circumstances. If our rationale is misaligned with the larger picture, we could lose legitimacy. On the other hand, the intention to decentralise is clear, We intend to move power to the community. Looking at the big picture, from next month to a year from now, we want to create the best conditions for distributed governance.
 
-If others think the final outcome would be very different. We should discuss this eventuality. But knowing this is just human error - should we just accept that ? 
+If others think the final outcome would be very different. We should discuss this eventuality. But knowing this is just human error - should we just accept that ?
 
-Lauris: Interim funding \(as an option\) is not a solution. If we receive interim funding - the question arises as to who we are working for. 
+Lauris: Interim funding \(as an option\) is not a solution. If we receive interim funding - the question arises as to who we are working for.
 
 Julianne: Looking forward to a solution. What if these circumstances push us towards a baseline - so that a pipeline is in place for the next Circle to execute. It would be more natural to have retrospective funds together with a process of assessing ourselves, evolving with each proposal.
 
@@ -264,9 +260,9 @@ Dean: I agree with Dor. There will be a chain reaction of things that will happe
 
 Dor: The latest possibility is tomorrow for “out of band” submission.
 
-Julianne: We could draft the revisions in a Google document. 
+Julianne: We could draft the revisions in a Google document.
 
-Dor: Yes, write down the rubrics in a google document. IOG admin would then submit. 
+Dor: Yes, write down the rubrics in a google document. IOG admin would then submit.
 
 Decision polling :
 
@@ -276,9 +272,9 @@ Dor: We will be transparent about this. It was a hard trade off and we are still
 
 Julianne: We trust you as well. It comes down to intention and that feels good.
 
-Dean: If there is blowback - how do we handle it ? 
+Dean: If there is blowback - how do we handle it ?
 
-Dor: The community wants decentralised governance and for circle to succeed 
+Dor: The community wants decentralised governance and for circle to succeed
 
 David: There is no guarantee it will be funded - so that is a reassurance as well.
 
@@ -288,92 +284,87 @@ The secretary’s role can include tracking critical items like the CCv2 budget 
 
 Could there be a special meeting on this question tomorrow. It’s very crucial
 
-### Meeting feedback and buffer time \(20 min\)
+#### Meeting feedback and buffer time \(20 min\)
 
-### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
+#### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
 
-### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
+#### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
 
+## Meeting 5 - September 9th 2021
 
-# Meeting 5 - September 9th 2021
-
-## Agenda Items for CC meeting 5
+### Agenda Items for CC meeting 5
 
 Thursday, September 9th. at 17.00 UTC
 
 * Previous Meeting - 
 * Next Meeting - 
 
-#### GitHub : Catalyst Circle Meeting 5 - Agenda - Thursday, 9th September 2021 at 17.00 UTC
+**GitHub : Catalyst Circle Meeting 5 - Agenda - Thursday, 9th September 2021 at 17.00 UTC**
 
 [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/23](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/23)
 
-#### Topic template:
+**Topic template:**
 
 \(Topic start time\) Topic of discussion/Objective - Leader\(s\) - Duration in minutes
 
-### Planned agenda items for CC meeting 5 - 120 min
+#### Planned agenda items for CC meeting 5 - 120 min
 
-## Opening, Announcements and Expectations Alignment \(10 min\)
+### Opening, Announcements and Expectations Alignment \(10 min\)
 
 **\(00:00\) Check-in - All - 5 min**
 
 **\(00:05\) Revise agenda and align expectations - All - 5 min**
 
-## Updates on CC actions \(35 min\) -&gt; Update Trello Board Accordingly
+### Updates on CC actions \(35 min\) -&gt; Update Trello Board Accordingly
 
-### **\(00:15\) Trello board guideline - Dor and Victor - 10 min**
+#### **\(00:15\) Trello board guideline - Dor and Victor - 10 min**
 
 * [https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)
 * Trello board : [https://docs.google.com/document/d/1OPqz62i6qNzhIHhjnTUjN3MJDavG6VOAoahVs5uZmEI/edit\#heading=h.4o4a23sgthcs](https://docs.google.com/document/d/1OPqz62i6qNzhIHhjnTUjN3MJDavG6VOAoahVs5uZmEI/edit#heading=h.4o4a23sgthcs)
 * Related problem statement: \(CC\) Tracking problems and actions
 
-### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
+#### **\(00:25\) Updates on new CA/vCA reward model - Victor - 5 min**
 
 * Related problem statement: \(CAs\) CAs/vCAs rewarding system
 
-### **\(00:30\) CA Outreach & Onboarding campaign - Victor and Felix - 10 min**
+#### **\(00:30\) CA Outreach & Onboarding campaign - Victor and Felix - 10 min**
 
 * Related problem statement: \(CAs\) Risk of not enough CAs/vCAs
 * Related problem statement: \(T&M/ FP\) Catalyst Onboarding
 
-### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
+#### **\(00:40\) Updates on Challenge team - Rapid Funding Challenge - Felix - 10 min**
 
 * Related problem statement: \(CC\) Faster funding for Catalyst projects
 
-### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
+#### **\(00:50\) Updates on CC Facilitator & Secretary teams - Felix - 5 min**
 
 * Related problem statement: N/A
 
-### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
+#### **\(00:55\) Discussing/finalizing the CCv2 budget - Lauris - 10 min**
 
 * Related problem statement: \(CC\) CC is not resourced to accomplish its goals.
 
-### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
+#### **\(01:05\) CC Website & Email Accounts - Felix - 5 min**
 
 * Related problem statement: Improve Awareness
 
-## **New topics for discussion \(5 min\)**
+### **New topics for discussion \(5 min\)**
 
-### **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
+#### **\(01:10\) Proposal: What do we want to do for Fund6 retrospective week? - Dor - 5 min**
 
-### **Next CC priority and update Trello \(10 min\)**
+#### **Next CC priority and update Trello \(10 min\)**
 
-### **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until CC meeting 5 - All - 10 min**
+#### **\(01:15\) Choose a problem statement to be prioritized in the next 2 weeks, until CC meeting 5 - All - 10 min**
 
-## **Open Conversation \(20 min\)**
+### **Open Conversation \(20 min\)**
 
-### **\(01:25\) Open Conversation. Topics:**
+#### **\(01:25\) Open Conversation. Topics:**
 
 * CC and lessons learned.
 
-## **Meeting feedback and buffer time \(20 min\)**
+### **Meeting feedback and buffer time \(20 min\)**
 
-### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
+#### **\(01:45\) Fill out feedback form about the meeting productivity - 5 min**
 
-### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
-
-\*\*\*\*
-
-\*\*\*\*
+#### **\(01:50\) Buffer time / Open dialogue - All - 10 min**
 

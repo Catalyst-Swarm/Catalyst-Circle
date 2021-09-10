@@ -65,7 +65,7 @@ Content Agenda
 
 ![](../.gitbook/assets/0%20%281%29%20%281%29.jpeg)
 
-![](../.gitbook/assets/1%20%281%29%20%281%29%20%281%29.jpeg)
+![](../.gitbook/assets/1%20%281%29%20%281%29%20%281%29%20%281%29.jpeg)
 
 ⇒ NOTE: We need to make contact info for CC members available to everyone
 
