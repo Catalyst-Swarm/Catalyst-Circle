@@ -40,7 +40,7 @@ IOG is currently managing the Catalyst Project, with the aspiration to decentral
 
 **To define the election process for Circle V2**
 
-Link:
+#### Link:
 
 {% embed url="https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/" %}
 
