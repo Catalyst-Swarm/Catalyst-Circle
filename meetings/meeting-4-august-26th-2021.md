@@ -4,6 +4,10 @@ description: Meeting 4 - August 26th 2021
 
 # Meeting 4 - August 26th 2021
 
+{% embed url="https://www.youtube.com/watch?v=Mjk519fqzRM" %}
+
+## Catalyst Circle Meeting 4  - August 26th 2021
+
 ## Meeting Notes - Tevo Saks
 
 {% file src="../.gitbook/assets/26.08.2021\_catalyst\_circle\_meeting\_notes.pdf" caption="Catalyst Circle Meeting Notes" %}
