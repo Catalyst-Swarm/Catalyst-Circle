@@ -65,3 +65,7 @@
 
 * [Commentary on Catalyst Circle](commentary/commentary-on-catalyst-circle.md)
 
+---
+
+* [Meeting 5 - Commentary](meeting-5-commentary.md)
+
