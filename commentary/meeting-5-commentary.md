@@ -16,9 +16,9 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 
 {% embed url="https://discord.com/channels/832894680290951179/857887059913211904/885962032334118942" caption="" %}
 
-![](../.gitbook/assets/2021-09-13-1-.png)
-
 ### Randall - 09/10/2021
+
+![](../.gitbook/assets/2021-09-13-1-.png)
 
 > Randall — 09/10/2021 - What I got at a summary level is that the fast-funding proposal highlighted more pain-points than just speed \(good info!\), but \(red flag\) veered from its core mission to enable high-importance projects to drive forward decisively. And some commitments from circle members were not met.
 >
