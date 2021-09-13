@@ -66,3 +66,9 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 >
 > This was, to me, the most interesting and heartfelt part of the meeting. I found it very reassuring that the ethical and trust issues around invoking special privileges for the Catalyst Circle to get very important proposals into IdeaScale after the deadline were brought up by members of the Circle. When something feels wrong, it should be explored, and I think the discussion comparing the critical need to fund the next Catalyst Circle versus evoking special privileges and losing trust or respect of the community was a great exploration of why it felt wrong, and getting to consensus on a path, even if it did not feel completely great at the end. The fact that the discussion happened and that people were able to voice concerns, discuss it, and then share that conversation in all its awkward emotional glory with the community was in itself trust-building, transparent, and open. I wasn't there, so I can't say for sure how I would have handled it, but I respect the conversation and willingness of people to step up and say "wait a second, this feels wrong, we need to talk about it.".
 
+![](../.gitbook/assets/2021-09-13-3-.png)
+
+> Randall — 09/12/2021 - thanks for that, Nori. I agree that bypassing the rules for the main funding process feels a little strange. That said, this community did elect this circle. Precisely how much authority goes with that isn't a simple and easy question. There was honor represented in questioning the exercise of power, and taking the decision while re-presenting it to the community for evaluation and consent-or-dissent seems like the right thing.
+
+![](../.gitbook/assets/2021-09-13-4-.png)
+
