@@ -1,8 +1,8 @@
 ---
-description: Commentary and Discussion involving the GitBook Editor Stephen Whitenstall
+description: Commentary and Discussion from the community
 ---
 
-# Commentary on Catalyst Circle
+# Meeting 3 & 4 Commentary
 
 ## August 2021
 
