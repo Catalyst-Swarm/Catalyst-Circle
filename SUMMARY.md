@@ -63,6 +63,6 @@
 
 ## Commentary
 
-* [Meeting 3 & 4 Commentary](commentary/commentary-on-catalyst-circle.md)
+* [Meeting 3 & 4 Commentary](commentary/meeting-3-and-4-commentary.md)
 * [Meeting 5 - Commentary](commentary/meeting-5-commentary.md)
 
