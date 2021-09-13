@@ -6,9 +6,9 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 
 ## Friday, 10th September, 2021
 
-![](../.gitbook/assets/2021-09-13.png)
-
 ### FelixWeber - 09/10/2021
+
+![](../.gitbook/assets/2021-09-13.png)
 
 > FelixWeber — 09/10/2021 - Would love to have some feedback from the community about yesterdays CC meeting \#5 [https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view?usp=sharing](https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view?usp=sharing) Was a quite difficult and emotional meeting for all CC members and we would really really love your feedback
 
@@ -82,14 +82,13 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 
 > Randall — 09/12/2021 - My conclusion above about fast-funding probably sounds glib, and I apologize for that. I will rephrase:
 >
->  This group \(the catalyst circle\) isn't first a group of powerful people, but more fundamentally represents the purposes of their constituencies. ...representing them in a **decentralized decision-making body**, with continuing consent of those represented. 
+> This group \(the catalyst circle\) isn't first a group of powerful people, but more fundamentally represents the purposes of their constituencies. ...representing them in a **decentralized decision-making body**, with continuing consent of those represented.
 >
-> If those represented are expressing a need for a fast funding process, and if the Catalyst Circle makes a recommendation \[see 1\] to directly allocate a modestly-sized fund \(relative to the main Catalyst fund\) to serve the felt need on an experimental-not-permanent basis, then I see that as decentralized leadership. Taking the recommendation back to the represented communities would be appropriate, just as was done with the administrative override \(well done on that choice, vs worse options\). 
+> If those represented are expressing a need for a fast funding process, and if the Catalyst Circle makes a recommendation \[see 1\] to directly allocate a modestly-sized fund \(relative to the main Catalyst fund\) to serve the felt need on an experimental-not-permanent basis, then I see that as decentralized leadership. Taking the recommendation back to the represented communities would be appropriate, just as was done with the administrative override \(well done on that choice, vs worse options\).
 >
-> Still: pushing a proposal into the Catalyst voting process to get permission feels like an abdication of the Circle's authority granted from their constituencies, and **giving the Voters \(who, I note, only have one seat in the circle\) the decision feels like begging for plutocracy to neuter the purpose of the Catalyst Circle**. It also feels less honorable than it would do for this decentralized decision-making body to commit gently and carefully to an act of true leadership \[see 2\]. 
+> Still: pushing a proposal into the Catalyst voting process to get permission feels like an abdication of the Circle's authority granted from their constituencies, and **giving the Voters \(who, I note, only have one seat in the circle\) the decision feels like begging for plutocracy to neuter the purpose of the Catalyst Circle**. It also feels less honorable than it would do for this decentralized decision-making body to commit gently and carefully to an act of true leadership \[see 2\].
 >
-> \[1\] the specifics of this recommendation might be imperfect and cause dissent \(good signal!\). Or it might be good enough to learn from, and you'll feel consent. I trust that a plan honestly reviewed and improved and recommended by these elected representatives \(+their constituencies\) will serve the community more effectively than a plan drafted with low consensus and pushed awkwardly into F6 will do.  
->  
+> \[1\] the specifics of this recommendation might be imperfect and cause dissent \(good signal!\). Or it might be good enough to learn from, and you'll feel consent. I trust that a plan honestly reviewed and improved and recommended by these elected representatives \(+their constituencies\) will serve the community more effectively than a plan drafted with low consensus and pushed awkwardly into F6 will do.
 >
 > \[2\] Acting outside the boundaries of Catalyst Fund **is** essentially on-mission for the Catalyst Circle in my estimation, though we may not yet have formalized what process is appropriate and legitimate for such activity. Lead!\(edited\)![&#x1F44D;](https://discord.com/assets/08c0a077780263f3df97613e58e71744.svg)1
 
@@ -97,13 +96,13 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 
 ![](../.gitbook/assets/2021-09-13-5-.png)
 
-> n+FOL \[ Marta \] — 09/12/2021-  I appreciate being asked for feedback on what occurred at the Circle Meeting \#5. I have put my comments in a PDF document because of the recent experience of posting links, and their becoming corrupted.
+> n+FOL \[ Marta \] — 09/12/2021- I appreciate being asked for feedback on what occurred at the Circle Meeting \#5. I have put my comments in a PDF document because of the recent experience of posting links, and their becoming corrupted.
 >
 > [https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07)
 
 #### PDF Uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Circle5meetingFeedback-V2.pdf](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Circle5meetingFeedback-V2.pdf)
 
-### 1 Regarding the Catalyst Circle Meeting \#5 discussion, and outcome. 
+### 1 Regarding the Catalyst Circle Meeting \#5 discussion, and outcome.
 
 > Having served on the faculty of several universities where budgets, hiring, and even curriculum is done by committee, and having read much history on successions of government by political groups, I recognize approaches that raise concern. Without naming names or specifics, here are descriptions of patterns that often occur in governance by committee, where a small group may have an unspoken agenda:
 >
@@ -119,15 +118,15 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 >
 > Creating disturbances to public meetings or discussions, if the speaker or topic is considered possibly out of sync with the committees agenda, so they can not speak coherently or the topic can not be heard.
 >
-> Using emotional language to express affection for someone or their idea, when the committee’s actual intent is to undermine it, because it may unwittingly challenge the agenda of the committee. 
+> Using emotional language to express affection for someone or their idea, when the committee’s actual intent is to undermine it, because it may unwittingly challenge the agenda of the committee.
 >
-> I agreed with Dor’s position, for the health of the broader community to not allow a future group of Catalyst Circle delegates to be impacted by an act of omission , no matter what the stated reason for that omission may have been. 
+> I agreed with Dor’s position, for the health of the broader community to not allow a future group of Catalyst Circle delegates to be impacted by an act of omission , no matter what the stated reason for that omission may have been.
 >
-> I do not feel there was open and healthy discussions in the broader community from some sectors addressed in the Circle meetings. In one example, there was an initial effort, regarding a request to submit an outline of what problems and solutions should be addressed in the first three months. But I think that follow-up discussion and it’s objectives were not later addressed. And we lost many weeks by limiting swarm sessions to game play, etc, “because of relaxing summer time”, which could have been used to discuss these important topics. 
+> I do not feel there was open and healthy discussions in the broader community from some sectors addressed in the Circle meetings. In one example, there was an initial effort, regarding a request to submit an outline of what problems and solutions should be addressed in the first three months. But I think that follow-up discussion and it’s objectives were not later addressed. And we lost many weeks by limiting swarm sessions to game play, etc, “because of relaxing summer time”, which could have been used to discuss these important topics.
 >
-> I hope this feedback is useful for some. I have participated in Cardano and Project Catalyst fully, because I am in alignment with statements by Charles Hoskinson, about the importance of a decentralized economy and governance structures. Sadly I know from experience and history, that such noble efforts can be overtaken by shadow agendas. I hope there will be solutions in the future to protect against such unfair practices. And hopefully there will be an oversight process that can protect the mission of Cardano, as stated. 
+> I hope this feedback is useful for some. I have participated in Cardano and Project Catalyst fully, because I am in alignment with statements by Charles Hoskinson, about the importance of a decentralized economy and governance structures. Sadly I know from experience and history, that such noble efforts can be overtaken by shadow agendas. I hope there will be solutions in the future to protect against such unfair practices. And hopefully there will be an oversight process that can protect the mission of Cardano, as stated.
 >
-> Much gratitude for the good work, which was undertaken and I may not have included in this response. It is my opinion that humans can rise to the good intentions behind a project’s inception, if intimidation is absent, and communication is not inhibited, and not only left to a small group. 
+> Much gratitude for the good work, which was undertaken and I may not have included in this response. It is my opinion that humans can rise to the good intentions behind a project’s inception, if intimidation is absent, and communication is not inhibited, and not only left to a small group.
 >
 > N+Fold \( Marta \)
 
@@ -138,6 +137,6 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 > ### Juliane — Yesterday at 10:01 PM
 >
 > Hi @Nori . Thank you very much for sharing your thoughts. Felt relief to read it, and so constructive. ![:100:](https://discord.com/assets/db009c8fa13d0f303df266e9d42c8e30.svg)![:pray:](https://discord.com/assets/1904291ab1aa5d14b2adaaff23a578dd.svg)
-
+>
 > Juliane — Yesterday at 10:12 PM Thank you @n+FOL \[ Marta \] , very interesting angle of you response. :pray:
 
