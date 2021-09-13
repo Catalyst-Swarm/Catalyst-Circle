@@ -44,7 +44,7 @@ description: Commentary and Discussion from the community
 
 ### Nori - Catalyst Circle \#5 - Meeting Thoughts
 
-PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Catalyst\_Circle\_5\_-\_Meeting\_Thoughts.pdf](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Catalyst_Circle_5_-_Meeting_Thoughts.pdf)
+#### PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Catalyst\_Circle\_5\_-\_Meeting\_Thoughts.pdf](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Catalyst_Circle_5_-_Meeting_Thoughts.pdf)
 
 > Meeting Video referenced here: [https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view](https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view)
 >
@@ -100,6 +100,8 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 > n+FOL \[ Marta \] — 09/12/2021-  I appreciate being asked for feedback on what occurred at the Circle Meeting \#5. I have put my comments in a PDF document because of the recent experience of posting links, and their becoming corrupted.
 >
 > [https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07)
+
+#### PDF Uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Circle5meetingFeedback-V2.pdf](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Meetings/Meeting-5/Circle5meetingFeedback-V2.pdf)
 
 ### 1 Regarding the Catalyst Circle Meeting \#5 discussion, and outcome. 
 
