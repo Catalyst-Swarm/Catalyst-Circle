@@ -93,3 +93,11 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 >
 > \[2\] Acting outside the boundaries of Catalyst Fund **is** essentially on-mission for the Catalyst Circle in my estimation, though we may not yet have formalized what process is appropriate and legitimate for such activity. Lead!\(edited\)![&#x1F44D;](https://discord.com/assets/08c0a077780263f3df97613e58e71744.svg)1
 
+![](../.gitbook/assets/2021-09-13-5-.png)
+
+### n+FOL \[ Marta \] — 09/12/2021
+
+> n+FOL \[ Marta \] — 09/12/2021-  I appreciate being asked for feedback on what occurred at the Circle Meeting \#5. I have put my comments in a PDF document because of the recent experience of posting links, and their becoming corrupted.
+>
+> [https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07)
+
