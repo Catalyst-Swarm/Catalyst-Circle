@@ -101,3 +101,35 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 >
 > [https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:4580b07e-194b-4e9f-bff0-f2746ba97f07)
 
+### 1 Regarding the Catalyst Circle Meeting \#5 discussion, and outcome. 
+
+I appreciate being provided with a copy of the video, although the edits are a little disconcerting. I wish the video would just be allowed to run. As I think we lose some nuances of discussion. 
+
+I feel concerned that if I voice my opinion, there may be consequences, so I ask that the reader look for the subtext within my words. 
+
+Having served on the faculty of several universities where budgets, hiring, and even curriculum is done by committee, and having read much history on successions of government by political groups, I recognize approaches that raise concern. Without naming names or specifics, here are descriptions of patterns that often occur in governance by committee, where a small group may have an unspoken agenda:
+
+Omission is often used and is more damaging than commission, by participants in the committee. By this I mean, not providing information to the public who will be affected in a timely manner, or as expected, in a way that is damaging to the whole but upon doing so serves an unspoken agenda.
+
+Renaming groups to misrepresent agendas or confuse the public.
+
+Placing easily intimidated or new people in leadership positions within the committee, so every time they speak they feel nervous or worried that they first must get the approval of the committee. In other words their speech is “chilled “, and they are not autonomous. They are under the authority of the committee.
+
+Making it difficult to find information that is deemed to be published for transparency. Or publishing it late, when there is no time for the majority of the community to reflect upon it and respond thoughtfully.
+
+Employing nepotism, populating groups or committees who will not take actions autonomously, but only act in accordance with the implied pressure from the committee.
+
+Creating disturbances to public meetings or discussions, if the speaker or topic is considered possibly out of sync with the committees agenda, so they can not speak coherently or the topic can not be heard.
+
+Using emotional language to express affection for someone or their idea, when the committee’s actual intent is to undermine it, because it may unwittingly challenge the agenda of the committee. 
+
+I agreed with Dor’s position, for the health of the broader community to not allow a future group of Catalyst Circle delegates to be impacted by an act of omission , no matter what the stated reason for that omission may have been. 
+
+I do not feel there was open and healthy discussions in the broader community from some sectors addressed in the Circle meetings. In one example, there was an initial effort, regarding a request to submit an outline of what problems and solutions should be addressed in the first three months. But I think that follow-up discussion and it’s objectives were not later addressed. And we lost many weeks by limiting swarm sessions to game play, etc, “because of relaxing summer time”, which could have been used to discuss these important topics. 
+
+I hope this feedback is useful for some. I have participated in Cardano and Project Catalyst fully, because I am in alignment with statements by Charles Hoskinson, about the importance of a decentralized economy and governance structures. Sadly I know from experience and history, that such noble efforts can be overtaken by shadow agendas. I hope there will be solutions in the future to protect against such unfair practices. And hopefully there will be an oversight process that can protect the mission of Cardano, as stated. 
+
+Much gratitude for the good work, which was undertaken and I may not have included in this response. It is my opinion that humans can rise to the good intentions behind a project’s inception, if intimidation is absent, and communication is not inhibited, and not only left to a small group. 
+
+N+Fold \( Marta \)
+
