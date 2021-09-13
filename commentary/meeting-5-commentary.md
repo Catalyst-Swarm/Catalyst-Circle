@@ -8,6 +8,8 @@ description: Commentary and Discussion from the community
 
 ![](../.gitbook/assets/2021-09-13.png)
 
+### FelixWeber - 09/10/2021
+
 > FelixWeber — 09/10/2021 - Would love to have some feedback from the community about yesterdays CC meeting \#5 [https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view?usp=sharing](https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view?usp=sharing) Was a quite difficult and emotional meeting for all CC members and we would really really love your feedback
 
 #### Discord context
@@ -15,6 +17,8 @@ description: Commentary and Discussion from the community
 {% embed url="https://discord.com/channels/832894680290951179/857887059913211904/885962032334118942" caption="" %}
 
 ![](../.gitbook/assets/2021-09-13-1-.png)
+
+### Randall - 09/10/2021
 
 > Randall — 09/10/2021 - What I got at a summary level is that the fast-funding proposal highlighted more pain-points than just speed \(good info!\), but \(red flag\) veered from its core mission to enable high-importance projects to drive forward decisively. And some commitments from circle members were not met.
 >
@@ -33,6 +37,8 @@ description: Commentary and Discussion from the community
 ## Saturday, 11th September, 2021
 
 ![](../.gitbook/assets/2021-09-13-2-.png)
+
+### Nori - 09/11/2021
 
 > Nori — 09/11/2021 I started writing down my thoughts, and it turned out to be much too long for a post on Discord \(apparently there is a 2000 character limit!\), so here is a PDF of the thoughts that I made based on watching the meeting.
 
@@ -67,6 +73,8 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 > This was, to me, the most interesting and heartfelt part of the meeting. I found it very reassuring that the ethical and trust issues around invoking special privileges for the Catalyst Circle to get very important proposals into IdeaScale after the deadline were brought up by members of the Circle. When something feels wrong, it should be explored, and I think the discussion comparing the critical need to fund the next Catalyst Circle versus evoking special privileges and losing trust or respect of the community was a great exploration of why it felt wrong, and getting to consensus on a path, even if it did not feel completely great at the end. The fact that the discussion happened and that people were able to voice concerns, discuss it, and then share that conversation in all its awkward emotional glory with the community was in itself trust-building, transparent, and open. I wasn't there, so I can't say for sure how I would have handled it, but I respect the conversation and willingness of people to step up and say "wait a second, this feels wrong, we need to talk about it.".
 
 ![](../.gitbook/assets/2021-09-13-3-.png)
+
+### Randall - 09/12/2021
 
 > Randall — 09/12/2021 - thanks for that, Nori. I agree that bypassing the rules for the main funding process feels a little strange. That said, this community did elect this circle. Precisely how much authority goes with that isn't a simple and easy question. There was honor represented in questioning the exercise of power, and taking the decision while re-presenting it to the community for evaluation and consent-or-dissent seems like the right thing.
 
