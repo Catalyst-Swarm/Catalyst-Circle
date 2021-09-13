@@ -72,3 +72,16 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 
 ![](../.gitbook/assets/2021-09-13-4-.png)
 
+> Randall — 09/12/2021 - My conclusion above about fast-funding probably sounds glib, and I apologize for that. I will rephrase:
+>
+>  This group \(the catalyst circle\) isn't first a group of powerful people, but more fundamentally represents the purposes of their constituencies. ...representing them in a **decentralized decision-making body**, with continuing consent of those represented. 
+>
+> If those represented are expressing a need for a fast funding process, and if the Catalyst Circle makes a recommendation \[see 1\] to directly allocate a modestly-sized fund \(relative to the main Catalyst fund\) to serve the felt need on an experimental-not-permanent basis, then I see that as decentralized leadership. Taking the recommendation back to the represented communities would be appropriate, just as was done with the administrative override \(well done on that choice, vs worse options\). 
+>
+> Still: pushing a proposal into the Catalyst voting process to get permission feels like an abdication of the Circle's authority granted from their constituencies, and **giving the Voters \(who, I note, only have one seat in the circle\) the decision feels like begging for plutocracy to neuter the purpose of the Catalyst Circle**. It also feels less honorable than it would do for this decentralized decision-making body to commit gently and carefully to an act of true leadership \[see 2\]. 
+>
+> \[1\] the specifics of this recommendation might be imperfect and cause dissent \(good signal!\). Or it might be good enough to learn from, and you'll feel consent. I trust that a plan honestly reviewed and improved and recommended by these elected representatives \(+their constituencies\) will serve the community more effectively than a plan drafted with low consensus and pushed awkwardly into F6 will do.  
+>  
+>
+> \[2\] Acting outside the boundaries of Catalyst Fund **is** essentially on-mission for the Catalyst Circle in my estimation, though we may not yet have formalized what process is appropriate and legitimate for such activity. Lead!\(edited\)![&#x1F44D;](https://discord.com/assets/08c0a077780263f3df97613e58e71744.svg)1
+
