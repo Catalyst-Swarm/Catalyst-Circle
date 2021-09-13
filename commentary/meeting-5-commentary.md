@@ -129,3 +129,13 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 >
 > N+Fold \( Marta \)
 
+![](../.gitbook/assets/2021-09-13-6-.png)
+
+### Juliane - 09/12/2021
+
+> ### Juliane — Yesterday at 10:01 PM
+>
+> Hi @Nori . Thank you very much for sharing your thoughts. Felt relief to read it, and so constructive. ![:100:](https://discord.com/assets/db009c8fa13d0f303df266e9d42c8e30.svg)![:pray:](https://discord.com/assets/1904291ab1aa5d14b2adaaff23a578dd.svg)
+
+> Juliane — Yesterday at 10:12 PM Thank you @n+FOL \[ Marta \] , very interesting angle of you response. :pray:
+
