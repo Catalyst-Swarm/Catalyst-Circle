@@ -103,10 +103,6 @@ PDF uploaded here : [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordina
 
 ### 1 Regarding the Catalyst Circle Meeting \#5 discussion, and outcome. 
 
-I appreciate being provided with a copy of the video, although the edits are a little disconcerting. I wish the video would just be allowed to run. As I think we lose some nuances of discussion. 
-
-I feel concerned that if I voice my opinion, there may be consequences, so I ask that the reader look for the subtext within my words. 
-
 Having served on the faculty of several universities where budgets, hiring, and even curriculum is done by committee, and having read much history on successions of government by political groups, I recognize approaches that raise concern. Without naming names or specifics, here are descriptions of patterns that often occur in governance by committee, where a small group may have an unspoken agenda:
 
 Omission is often used and is more damaging than commission, by participants in the committee. By this I mean, not providing information to the public who will be affected in a timely manner, or as expected, in a way that is damaging to the whole but upon doing so serves an unspoken agenda.
