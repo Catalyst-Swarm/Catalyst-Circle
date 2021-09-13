@@ -36,9 +36,9 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 
 ## Saturday, 11th September, 2021
 
-![](../.gitbook/assets/2021-09-13-2-.png)
-
 ### Nori - 09/11/2021
+
+![](../.gitbook/assets/2021-09-13-2-.png)
 
 > Nori — 09/11/2021 I started writing down my thoughts, and it turned out to be much too long for a post on Discord \(apparently there is a 2000 character limit!\), so here is a PDF of the thoughts that I made based on watching the meeting.
 
