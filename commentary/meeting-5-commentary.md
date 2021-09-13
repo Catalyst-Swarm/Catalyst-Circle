@@ -131,9 +131,9 @@ description: Commentary and Discussion from the community on Catalyst Circle Mee
 >
 > N+Fold \( Marta \)
 
-![](../.gitbook/assets/2021-09-13-6-.png)
-
 ### Juliane - 09/12/2021
+
+![](../.gitbook/assets/2021-09-13-6-.png)
 
 > ### Juliane — Yesterday at 10:01 PM
 >
