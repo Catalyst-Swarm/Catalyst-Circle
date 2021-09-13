@@ -36,6 +36,8 @@ description: Commentary and Discussion from the community
 
 > Nori — 09/11/2021 I started writing down my thoughts, and it turned out to be much too long for a post on Discord \(apparently there is a 2000 character limit!\), so here is a PDF of the thoughts that I made based on watching the meeting.
 
+### Nori - Catalyst Circle #5 - Meeting Thoughts 
+
 > Meeting Video referenced here: [https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view](https://drive.google.com/file/d/1hyNGQ0bRfCo3ezCZumz3hHvheO6DwnUC/view) 
 >
 > First of all, let me start by saying that I am very grateful that these meetings are recorded and available for the Catalyst community to watch. Thank you to the Circle for maintaining transparency and openness. This meeting covered some difficult emotional and challenging ethical grounds, and I wanted to post some of my thoughts. They are broken down into three large buckets:
