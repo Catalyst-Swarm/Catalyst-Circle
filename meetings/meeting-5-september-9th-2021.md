@@ -4,6 +4,8 @@ description: 'Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC'
 
 # Meeting 5 - September 9th 2021
 
+{% embed url="https://www.youtube.com/watch?v=nb1eyRaM-r4" %}
+
 ### Catalyst Circle Meeting 5 - Thursday, 9th September 2021 at 17.00 UTC
 
 #### Attendees:
