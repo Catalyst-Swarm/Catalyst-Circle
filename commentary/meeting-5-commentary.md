@@ -1,5 +1,5 @@
 ---
-description: Commentary and Discussion from the community
+description: Commentary and Discussion from the community on Catalyst Circle Meeting 5
 ---
 
 # Meeting 5 - Commentary
