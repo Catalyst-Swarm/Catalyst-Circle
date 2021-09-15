@@ -28,7 +28,7 @@ The Facilitator will guide the meeting through the agenda and the Secretary will
 
 ### Between Circle Meetings
 
-#### Agendas
+### Agendas
 
 At least one week before a Circle Meeting a Secretary will draft an outline agenda based on the outcomes of the previous Circle meeting.
 
