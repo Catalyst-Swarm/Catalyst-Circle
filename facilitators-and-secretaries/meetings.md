@@ -22,30 +22,34 @@ Meeting between John Buck, Michael Yagi and Stephen Whitenstall on the Catalyst 
 Members:  Nadim Karam, Charlie Robertstad, Nori Nishigaya, Stephen Rowan, Alice Sitar, Michael Yagi, Felix Weber
 {% endhint %}
 
-**Check-in \(start 0:00\)**
+#### **Check-in \(start 0:00\)**
 
 * Start Recording
 
-**Administrative: \(start 0:05\)**
+#### **Administrative: \(start 0:05\)**
 
 * Announcements
 * Accept proposed Content Agenda
 * Contact info for meeting invites
   * Team to add \(or verify\) email addresses below
-    * Nadim Karam  &lt;karam.nadim@gmail.com&gt;
-    * Charlie Robertstad  &lt;charlierobertstad@pm.me&gt;
-    * Nori Nishigaya &lt;anishi@gmail.com&gt;
-    * Stephen Rowan &lt;whitenstall@ekphrasis.co.uk&gt;
-    * Michael Yagi &lt;myagi@ikigaitech.org&gt;
-    * Peter Wolcott &lt;sirwolcottt@protonmail.com&gt;
-    * Felix Weber  &lt;[felix4swarm@gmail.com](mailto:felix4swarm@gmail.com)&gt;
-    * Alice Sitar &lt;[alice.lankri@gmail.com](mailto:alice.lankri@gmail.com)&gt;
+  * * Nadim Karam  
+    * Charlie Robertstad  
+    * Nori Nishigaya 
+    * Stephen Rowan 
+    * Michael Yagi
+    * Peter Wolcott 
+    * Felix Weber
+    * Alice Sitar
 
-**Content Agenda \(start 0:08\)**
+#### **Content Agenda \(start 0:08\)**
 
 * Introductions
 * Discussion on purpose of Catalyst Circle Facilitators and Secretary team
   * Propose a discussion on roles and responsibility of facilitator, secretary, and team on Friday? \(30m might not be enough for this meeting\)
+
+**Nadim** - Is traveling and trying to keep up to date when he can. Interested in how the facilitator/secretary roles chase.
+
+**Charlie**  - We do not have a clear vision of Circle aims. Project Catalyst seems agnostic on setting goals. The current iteration gives me little confidence that much will be delivered. As there is not enough conversation about problems. Also there is a need to define terms like “red lines”. How to define the shape of Catalyst remains open. At Circle Meeting 5 how to define the election process seemed to be sidelined by funding issues ?
 
 
 
