@@ -120,6 +120,8 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Alice** - At our startup we use this model - [https://www.toolshero.com/leadership/golden-circle-simon-sinek/](https://www.toolshero.com/leadership/golden-circle-simon-sinek/) - sometimes it also about emotional alignment. Sometimes awareness of this can create new dynamics.
 
+**Nori** - I like that. As facilitators we should try to read the emotional state of the room. But we are going off-topic a bit. We should create an agenda for the next meeting. We can arrange this asynchronously. And items such as a strategy for creating an agenda for the next Circle meeting and to address technical requirements such as individual Google docs etc.
+
 
 
 
