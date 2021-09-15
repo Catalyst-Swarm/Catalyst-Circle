@@ -112,5 +112,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Nori** - Consent to speak to allow space for all to participate in the conversation is useful in facilitation of meetings when there are unresolved issues.
 
+**Charlie** - What is difficult is that these ways in which we intend to interact only really work when there are clear goals. Divergent viewpoints come from divergent goals. When an entity exists that you can name then there is an implicit agreement that we know what is going on. Circles will develop in common with consolidated identity. An unspoken identity. But currently people have conversations and ideas which get lost.
+
 
 
