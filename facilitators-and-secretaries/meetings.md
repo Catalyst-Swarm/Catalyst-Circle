@@ -110,5 +110,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Felix** - I appreciate Nori’s points. It is not for facilitators and secretaries to create another Circle. To draft agendas and facilitate meetings is the main purpose. Do not set expectations too high. The main points are the agenda & the minutes the secretary takes and the facilitator who facilitates the meeting. Will evolve over subsequent meetings. In Circle we made the mistake about participation from people who are not informed about Catalyst or Circle. So facilitators and secretaries need a knowledge base to make sure you are informed.
 
+**Nori** - Consent to speak to allow space for all to participate in the conversation is useful in facilitation of meetings when there are unresolved issues.
+
 
 
