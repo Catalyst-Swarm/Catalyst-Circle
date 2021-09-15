@@ -43,9 +43,13 @@ Members:  Nadim Karam, Charlie Robertstad, Nori Nishigaya, Stephen Whitenstall, 
 
 #### **Content Agenda \(start 0:08\)**
 
-* Introductions
-* Discussion on purpose of Catalyst Circle Facilitators and Secretary team
-  * Propose a discussion on roles and responsibility of facilitator, secretary, and team on Friday? \(30m might not be enough for this meeting\)
+#### Introductions
+
+#### Discussion on purpose of Catalyst Circle Facilitators and Secretary team
+
+{% hint style="info" %}
+Propose a discussion on roles and responsibility of facilitator, secretary, and team on Friday? \(30m might not be enough for this meeting\)
+{% endhint %}
 
 **Nadim** - Is traveling and trying to keep up to date when he can. Interested in how the facilitator/secretary roles chase.
 
