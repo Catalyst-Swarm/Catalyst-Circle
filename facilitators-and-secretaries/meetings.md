@@ -124,6 +124,10 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Felix** - Victor will be at Friday’s meeting as well \(17th September 2021\). Today Lauris and I will also attend the After Town Hall Circle Breakout room. We need to draft the Circle agenda upfront.
 
+**Stephen** - OK let's agree to start seeking Circle agenda Items at least a week before each bi-weekly Circle meeting and communicate with Circle members from this point forward.
+
+**Nadim** - Lets also agree to hold a regular call between the facilitator/secretary on Circle meeting logistics.
+
 
 
 
