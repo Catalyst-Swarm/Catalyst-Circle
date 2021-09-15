@@ -28,18 +28,59 @@ Members:  Nadim Karam, Charlie Robertstad, Nori Nishigaya, Stephen Whitenstall, 
 
 #### **Administrative: \(start 0:05\)**
 
-* Announcements
-* Accept proposed Content Agenda
-* Contact info for meeting invites
-  * Team to add \(or verify\) email addresses below
-  * * Nadim Karam  
-    * Charlie Robertstad  
-    * Nori Nishigaya 
-    * Stephen Whitenstall
-    * Michael Yagi
-    * Peter Wolcott 
-    * Felix Weber
-    * Alice Sitar
+Announcements
+
+Accept proposed Content Agenda
+
+Contact info for meeting invites
+
+Team to add \(or verify\) email addresses below
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Nadim Karam</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>Charlie Robertstad</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nori Nishigaya</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Stephen Whitenstall</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Michael Yagi</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Peter Wolcott</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Felix Weber</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Alice Sitar</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 #### **Content Agenda \(start 0:08\)**
 
