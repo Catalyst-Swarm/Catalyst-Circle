@@ -66,3 +66,7 @@
 * [Meeting 3 & 4 Commentary](commentary/meeting-3-and-4-commentary.md)
 * [Meeting 5 - Commentary](commentary/meeting-5-commentary.md)
 
+## Facilitators and Secretaries
+
+* [Facilitator and Secretaries](facilitators-and-secretaries/facilitator-and-secretaries.md)
+
