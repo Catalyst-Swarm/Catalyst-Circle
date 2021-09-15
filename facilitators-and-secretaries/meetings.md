@@ -102,5 +102,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Alice** - I liked what Charlie said and I propose an action item - to add higher goals, to facilitate conversation around insights and vision of Circle. To make them more specific.
 
+**Stephen** - During Circle Meeting 5, Dor asked me a question regarding the Trello board process and this broke the fourth wall that is the silent secretary. I was unprepared, but in future the secretary and facilitator should be prepared to give input when called upon.
+
 
 
