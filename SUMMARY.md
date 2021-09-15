@@ -68,5 +68,5 @@
 
 ## Facilitators and Secretaries
 
-* [Facilitator and Secretaries](facilitators-and-secretaries/facilitator-and-secretaries.md)
+* [Overview](facilitators-and-secretaries/facilitator-and-secretaries.md)
 
