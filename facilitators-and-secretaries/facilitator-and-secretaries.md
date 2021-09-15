@@ -36,6 +36,12 @@ A Secretary will distribute \(or link to\) the outline agenda to Circle Members 
 
 The outline agenda will be stored as a single Google document in a folder for that meeting.
 
+### Minutes
+
+A Secretary will take minutes during each Circle Meeting. The draft minutes will be committed to version control and then edited for clarity.
+
+
+
 
 
 
