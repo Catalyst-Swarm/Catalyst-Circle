@@ -42,7 +42,7 @@ A Secretary will take minutes during each Circle Meeting. The draft minutes will
 
 The minutes will be published as a single Google document in a folder for that meeting.
 
-The minutes will be imported into the Oversight GitBook and comitted to GitHub.
+The minutes will be imported into the Catalyst Circle Oversight GitBook and comitted to GitHub.
 
 
 
