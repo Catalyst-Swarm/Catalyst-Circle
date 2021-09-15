@@ -100,5 +100,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Charlie** - I would suggest facilitation is also the grounding of meaning. We should call-out ambiguity in a meeting and respond in kind.
 
+**Alice** - I liked what Charlie said and I propose an action item - to add higher goals, to facilitate conversation around insights and vision of Circle. To make them more specific.
+
 
 
