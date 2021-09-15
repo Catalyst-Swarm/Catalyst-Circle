@@ -114,5 +114,12 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Charlie** - What is difficult is that these ways in which we intend to interact only really work when there are clear goals. Divergent viewpoints come from divergent goals. When an entity exists that you can name then there is an implicit agreement that we know what is going on. Circles will develop in common with consolidated identity. An unspoken identity. But currently people have conversations and ideas which get lost.
 
+**Stephen** - Should Circle not represent the divergent goals / viewpoint of different stakeholders - which may conflict at times ? Not always about agreement - but documenting differences as well ?  
+
+
+**Nori** - Consensus does not mean “agreement”, it means “acceptable”, which helps because you can create a larger context that includes both viewpoints, even if it is not a perfect fit for everyone.
+
+
+
 
 
