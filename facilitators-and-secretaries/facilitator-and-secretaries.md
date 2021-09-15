@@ -40,6 +40,10 @@ The outline agenda will be stored as a single Google document in a folder for th
 
 A Secretary will take minutes during each Circle Meeting. The draft minutes will be committed to version control and then edited for clarity.
 
+The minutes will be published as a single Google document in a folder for that meeting.
+
+The minutes will be imported into the Oversight GitBook and comitted to GitHub.
+
 
 
 
