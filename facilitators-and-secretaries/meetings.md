@@ -8,7 +8,7 @@ description: Facilitator and Secretaries meetings
 
 ## 14th September
 
-Meeting between John Buck, Michael Yagi and Stephen Whitenstall on the Catalst Sectaray role.
+Meeting between John Buck, Michael Yagi and Stephen Whitenstall on the Catalyst Sectaray role.
 
 
 
