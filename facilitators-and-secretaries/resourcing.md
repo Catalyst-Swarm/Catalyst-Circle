@@ -1,8 +1,8 @@
 ---
-description: Resourcing Catalyst Circle
+description: Recruiting Facilitator and Secretaries
 ---
 
-# Resourcing
+# Recruiting Facilitator and Secretaries
 
 ## Catalyst Circle is looking for an meeting facilitator 
 
