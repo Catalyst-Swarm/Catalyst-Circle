@@ -94,5 +94,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Charlie**  - We do not have a clear vision of Circle aims. Project Catalyst seems agnostic on setting goals. The current iteration gives me little confidence that much will be delivered. As there is not enough conversation about problems. Also there is a need to define terms like “red lines”. How to define the shape of Catalyst remains open. At Circle Meeting 5 how to define the election process seemed to be sidelined by funding issues ?
 
+**Nadim** - There are a lot of gaps and not a lot not defined. We need to define all this ambiguity, before we are able to transition to some foundation, some stability. We have 3 months to develop something to meet this challenge.
+
 
 
