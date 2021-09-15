@@ -28,19 +28,17 @@ Members:  Nadim Karam, Charlie Robertstad, Nori Nishigaya, Stephen Whitenstall, 
 
 #### **Administrative: \(start 0:05\)**
 
-Announcements
+#### Announcements
 
-Accept proposed Content Agenda
+#### Accept proposed Content Agenda
 
-Contact info for meeting invites
-
-Team to add \(or verify\) email addresses below
+#### Contact info for meeting invites
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Team to add (or verify) email addresses below</th>
+      <th style="text-align:left">Recorded in Google Document</th>
     </tr>
   </thead>
   <tbody>
