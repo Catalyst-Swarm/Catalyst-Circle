@@ -18,6 +18,8 @@ Meeting between John Buck, Michael Yagi and Stephen Whitenstall on the Catalyst 
 
 #### Facilitator and Secretaries First Meeting - getting to know each other 
 
+{% embed url="https://www.youtube.com/watch?v=0PWKHyZZROo" %}
+
 {% hint style="info" %}
 Members:  Nadim Karam, Charlie Robertstad, Nori Nishigaya, Stephen Whitenstall, Alice Sitar, Michael Yagi, Felix Weber
 {% endhint %}
