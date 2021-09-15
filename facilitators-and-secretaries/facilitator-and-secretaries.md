@@ -32,7 +32,7 @@ The Facilitator will guide the meeting through the agenda and the Secretary will
 
 At least one week before a Circle Meeting a Secretary will draft and distribute an outline agenda based on the outcomes of the previous Circle meeting.
 
-A Secretary will distribute \(or link to\) the outline agenda to Circle Members and the Facilitator for review and for additions or amendments. Two days prior to the Circle meeting the Secretary will 
+A Secretary will distribute \(or link to\) the outline agenda to Circle Members and the Facilitator for review and for additions or amendments. Two days prior to the Circle meeting the Secretary will chase Circle members for input.
 
 The outline agenda will be stored as a single Google document in a folder for that meeting.
 
