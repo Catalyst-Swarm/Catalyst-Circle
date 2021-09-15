@@ -104,5 +104,9 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Stephen** - During Circle Meeting 5, Dor asked me a question regarding the Trello board process and this broke the fourth wall that is the silent secretary. I was unprepared, but in future the secretary and facilitator should be prepared to give input when called upon.
 
+**Nori** - I do not want this group to insert items in the Circle’s Agenda. Some feedback from Felix on this point would be good
+
+**Nadim**  - We should ask Circle what do you guys need from us ? What are Circles pain points and where do you think we could add value ?
+
 
 
