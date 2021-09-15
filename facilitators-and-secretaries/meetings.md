@@ -122,6 +122,8 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Nori** - I like that. As facilitators we should try to read the emotional state of the room. But we are going off-topic a bit. We should create an agenda for the next meeting. We can arrange this asynchronously. And items such as a strategy for creating an agenda for the next Circle meeting and to address technical requirements such as individual Google docs etc.
 
+**Felix** - Victor will be at Friday’s meeting as well \(17th September 2021\). Today Lauris and I will also attend the After Town Hall Circle Breakout room. We need to draft the Circle agenda upfront.
+
 
 
 
