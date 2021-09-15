@@ -10,13 +10,23 @@ The Facilitator and Secretaries group arose out of recruitment sessions at After
 
 ## Scope
 
-The Facilitator and Secretaries group exists to support :
+The Facilitators and Secretaries group exists to support :
 
 The facilitation of Catalyst Circle meetings.
 
 The maintenance of minutes & and an agenda.
 
 The co-ordination of agenda items between meetings.
+
+## Responsibilities
+
+### Circle Meetings
+
+A Facilitator and a Secretary will attend Circle Meeting
+
+The Facilitator will guide the meeting through the agenda and the Secretary will take minutes.
+
+
 
 
 
