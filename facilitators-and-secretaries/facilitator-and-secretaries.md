@@ -12,11 +12,11 @@ The Facilitator and Secretaries group arose out of recruitment sessions at After
 
 The Facilitator and Secretaries group exists to support :
 
-The Facilitation of Catalyst Circle meetings.
+The facilitation of Catalyst Circle meetings.
 
-The maintenance of minutes & and an Agenda.
+The maintenance of minutes & and an agenda.
 
-The co-ordination of Agenda items between meetings.
+The co-ordination of agenda items between meetings.
 
 
 
