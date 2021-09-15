@@ -96,7 +96,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Nadim** - There are a lot of gaps and not a lot not defined. We need to define all this ambiguity, before we are able to transition to some foundation, some stability. We have 3 months to develop something to meet this challenge.
 
-**Nori** - To get conversation back on track. We have an After Town Hall \(ATH\) Breakout room tonight where we can discuss Circle’s terms of reference. But we are facilitators, we do not guide the vision of Circle, we should be able to give feedback - but we are not responsible for the shaping of Circle. Facilitators should be doing work prior to Circle meetings to identify actions items and to employ a strategy to meet that goal.
+**Nori** - To get the conversation back on track. We have an After Town Hall \(ATH\) Breakout room tonight where we can discuss Circle’s terms of reference. But we are facilitators, we do not guide the vision of Circle, we should be able to give feedback - but we are not responsible for the shaping of Circle. Facilitators should be doing work prior to Circle meetings to identify actions items and to employ a strategy to meet that goal.
 
 **Charlie** - I would suggest facilitation is also the grounding of meaning. We should call-out ambiguity in a meeting and respond in kind.
 
