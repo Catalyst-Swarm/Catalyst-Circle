@@ -10,7 +10,7 @@ The Facilitator and Secretaries group arose out of recruitment sessions at After
 
 ## Scope
 
-The Facilitators and Secretaries group exists to support :
+#### The Facilitators and Secretaries group exists to support :
 
 The facilitation of Catalyst Circle meetings.
 
