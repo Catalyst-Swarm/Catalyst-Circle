@@ -22,7 +22,7 @@ The co-ordination of agenda items between meetings.
 
 ### Circle Meetings
 
-A Facilitator and a Secretary will attend Circle Meeting
+A Facilitator and a Secretary will attend Circle Meetings.
 
 The Facilitator will guide the meeting through the agenda and the Secretary will take minutes.
 
