@@ -130,6 +130,12 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 **Nadim** - Lets also agree to hold a regular call between the facilitator/secretary on Circle meeting logistics.
 
+### 15th September 1800 UTC After Town Hall
+
+15th September 1800 UTC After Town Hall - Breakout Room - Catalyst Circle Feedback & QA
+
+{% embed url="https://www.youtube.com/watch?v=CH\_tesi7K40" %}
+
 
 
 
