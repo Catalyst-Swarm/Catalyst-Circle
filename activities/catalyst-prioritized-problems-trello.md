@@ -14,9 +14,17 @@ description: Catalyst Prioritized Problems Trello Board
 
 {% embed url="https://trello.com/c/Luv059yi" %}
 
+### 
+
 ### T&M: There are no systems to track and visualize Trust and Participation
 
+#### Trello Card
+
 {% embed url="https://trello.com/c/dTVpwFU8" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/37" %}
 
 
 
