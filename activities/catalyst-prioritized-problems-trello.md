@@ -6,6 +6,12 @@ description: Catalyst Prioritized Problems Trello Board
 
 ## Revised Catalyst Prioritized Problems Trello Board
 
+## Overview
+
+This page embeds Trello Cards & GitHub Issues for each Prioritized Problem Circle is working on. It follows the guidelines presentd by Dor Garbash and Victor Corcinio 
+
+## 
+
 ## Trust & Merit
 
 ### CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way.
