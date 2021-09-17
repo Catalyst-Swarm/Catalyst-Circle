@@ -12,7 +12,7 @@ This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** C
 
 Each embedded **Trello Card** displays the category label \(e.g. Trust & Merit\), the problem description and the journey stage, called _list_ in Trello \(e.g. 360 Feedback\).
 
-Beneath each Trello Card is a copy in GitHub Issue format. There is also a two way link between Trello Card and GitHub Issue. 
+Beneath each Trello Card is a copy in GitHub Issue format. There is also a two way link between Trello Card and GitHub Issue. The GitHub Issue allows for more extensive documentation to be added, for Prioritized Problems to be associated with particular events such as meetings and for anyone with a GitHub account to comment and copy.
 
 ## Trust & Merit
 
