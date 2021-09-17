@@ -18,6 +18,17 @@ Beneath each Trello Card is a copy in GitHub Issue format. There is also a two w
 
 ## Trust & Merit
 
+### T&M: There are no systems to track and visualize Trust and Participation
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/dTVpwFU8" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/37" %}
+
+
 ### CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way.
 
 #### Trello Card
@@ -30,15 +41,6 @@ Beneath each Trello Card is a copy in GitHub Issue format. There is also a two w
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/39" %}
 
-### T&M: There are no systems to track and visualize Trust and Participation
-
-#### Trello Card
-
-{% embed url="https://trello.com/c/dTVpwFU8" %}
-
-#### GitHub Issue
-
-{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/37" %}
 
 
 
