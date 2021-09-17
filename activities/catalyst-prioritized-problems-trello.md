@@ -10,13 +10,15 @@ description: Catalyst Prioritized Problems Trello Board
 
 This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** Circle is working on. It follows the guidelines for a revised user journey presented by Dor Garbash and Victor Corcino at [Circle Meeting 5](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-5-september-9th-2021#00-15-trello-board-guidelines-dor-and-victor-10-min) on 9th September 2021.
 
-Each embedded **Trello Card** displays the category label \(e.g. Trust & Merit\), the problem description and the journey stage \(called list in Trello\) \(e.g. 360 Feedback\).
+Each embedded **Trello Card** displays the category label \(e.g. Trust & Merit\), the problem description and the journey stage, called _list_ in Trello \(e.g. 360 Feedback\).
+
+Beneath each Trello Card is a copy in GitHub Issue format. There is also a two way link between Trello Card and GitHub Issue. 
 
 ## Trust & Merit
 
 ### CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way.
 
-### Trello Card
+#### Trello Card
 
 
 
