@@ -18,7 +18,9 @@ This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** C
 
 {% embed url="https://trello.com/c/Luv059yi" %}
 
-### 
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/39" %}
 
 ### T&M: There are no systems to track and visualize Trust and Participation
 
