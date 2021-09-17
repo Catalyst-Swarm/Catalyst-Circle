@@ -14,6 +14,8 @@ This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** C
 
 ### CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way.
 
+### Trello Card
+
 
 
 {% embed url="https://trello.com/c/Luv059yi" %}
