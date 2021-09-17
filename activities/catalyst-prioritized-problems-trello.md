@@ -8,7 +8,7 @@ description: Catalyst Prioritized Problems Trello Board
 
 ## Overview
 
-This page embeds Trello Cards & GitHub Issues for each Prioritized Problem Circle is working on. It follows the guidelines presentd by Dor Garbash and Victor Corcinio 
+This page embeds Trello Cards & GitHub Issues for each Prioritized Problem Circle is working on. It follows the guidelines presented by Dor Garbash and Victor Corcinio 
 
 ## 
 
