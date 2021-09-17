@@ -8,7 +8,9 @@ description: Catalyst Prioritized Problems Trello Board
 
 ## Overview
 
-This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** Circle is working on. It follows the guidelines for a revised user journey presented by Dor Garbash and Victor Corcino at [Circle Meeting 5](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-5-september-9th-2021#00-15-trello-board-guidelines-dor-and-victor-10-min) on 9th September 2021.
+This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** Circle is working on and dispalys the current staus of the probelm.
+
+It follows the guidelines for a revised user journey presented by Dor Garbash and Victor Corcino at [Circle Meeting 5](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-5-september-9th-2021#00-15-trello-board-guidelines-dor-and-victor-10-min) on 9th September 2021.
 
 Each embedded **Trello Card** displays the category label \(e.g. Trust & Merit\), the problem description and the journey stage, called _list_ in Trello \(e.g. 360 Feedback\).
 
