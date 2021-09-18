@@ -138,7 +138,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 
 
-### 17th September 17, 1700 UTC
+### 17th September, 1700 UTC
 
 Members: Nadim Karam, Nori Nishigaya, Stephen Rowan, Felix Weber, Lauris, Victor, 
 
