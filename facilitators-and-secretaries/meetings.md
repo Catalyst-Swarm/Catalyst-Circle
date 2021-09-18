@@ -142,6 +142,10 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 Members: Nadim Karam, Nori Nishigaya, Stephen Rowan, Peter Wolcott , Felix Weber, Victor Corcino, Lauris Steglics
 
+{% hint style="info" %}
+Source : [https://docs.google.com/document/d/1Q6sGAMqQK883mvcRjf372MWwc26vv1VX2ArnaJ1F9cI/edit?usp=sharing](https://docs.google.com/document/d/1Q6sGAMqQK883mvcRjf372MWwc26vv1VX2ArnaJ1F9cI/edit?usp=sharing)
+{% endhint %}
+
 Check-in \(start 0:00\)
 
 * Start Recording
