@@ -38,3 +38,13 @@ Beneath each Trello Card is a copy in GitHub Issue format. There is also a two w
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/39" caption="" %}
 
+
+
+## Funding Reward Rigidity
+
+### Faster Funding for Catalyst Projects
+
+{% embed url="https://trello.com/c/3BC5ng8o" %}
+
+
+
