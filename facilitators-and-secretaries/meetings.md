@@ -1,5 +1,5 @@
 ---
-description: Facilitator and Secretaries meetings
+description: Facilitators and Secretaries meetings
 ---
 
 # Meetings
