@@ -138,5 +138,78 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 
 
+### 17th September 17, 1700 UTC
 
+Members: Nadim Karam, Nori Nishigaya, Stephen Rowan, Felix Weber, Lauris, Victor, 
+
+Check-in \(start 0:00\)
+
+* Start Recording
+
+**Administrative: \(start 0:05\)**
+
+* Overview of previous minutes
+* Announcements
+  * Announcement - Pete OK offering training
+* Accept proposed Content Agenda
+
+**Content Agenda \(start 0:08\)**
+
+* Feedback from Victor on his facilitation experience with Catalyst Circle to date \(Victor\) \[moving to top as he has limited time\]
+
+Temporary solution for Victor to facilitate previous meetings.
+
+Share feedback form so mistakes are not repeated.
+
+A lot of people - lot to discuss in short period of time
+
+Focus on agenda is important
+
+5 or 10 minutes on each topic - always need more time
+
+Last 20 minutes : 5 minutes for feedback form, 15 minutes buffer time.
+
+First 5 minutes for introductions
+
+5 more minutes for announcements  
+
+
+* Working with a group decision software \(Alice\)
+  * Trying out Loo mio
+* Agenda logistics \(Stephen\)
+  * Google docs : raise draft agenda week in advance of meeting
+  * Google docs : separate document
+* Minutes logistics \(Stephen\)
+  * Google docs : save draft, then edit - import into GitBook. Distribute
+  * Google docs : separate document
+* Meeting recording logistics \(Stephen\)
+  * Secretary laises with Dany IOG to obtain recording
+  * Recording uploaded to Youtube \(QA-DAO or Swarm\)
+
+Felix makes secretary, host or co-host. Co-host records meeting. Passes recording onto Dany. Dany upload recording to IOHK
+
+* Regular scheduling for this meeting \(Nori\)
+  * Proposal: once every two weeks, the day after the CC meeting so we have two weeks to craft the next agenda, remind and chase action items, and the meeting is fresh in mind for a debrief on what went well/can be improved.
+
+Makes more sense to have 1 week in advance - Nadim
+
+Not enough time if we start to prepare a week in advance - Nori
+
+Timeliness of tracking  - Peter 
+
+Proposal approved to meet the day after the CC meeting.
+
+Action item: Nori to send out a recurring meeting
+
+* Rotation for Facilitator and Secretary for this meeting \(Nori\)
+  * Proposal: Trade off the facilitator and secretary for this meeting so people can start practicing the skills for facilitation and recording of the minutes, prep for meeting, etc. Come up with a schedule or rotation so people can know when they will be on-deck.
+
+Proposal accepted
+
+Action Item: Team to create a schedule for admin and facilitator
+
+Action Item: Support Felix in progress and achievement reporting Slidedeck at TH
+
+* 
+**Closing round** 
 
