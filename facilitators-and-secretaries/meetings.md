@@ -18,6 +18,10 @@ Meeting between John Buck, Michael Yagi and Stephen Whitenstall on the Catalyst 
 
 #### Facilitator and Secretaries First Meeting - getting to know each other 
 
+{% hint style="info" %}
+Source : [https://docs.google.com/document/d/1Q6sGAMqQK883mvcRjf372MWwc26vv1VX2ArnaJ1F9cI/edit?usp=sharing](https://docs.google.com/document/d/1Q6sGAMqQK883mvcRjf372MWwc26vv1VX2ArnaJ1F9cI/edit?usp=sharing)
+{% endhint %}
+
 {% embed url="https://www.youtube.com/watch?v=0PWKHyZZROo" %}
 
 {% hint style="info" %}
