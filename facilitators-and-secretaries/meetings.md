@@ -140,7 +140,7 @@ Propose a discussion on roles and responsibility of facilitator, secretary, and 
 
 ### 17th September, 1700 UTC
 
-Members: Nadim Karam, Nori Nishigaya, Stephen Rowan, Felix Weber, Lauris, Victor, 
+Members: Nadim Karam, Nori Nishigaya, Stephen Rowan, Peter Wolcott , Felix Weber, Victor Corcino, Lauris Steglics
 
 Check-in \(start 0:00\)
 
