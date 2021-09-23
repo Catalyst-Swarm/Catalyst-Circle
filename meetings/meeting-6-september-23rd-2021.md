@@ -1,8 +1,8 @@
 ---
-description: 'Circle Meeting 6 - September 2021 - 17:00 UTC'
+description: 'Circle Meeting 6 - September 23rd 2021 - 17:00 UTC'
 ---
 
-# Meeting 6 - September 2021
+# Meeting 6 - September 23rd 2021
 
 ## **Agenda Items for CC meeting \#6**
 

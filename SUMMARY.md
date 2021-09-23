@@ -21,7 +21,7 @@
 * [Meeting 3 - August 12th, 2021](meetings/meeting-3-august-12th-2021.md)
 * [Meeting 4 - August 26th 2021](meetings/meeting-4-august-26th-2021.md)
 * [Meeting 5 - September 9th 2021](meetings/meeting-5-september-9th-2021.md)
-* [Meeting 6 - September 2021](meetings/meeting-6-september-23rd-2021.md)
+* [Meeting 6 - September 23rd 2021](meetings/meeting-6-september-23rd-2021.md)
 
 ## Stake Pool Operators
 
