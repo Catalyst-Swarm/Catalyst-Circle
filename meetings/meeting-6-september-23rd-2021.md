@@ -26,39 +26,39 @@ description: 'Circle Meeting 6 - September 23rd 2021 - 17:00 UTC'
 
 ### **Moving existing Items across the board**
 
-\(00.10\) \(CC\) **Tracking problems and actions** - \([Trello Card](https://trello.com/c/reroCIGE) \) 
+### \(00.10\) \(CC\) **Tracking problems and actions** - \([Trello Card](https://trello.com/c/reroCIGE) \) 
 
 Agree Implementation of guidelines presented at the last Circle meeting and discuss moving existing Items \(problem backlog\) across the board - Everyone - 30 mins
 
 ### **Defining the next elections.**
 
-\(00.40\) **Reviewing the previous CCv1 Voting System** - All - 10 mins
+### \(00.40\) **Reviewing the previous CCv1 Voting System** - All - 10 mins
 
-\(00.50\) **Defining the next election process for CCv2** - Chainvote - Felix - 10 mins
+### \(00.50\) **Defining the next election process for CCv2** - Chainvote - Felix - 10 mins
 
 ### **Other CC Actions**
 
-\(01.00\) **Scam Problem Sensing** - \([Trello Card](https://trello.com/c/c2twH1Ng)\) - Dean - 10 mins
+### \(01.00\) **Scam Problem Sensing** - \([Trello Card](https://trello.com/c/c2twH1Ng)\) - Dean - 10 mins
 
 [https://docs.google.com/document/d/12kuyVqsljKQhv9DI8X5eMP9uZ5hihYoEoQ1EWJaw5Ag/edit](https://docs.google.com/document/d/12kuyVqsljKQhv9DI8X5eMP9uZ5hihYoEoQ1EWJaw5Ag/edit)
 
-**Open Conversation \(10 min\)**
+### **Open Conversation \(10 min\)**
 
 \(01.10\) Open Conversation. Topics: - 10 mins
 
-**New topics for discussion \(10 min\)**
+### **New topics for discussion \(10 min\)**
 
-\(01.20\) **C-Society** - Space of Urgency, SecretDecks, PACE, QA-DAO, LIDO Nation - to petition for Circle support ? - Related to Onboarding Problem \([Trello Card](https://trello.com/c/a1H1t8fn)\)
+### \(01.20\) **C-Society** - Space of Urgency, SecretDecks, PACE, QA-DAO, LIDO Nation - to petition for Circle support ? - Related to Onboarding Problem \([Trello Card](https://trello.com/c/a1H1t8fn)\)
 
 \( ideation and draft solutions for Rewarding/Reputation/Onboarding structures and systems - Felix - 10 mins
 
-**Next CC priority, action items, closing remarks \(10 min\)**
+### **Next CC priority, action items, closing remarks \(10 min\)**
 
 \(01:30\) Go over action items and identify ownership, closing remarks - **All** - 10 min
 
 Stephen to refer to action points made during meeting
 
-**Meeting feedback and buffer time \(20 min\)**
+### **Meeting feedback and buffer time \(20 min\)**
 
 \(01:40\) Fill out feedback form about the meeting productivity - 5 min
 
