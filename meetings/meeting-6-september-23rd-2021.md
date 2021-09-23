@@ -66,6 +66,12 @@ Stephen to refer to action points made during meeting
 
 ### **References**
 
+**Source Document**
+
+{% embed url="https://docs.google.com/document/d/1fpGyisjBatJgbviAPpQNF5ar23J\_8I6lin63MtKGmcU/edit\#" %}
+
+\*\*\*\*
+
 [Circle GitBook - Previous Meeting 5 Minutes & Agenda](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-5-september-9th-2021)
 
 [Circle GitBook - Catalyst Prioritized Problems Trello prototype](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/catalyst-prioritized-problems-trello).
