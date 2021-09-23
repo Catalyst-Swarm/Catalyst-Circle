@@ -26,7 +26,9 @@ description: 'Circle Meeting 6 - September 23rd 2021 - 17:00 UTC'
 
 ### **Moving existing Items across the board**
 
-\(00.10\) \(CC\) **Tracking problems and actions** - \([Trello Card](https://trello.com/c/reroCIGE) \) - Agree Implementation of guidelines presented at the last Circle meeting and discuss moving existing Items \(problem backlog\) across the board - Everyone - 30 mins
+\(00.10\) \(CC\) **Tracking problems and actions** - \([Trello Card](https://trello.com/c/reroCIGE) \) 
+
+Agree Implementation of guidelines presented at the last Circle meeting and discuss moving existing Items \(problem backlog\) across the board - Everyone - 30 mins
 
 ### **Defining the next elections.**
 
