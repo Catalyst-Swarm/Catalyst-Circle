@@ -1,10 +1,14 @@
+---
+description: 'Meeting 6 - Thursday, 23rd September 2021 at 17.00 UTC'
+---
+
 # Meeting 6 - September 23rd 2021
 
 **Catalyst Circle \(CC\) Meeting \#6 - Minutes**
 
 **Thursday, 23rd September 2021 at 17.00 UTC**
 
-**Attendees:**
+## **Attendees:**
 
 **Catalyst Circle members:**
 
