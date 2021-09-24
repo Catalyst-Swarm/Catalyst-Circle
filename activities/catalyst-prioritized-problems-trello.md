@@ -88,6 +88,18 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/51" %}
 
+### IOG: How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers?
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/nYhpDItd" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/47" %}
+
+
+
 
 
 ## Funding Reward Rigidity
