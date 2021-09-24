@@ -124,6 +124,16 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/53" %}
 
+### T&M:Need for Community Reward system\(s\)
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/dAX6GGQl" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/54" %}
+
 ## Catalyst Circle Funds
 
 #### Trello Card
