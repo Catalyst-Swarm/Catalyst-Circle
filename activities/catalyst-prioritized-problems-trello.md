@@ -114,6 +114,12 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/52" %}
 
+### CA: CAs and vCAs rewarding system does not incentivize higher assessments quality \(CAs\) or higher number of assessment reviews \(vCAs\).
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/aaGbvSQ2" %}
+
 
 
 ## Catalyst Circle Funds
