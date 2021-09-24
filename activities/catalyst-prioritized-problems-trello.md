@@ -28,7 +28,7 @@ Beneath each Trello Card is a copy in GitHub Issue format. There is also a two w
 
 #### Trello Card
 
-{% embed url="https://trello.com/c/Luv059yi" caption="" %}
+{% embed url="https://trello.com/c/reroCIGE" %}
 
 #### GitHub Issue
 
