@@ -134,6 +134,14 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/54" %}
 
+### SPO: \(lack of\) Permanent “undefined “ or “Miscellaneous” challenge bucket for projects which don’ t fit in any of the fund predefined buckets.
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/guKyFOjX" %}
+
+
+
 ## Catalyst Circle Funds
 
 #### Trello Card
