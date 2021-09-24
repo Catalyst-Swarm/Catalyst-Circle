@@ -44,6 +44,16 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/49" %}
 
+### SPO: How to involve SPOs in Catalyst Projects
+
+### Trello Card
+
+{% embed url="https://trello.com/c/5DnOTOez" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/50" %}
+
 ## Trust & Merit
 
 ### T&M: There are no systems to track and visualize Trust and Participation
