@@ -110,6 +110,10 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://trello.com/c/QVoZUjGd" %}
 
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/52" %}
+
 
 
 ## Catalyst Circle Funds
