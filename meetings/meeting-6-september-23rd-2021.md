@@ -104,6 +104,8 @@ I wish we could do an hour on the Trello cards every meeting. Resolving these is
 
 ### Defining the next elections.
 
+### **Reviewing the previous CCv1 Voting System**
+
 \(00.40\) **Reviewing the previous CCv1 Voting System** - All - 10 mins
 
 How to transfer leadership to next Circle - Nadim
@@ -162,6 +164,8 @@ The time availability of CC is a concern. Live sessions might not be feasible gi
 **3 Action point** : The Admin team would be happy to facilitate a Fund 6 Retrospective session - Nadim
 
 ## New topics for discussion \(10 min\)
+
+### **C-Society**
 
 \(01.20\) **C-Society** - Space of Urgency, SecretDecks, PACE, QA-DAO, LIDO Nation - to petition for Circle support ? - Related to Onboarding Problem \([Trello Card](https://trello.com/c/a1H1t8fn)\)
 
