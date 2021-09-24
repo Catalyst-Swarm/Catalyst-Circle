@@ -4,8 +4,6 @@ description: Catalyst Prioritized Problems Trello Board
 
 # Catalyst Prioritized Problems Trello
 
-## Revised Catalyst Prioritized Problems Trello Board
-
 ## Overview
 
 This page embeds Trello Cards & GitHub Issues for each **Prioritized Problem** Circle is working on and displays the current status of the problem.
