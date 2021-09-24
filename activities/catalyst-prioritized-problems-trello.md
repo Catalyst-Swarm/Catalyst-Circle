@@ -40,7 +40,7 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 ### Faster Funding for Catalyst Projects
 
-{% embed url="https://trello.com/c/3BC5ng8o" %}
+
 
 
 
