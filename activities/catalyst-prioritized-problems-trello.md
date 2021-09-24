@@ -24,7 +24,15 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/48" %}
 
+### T&M: There is a lack of On-boarding & Introduction systems and structures for Project Catalyst
 
+#### Trello Card
+
+{% embed url="https://trello.com/c/a1H1t8fn" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/46" %}
 
 ## Trust & Merit
 
