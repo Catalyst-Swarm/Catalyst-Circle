@@ -148,6 +148,8 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 ## Catalyst Circle Funds
 
+### Circle is not resourced to accomplish it's goals
+
 #### Trello Card
 
 {% embed url="https://trello.com/c/W9nsCDwH" %}
