@@ -255,3 +255,9 @@ In respect of the criteria for the next person, I would not qualify myself. We s
 
 I am enjoying the Trello board activity. We should do breakout rooms and work in parallel. Talk in blocks and triple our output - **Dor**
 
+## **Source :**
+
+{% embed url="https://docs.google.com/document/d/1EIS6Xf63SilYrVlfuz8ncdM0C3TKU26OsItZR0XbJGw/edit?usp=sharing" %}
+
+\*\*\*\*
+
