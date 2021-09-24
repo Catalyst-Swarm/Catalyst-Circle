@@ -76,6 +76,16 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/39" caption="" %}
 
+## IOG / Community Relationship
+
+### IOG: How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? How do we avoid duplications of effort? How do we generate partnerships?
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/I1qjAPRj" %}
+
+
+
 ## Funding Reward Rigidity
 
 ### Faster Funding for Catalyst Projects
