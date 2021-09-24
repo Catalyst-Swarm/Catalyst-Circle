@@ -1,4 +1,4 @@
-# Untitled
+# Meeting 6 - September 23rd 2021
 
 **Catalyst Circle \(CC\) Meeting \#6 - Minutes**
 
