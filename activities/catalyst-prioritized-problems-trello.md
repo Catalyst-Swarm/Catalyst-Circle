@@ -12,6 +12,20 @@ Each embedded **Trello Card** displays the category label \(e.g. Trust & Merit\)
 
 Beneath each Trello Card displayed here is a copy in GitHub Issue format. There is also a two way link between Trello Card and GitHub Issue. The GitHub Issue allows for more extensive documentation to be added, for Prioritized Problems to be associated with particular events such as meetings and for anyone with a GitHub account to comment and copy.
 
+## Awareness & On boarding
+
+### Cohort: Almost non existing “collaborative layer” to welcome newcomers
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/2MzBExhT" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/48" %}
+
+
+
 ## Trust & Merit
 
 ### T&M: There are no systems to track and visualize Trust and Participation
