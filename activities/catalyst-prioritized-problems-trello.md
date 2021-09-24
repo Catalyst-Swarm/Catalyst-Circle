@@ -170,6 +170,20 @@ Beneath each Trello Card displayed here is a copy in GitHub Issue format. There 
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/56" %}
 
+### AH: Start initiative – anti-scammers bots on social media platforms, preventing bad user experience for new comers and not only.
+
+#### Trello Card
+
+{% embed url="https://trello.com/c/c2twH1Ng" %}
+
+#### GitHub Issue
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/45" %}
+
+
+
+
+
 
 
 
