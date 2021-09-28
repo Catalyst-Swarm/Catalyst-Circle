@@ -8,6 +8,10 @@ description: 'Meeting 6 - Thursday, 23rd September 2021 at 17.00 UTC'
 
 **Thursday, 23rd September 2021 at 17.00 UTC**
 
+## **Meeting Recording**
+
+{% embed url="https://www.youtube.com/watch?v=rkkzyiGH6u8" %}
+
 ## **Attendees:**
 
 **Catalyst Circle members:**
