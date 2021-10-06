@@ -44,5 +44,9 @@ Here are the Search Committee's meeting records:
 
 The Search Committee is preparing to do another round of elections for a new Committee to select and support a new Ada voters' representative for the next CC. \(It is considering various options such as staggered terms to support continuity of the Committee's collective memory.\)
 
+### Part 3
+
+As I said, let me know if you want to discuss any of this information. My suggestion is for each of the organizations/groups who selected representatives to the CC V1 reflect on their process and decide what modifications they want to make for selecting a rep to CC V2. This suggestion includes IOG and the Cardano Foundation. One possibility is that next week's Town Hall could again provide separate breakout rooms for these reflective discussions for the CAs, SPOs, and Toolmakers & Maintainers. The Ada Voters Committee as well as the CC itself has started some of this "reflection on process." \(note: those of you familiar with Agile will recognize echos of "sprint retrospective" in these suggestions.\)
+
 
 
