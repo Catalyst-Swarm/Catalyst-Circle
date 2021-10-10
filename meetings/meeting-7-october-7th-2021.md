@@ -1,4 +1,8 @@
-# Minutes
+---
+description: Catalyst Circle Meeting 7, Thursday, 7th October 2021
+---
+
+# Meeting 7 - October 7th 2021
 
 **CC Meeting 7 Minutes**
 
@@ -32,7 +36,7 @@ Juliane Montag
 
 ###  <a href="_h8uwzqk1nddm" id="_h8uwzqk1nddm"></a>
 
-### Planned agenda items for CC meeting #7 - 120 min (2 hours) <a href="_xpmazbfcdwii" id="_xpmazbfcdwii"></a>
+## Planned agenda items for CC meeting #7 - 120 min (2 hours) <a href="_xpmazbfcdwii" id="_xpmazbfcdwii"></a>
 
 ### Opening, Announcements and Expectations Alignment (10 min) <a href="_4xmwjvx3r3p" id="_4xmwjvx3r3p"></a>
 

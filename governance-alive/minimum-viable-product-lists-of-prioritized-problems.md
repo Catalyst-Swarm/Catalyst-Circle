@@ -4,7 +4,9 @@ description: MVP Lists of Prioritized Problems - Governance Alive
 
 # Minimum Viable Product - Lists of Prioritized Problems
 
-{% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T\_14AF2vnnAZE/edit\#" caption="MVP Lists of Prioritized Problems - Governance Alive" %}
+{% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T_14AF2vnnAZE/edit#" %}
+MVP Lists of Prioritized Problems - Governance Alive
+{% endembed %}
 
 ## Document Transcription
 
@@ -14,23 +16,23 @@ In the meeting on [July 12, 2021](https://catalyst-swarm.gitbook.io/catalyst-cir
 
 **DECISION**: For next meeting members will be prepared to:
 
-#### \(1\) share a list of the problems within your group. Problem statement rubrik
+#### (1) share a list of the problems within your group. Problem statement rubrik
 
 * What problem do you see?
 * Why is solving this problem important to the mission of Project Catalyst?
-* Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? \(optional\)
+* Can you articulate the gap between the current state and the expected or envisioned state? How might the value of solving this problem be quantified and/or measured? (optional)
 
-#### \(2\) Rank the problems \(focus on top two statements\)
+#### (2) Rank the problems (focus on top two statements)
 
-#### \(3\) Share our feedback with each other and look for problem statements to solve together \(eg. join with another member - eg Victor, Juli, Felix\)
+#### (3) Share our feedback with each other and look for problem statements to solve together (eg. join with another member - eg Victor, Juli, Felix)
 
-#### \(4\) Place Problems in accessible backlog tool \(E.g Trello\)
+#### (4) Place Problems in accessible backlog tool (E.g Trello)
 
 ### Note
 
-**NOTE**: To further assist the Catalyst Circle members, Governance Alive has compiled a list of options that representatives may want to reference when gathering problem statements from your communities, if desired. This list is certainly not exhaustive, and members are not constrained to use any technique\(s\) on this list. No expectations are set with the document, just a reference if you would like some inspiration.
+**NOTE**: To further assist the Catalyst Circle members, Governance Alive has compiled a list of options that representatives may want to reference when gathering problem statements from your communities, if desired. This list is certainly not exhaustive, and members are not constrained to use any technique(s) on this list. No expectations are set with the document, just a reference if you would like some inspiration.
 
-## About the Minimum Viable Product \(MVP\) Approach
+## About the Minimum Viable Product (MVP) Approach
 
 Whatever we can do now is good enough, and below is why.
 
@@ -56,17 +58,17 @@ Setup a limit to the amount of time spent on initial brainstorming in order to c
 
 ### About Brainstorming vs Sorting
 
-### Tip \#1: Collect ideas and suggestions separately from the sorting of the same ideas
+### Tip #1: Collect ideas and suggestions separately from the sorting of the same ideas
 
 **CAUTION**: Hold brainstorming activities and sorting activities in separate stages instead of mixing the two activities.
 
 **The Background Science**: The functions used in the brain for generating new ideas and sorting through ideas are different, leveraging activating and inhibiting neurons, respectively. Elisting the inhibiting neurons too early can actually physically block the formation of new ideas.
 
-\(You may have heard the phrase “_there are no bad ideas_” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.\)
+(You may have heard the phrase “_there are no bad ideas_” as an intention to foster this approach. Employing the sorting part of our brain too early can interrupt the forming of new connections and hinder the process.)
 
-“_Not every idea will be a great idea, but a great idea can come from anywhere_” - The Ratatouille Principle \(based on the Pixar movie\)
+“_Not every idea will be a great idea, but a great idea can come from anywhere_” - The Ratatouille Principle (based on the Pixar movie)
 
-### Tip \#2: Embrace the fact that some people are better at brainstorming, and others at sorting
+### Tip #2: Embrace the fact that some people are better at brainstorming, and others at sorting
 
 **Suggestion**: Allow people to participate according to their strengths. Don’t require everyone to brainstorm, or everyone to sort. Some will be more naturally inclined to one activity or the other.
 
@@ -96,10 +98,10 @@ Once you have made a change, iterate. Iteration is the process of incremental im
 
 #### Card Sort - [link](https://www.optimalworkshop.com/learn/101s/card-sorting/)
 
-Brainstorm a list of ideas in three \(3\) categories:
+Brainstorm a list of ideas in three (3) categories:
 
 * 1\) What's gone well?
-* 2\) What's gone badly? \(i.e. danger signals\)
+* 2\) What's gone badly? (i.e. danger signals)
 * 3\) What's interesting?
 
 > You can optionally prioritize cards by moving more-important cards to the top of each list
@@ -110,7 +112,7 @@ Brainstorm a list of ideas in three \(3\) categories:
 >
 > Very mental
 
-#### Kepner-Tregoe - [link](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version_2_20130307.pdf)
+#### Kepner-Tregoe - [link](https://www.mathscinotes.com/wp-content/uploads/2016/03/Kepner-Tregoe_Methodology_version\_2\_20130307.pdf)
 
 * Describe what’s working well
 * Describe what’s not working well
@@ -141,19 +143,19 @@ Brainstorm a list of ideas in three \(3\) categories:
 
 ## Techniques for Prioritizing Problems
 
-### Option A: Dot Voting \(Ranked Majority Voting - “Dotmocracy”\)
+### Option A: Dot Voting (Ranked Majority Voting - “Dotmocracy”)
 
-* Everyone is able to add X number of dots \(usually 3-5 dots depending on the number of items\).
+* Everyone is able to add X number of dots (usually 3-5 dots depending on the number of items).
 * Each person can distribute their dots on whichever items they wish, for whatever reason.
 * A person can place multiple dots on one item, if they wish, and may opt to not use all of their dots.
 
-### Option B: Planning Poker \(but modified a little as described below\)
+### Option B: Planning Poker (but modified a little as described below)
 
-* Everyone simultaneously votes on a scale from 0 to 5. 5 is a high-value / important problem to solve. \(Can be done by raising hands with the number of fingers extended, or values can be recorded using a Planning Poker tool.\)
-* Vote simultaneously, or register votes in secret and reveal all answers at the same time to avoid biasing each other with your answers. \(Unbiased answers lead to much better results!\)
-* Start at the extremes \(highest values and lowest values\) and ask, “Would you be willing to come up/down, or if not, why not?”
+* Everyone simultaneously votes on a scale from 0 to 5. 5 is a high-value / important problem to solve. (Can be done by raising hands with the number of fingers extended, or values can be recorded using a Planning Poker tool.)
+* Vote simultaneously, or register votes in secret and reveal all answers at the same time to avoid biasing each other with your answers. (Unbiased answers lead to much better results!)
+* Start at the extremes (highest values and lowest values) and ask, “Would you be willing to come up/down, or if not, why not?”
 * The point is for people to discuss their reasoning behind their scores.
-* Sometimes there are multiple \(but related\) problems that need to be split. If useful, split the problem to reflect the multiple understandings of it.
+* Sometimes there are multiple (but related) problems that need to be split. If useful, split the problem to reflect the multiple understandings of it.
 * Sometimes people have overlooked a significant fact that would change their ranking.
 * You may optionally call for additional vote rounds if a lot of people have changed their minds based on the reasons given.
 * Once problems have been assigned values, use those values to provide an ordered list.List items in descending order by the number of dots.
@@ -168,14 +170,14 @@ Brainstorm a list of ideas in three \(3\) categories:
 
 > Rank the emotional reactions of participants
 
-* 0 - No emotion \(Uninvested\)
-* 1 - Intellectual conversation, no emotion \(Within the Range of Comfort\) \(Further discussion could lead to finding subjects outside the Range of Comfort\)
-* 2 - Emotions in the face and hands \(Near or Outside the Range of Comfort but within the Range of Tolerance\)
-* 3 - Full-body emotion \(On the Edge or Outside Range of Tolerance\)
+* 0 - No emotion (Uninvested)
+* 1 - Intellectual conversation, no emotion (Within the Range of Comfort) (Further discussion could lead to finding subjects outside the Range of Comfort)
+* 2 - Emotions in the face and hands (Near or Outside the Range of Comfort but within the Range of Tolerance)
+* 3 - Full-body emotion (On the Edge or Outside Range of Tolerance)
 
-> Discuss ratings in small groups, identifying what makes some problems outside the range of tolerance \(and therefore urgent and/or important\)
+> Discuss ratings in small groups, identifying what makes some problems outside the range of tolerance (and therefore urgent and/or important)
 >
-> For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group \(either in meeting or via notes on spreadsheet, Miro board, etc.\)
+> For all high urgency/importance problems identified in small groups, share problem and reasons for urgency/importance with full group (either in meeting or via notes on spreadsheet, Miro board, etc.)
 
 ### Option D: Ranked Voting
 
@@ -190,9 +192,9 @@ Brainstorm a list of ideas in three \(3\) categories:
 * If no option has greater than 50%, the next option with the lowest number of votes is eliminated, and the votes retallied based on next priorities, etc.
 * Eventually one item will achieve greater than 50% of the vote.
 
-> [Here is an app](https://app.rankedvote.co/elections/8920/Test-Election/8905/vote) to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!\]
+> [Here is an app](https://app.rankedvote.co/elections/8920/Test-Election/8905/vote) to facilitate and calculate Ranked Voting \[Thanks, @VictorCorcino!]
 
-## Defining Problem Statements \(after prioritization\) \([link](https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2450)\)
+## Defining Problem Statements (after prioritization) ([link](https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2450))
 
 Among the multiple schools of thought throughout the areas of Agile, Lean Startup, Design Thinking, Business Process Modeling, etc. Most problem statements overlap with the following 5 components.
 
@@ -221,9 +223,9 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 
 ### Aims - Why is solving this problem important to the mission of Project Catalyst?
 
-### Obstacles - What is standing between the Problem and the Aim? \(optional\)
+### Obstacles - What is standing between the Problem and the Aim? (optional)
 
-### Metric\(s\) - How would we measure this problem to know if it has or has not been solved? \(optional\)
+### Metric(s) - How would we measure this problem to know if it has or has not been solved? (optional)
 
 #### Option A: American Metrics
 
@@ -233,7 +235,7 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 * Liberty of Choice?
 * Pursuit of Happiness?
 
-> Operationalization \(optional\)
+> Operationalization (optional)
 
 * What might you observe if this change is successful?
 * How can you observe the current state, to know the difference between now and when the change is successful?
@@ -265,4 +267,3 @@ e.g. If condition A happens AND condition B happens, then outcome A AND outcome 
 
 * Do people talk about the problem?
 * Does sharing about the problem increase or decrease the occurrence of the problem?
-

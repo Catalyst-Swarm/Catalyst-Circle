@@ -8,7 +8,9 @@
 
 ### CC Reports to the community each week in the Catalyst Town Halls about the prioritized problems and solutions
 
-{% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" caption="Trello Board" %}
+{% embed url="https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems" %}
+Trello Board
+{% endembed %}
 
 {% hint style="info" %}
 Further details in [Catalyst Prioritized Problems Trello](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/catalyst-prioritized-problems-trello)
@@ -48,7 +50,5 @@ Further details in [Catalyst Circle is looking for an secretary](https://catalys
 
 ### Source
 
-{% embed url="https://docs.google.com/presentation/d/1Xi8COzkjn7vINiWNnSRay0as2nyrHNRLkng\_oh8JYzU/edit\#slide=id.gea48315289\_1\_1044" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1Xi8COzkjn7vINiWNnSRay0as2nyrHNRLkng_oh8JYzU/edit#slide=id.gea48315289_1_1044" %}
 

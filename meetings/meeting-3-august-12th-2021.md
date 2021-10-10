@@ -1,5 +1,5 @@
 ---
-description: 'Meeting 3 - August 12th, 2021'
+description: Meeting 3 - August 12th, 2021
 ---
 
 # Meeting 3 - August 12th, 2021
@@ -10,18 +10,18 @@ description: 'Meeting 3 - August 12th, 2021'
 
 Attendance: TBA
 
-\(0:00\) Jump right in: round of questions and/or reactions to the proposed preparations and agenda \(below\) for August 12 agenda. \[Note modify proposed August 12 agenda as we proceed with the round\]
+(0:00) Jump right in: round of questions and/or reactions to the proposed preparations and agenda (below) for August 12 agenda. \[Note modify proposed August 12 agenda as we proceed with the round]
 
 ### Proposed August 12 agenda & preparations:
 
 #### PRE-MEETING PREPS
 
-1. Send out meeting reminder. Reminder to include encouragement to update the Trello board so that we don’t have to spend meeting time going over CC action updates. \(Ask if there are any suggested alternatives to Trello.\)
+1. Send out meeting reminder. Reminder to include encouragement to update the Trello board so that we don’t have to spend meeting time going over CC action updates. (Ask if there are any suggested alternatives to Trello.)
 2. Offer to coach volunteer facilitator and circle admin on roles/strategies for Aug 12 meeting
 
 ### AGENDA
 
-\(NOTE: New facilitator leads with coaching back up if desired. New circle admin takes notes and/or invites others to take notes\)
+(NOTE: New facilitator leads with coaching back up if desired. New circle admin takes notes and/or invites others to take notes)
 
 0:00 Check in - how arriving in the meeting
 
@@ -29,43 +29,43 @@ Attendance: TBA
 
 * Announcements if any
 * Date of next CC meeting: August 26, same time
-* Quick review/summary of last meeting. \([Miroboard link](https://miro.com/app/board/o9J_l7a7K40=/)\) [https://trello.com/b/DRBO6qyF/new-board](https://trello.com/b/DRBO6qyF/new-board) 
+* Quick review/summary of last meeting. ([Miroboard link](https://miro.com/app/board/o9J_l7a7K40=/)) [https://trello.com/b/DRBO6qyF/new-board](https://trello.com/b/DRBO6qyF/new-board) 
 * Accept content agenda
 
 ### Content Agenda
 
-* \(0:12\) Discuss any issues encountered in the past two weeks with the initiatives identified on the Trello board; perhaps modify one or more initiatives.
-* \(0:40\) Reference the Miroboard grid used last meeting, identify new Circle actions and assign responsibilities. In addition to items on the Miroboard, add the following items
-  * Include new item: Proposal: Assign person \(or team\) to develop plans for election of next Catalyst Circle \(New circle to convene October 7\).
-  * Proposal: Schedule 5-hour training \(& possible follow up\) on meeting processes and governance structure concepts, possibly starting the week of August 23. John/Pete to schedule.
-  * Proposal: Select who will facilitate and be circle administrator for CC meetings through September 23.  \(eg, select persons for those roles, or rotate, identify team to handle/appoint, or other strategy\)
+* (0:12) Discuss any issues encountered in the past two weeks with the initiatives identified on the Trello board; perhaps modify one or more initiatives.
+* (0:40) Reference the Miroboard grid used last meeting, identify new Circle actions and assign responsibilities. In addition to items on the Miroboard, add the following items
+  * Include new item: Proposal: Assign person (or team) to develop plans for election of next Catalyst Circle (New circle to convene October 7).
+  * Proposal: Schedule 5-hour training (& possible follow up) on meeting processes and governance structure concepts, possibly starting the week of August 23. John/Pete to schedule.
+  * Proposal: Select who will facilitate and be circle administrator for CC meetings through September 23.  (eg, select persons for those roles, or rotate, identify team to handle/appoint, or other strategy)
   * Proposal: continue using Trello to track progress of our initiatives
-* \(1:40\) Evaluate meeting [https://forms.gle/yLpZwzgxtarerUhw9](https://forms.gle/yLpZwzgxtarerUhw9) and discuss results of the evaluation.
-* \(2:00\) End meeting
+* (1:40) Evaluate meeting [https://forms.gle/yLpZwzgxtarerUhw9](https://forms.gle/yLpZwzgxtarerUhw9) and discuss results of the evaluation.
+* (2:00) End meeting
 
-\(0:15\) Get consent to the modified August 12 agenda.
+(0:15) Get consent to the modified August 12 agenda.
 
-\(0:40\) Evaluation of the meeting.
+(0:40) Evaluation of the meeting.
 
-\(0:45\) End of meeting
+(0:45) End of meeting
 
 #### Reference Document
 
-{% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1\_oHfrxTvNT66pkhA0kdEN9a7otY/edit\#" caption="" %}
+{% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1_oHfrxTvNT66pkhA0kdEN9a7otY/edit#" %}
 
 ### Outcomes of meeting
 
 #### 11th August, 2021
 
-#### Victor Corcino will facilitate the Catalyst Circle meeting \#3
+#### Victor Corcino will facilitate the Catalyst Circle meeting #3
 
-![Victor Corcino will facilitate the Catalyst Circle meeting \#3](../.gitbook/assets/2021-08-11.png)
+![Victor Corcino will facilitate the Catalyst Circle meeting #3](../.gitbook/assets/2021-08-11.png)
 
 #### Transcription
 
-Catalyst Circle had a pre Agenda meeting on Monday August 9th at 14.30 UTC to discuss the Agenda for the Catalyst Circle meeting \#3 on Thursday August 12th. \( David Taylor - elected member for the Cardano Foundation couldnt join the meeting \)\(edited\) \[2:45 PM\]
+Catalyst Circle had a pre Agenda meeting on Monday August 9th at 14.30 UTC to discuss the Agenda for the Catalyst Circle meeting #3 on Thursday August 12th. ( David Taylor - elected member for the Cardano Foundation couldnt join the meeting )(edited) \[2:45 PM]
 
-this Meeting was not recorded as we came together to discuss the Agenda only... but well, as each time when humans come together, the conversations always moves a bit off the topic \[2:49 PM\] The Catalyst Circle members agreed, that Victor Corcino will facilitate the Catalyst Circle meeting \#3
+this Meeting was not recorded as we came together to discuss the Agenda only... but well, as each time when humans come together, the conversations always moves a bit off the topic \[2:49 PM] The Catalyst Circle members agreed, that Victor Corcino will facilitate the Catalyst Circle meeting #3
 
 ## August 12th, 2021 - Meeting 3
 
@@ -75,7 +75,7 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 ### Miro Board :
 
-{% embed url="https://miro.com/app/board/o9J\_l2\_GDfY=/" %}
+{% embed url="https://miro.com/app/board/o9J_l2_GDfY=/" %}
 
 ### High Resolution Image of Miro Board
 
@@ -83,11 +83,13 @@ this Meeting was not recorded as we came together to discuss the Agenda only... 
 
 ### Source document :
 
-{% file src="../.gitbook/assets/cc-agenda-suggestions.pdf" caption="CC Agenda suggestions " %}
+{% file src="../.gitbook/assets/cc-agenda-suggestions.pdf" %}
+CC Agenda suggestions 
+{% endfile %}
 
-Agenda Items for CC meeting \#3 Thursday, August 12th. at 17.00 UTC
+Agenda Items for CC meeting #3 Thursday, August 12th. at 17.00 UTC
 
-### Agenda items for CC meeting \#3 - 120min
+### Agenda items for CC meeting #3 - 120min
 
 * Check-in - 7m
 * Discuss gathered problem statements - 1.10H - Victor
@@ -98,69 +100,69 @@ Agenda Items for CC meeting \#3 Thursday, August 12th. at 17.00 UTC
 
 _because I think I can have the most value add there:_
 
-_\(1\) Onboarding_
+_(1) Onboarding_
 
-_\(2\) Faster funds_
+_(2) Faster funds_
 
-_\(3\) CA Reputation_
+_(3) CA Reputation_
 
 _And of course, the problems sensed by IOG. Can other share, say 3 problem they want to contribute to, that are not the problems they brought on the board?_“
 
 **Dor:**
 
-\(1\) Onboarding
+(1) Onboarding
 
-\(2\) Faster funds
+(2) Faster funds
 
-\(3\) CA Reputation
+(3) CA Reputation
 
 #### Dean:
 
-\(1\) Onboarding
+(1) Onboarding
 
-\(2\) Trust/Participation
+(2) Trust/Participation
 
-\(3\) IOHK/Catalyst independence
+(3) IOHK/Catalyst independence
 
 #### Felix:
 
-\(1\) IOG Statements
+(1) IOG Statements
 
-\(2\) SPO integration into Catalyst
+(2) SPO integration into Catalyst
 
-\(3\) CA Reputation
+(3) CA Reputation
 
 #### Victor:
 
-\(1\) Onboarding & Introduction
+(1) Onboarding & Introduction
 
-\(2\) Faster Funds
+(2) Faster Funds
 
-\(3\) Improve cooperation / avoid duplicated effort between IOHK and _\*\*_Community
+(3) Improve cooperation / avoid duplicated effort between IOHK and _\*\*_Community
 
 #### Lauris:
 
-\(1\) Onboarding & Introduction & Awareness
+(1) Onboarding & Introduction & Awareness
 
-\(2\) SPO integration into Catalyst
+(2) SPO integration into Catalyst
 
-\(2\) Faster Funds
+(2) Faster Funds
 
 #### Juliane:
 
-\(1\)
+(1)
 
-\(2\)
+(2)
 
-\(3\)
+(3)
 
 #### David:
 
-\(1\)
+(1)
 
-\(2\)
+(2)
 
-\(3\)
+(3)
 
 ### On-boarding & Introduction & Awareness
 
@@ -178,11 +180,11 @@ How to prioritize/present internal circle proposals? - Felix + Dean
 
 Expectation/Objectives and Roadmap for the next 4 meetings - Dor - 10m
 
-### Suggested Agenda Items for CC meeting \#3
+### Suggested Agenda Items for CC meeting #3
 
 ### Thursday, August 12th. at 17.00 UTC
 
-### Agenda items for CC meeting \#3 - 120min
+### Agenda items for CC meeting #3 - 120min
 
 Check-in - 7m
 
@@ -208,41 +210,41 @@ Alternative funding
 
 Decision power
 
-Training \( transition \)
+Training ( transition )
 
-Action Items besides CC meetings \( suggestions \)
-
-Setting up a dev team to develop a circle-tool
-
-Enable resources to pay dev for developing the circle-tool.
-
-Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
-
-Action Items besides CC meetings \( suggestions \)
+Action Items besides CC meetings ( suggestions )
 
 Setting up a dev team to develop a circle-tool
 
 Enable resources to pay dev for developing the circle-tool.
 
-&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+Schedule meeting with Lauris, Felix, CF\&IOG to explore alternative catalyst funding
+
+Action Items besides CC meetings ( suggestions )
+
+Setting up a dev team to develop a circle-tool
+
+Enable resources to pay dev for developing the circle-tool.
+
+<<<<<>>>>>
 
 ### Lauris suggestions
 
-Resources available for CC to fix the issues we are identifying \( changed \)
+Resources available for CC to fix the issues we are identifying ( changed )
 
-Enable Resources to reward CC members \(next round\)
+Enable Resources to reward CC members (next round)
 
-Action Items besides CC meetings \( suggestions \)
+Action Items besides CC meetings ( suggestions )
 
 Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding
 
-&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+<<<<<>>>>>
 
 ### Julianes suggestion
 
 CC Expectation/Objectives and Roadmap
 
-&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+<<<<<>>>>>
 
 ### Deans suggestions
 
@@ -252,9 +254,9 @@ experience for newcomers.
 
 Create a dedicated website for Investor Relations and legislation news. Lobbyists for future
 
-legislation \(country specific\)
+legislation (country specific)
 
-&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;
+<<<<<>>>>>
 
 ### Felix suggestions
 
@@ -262,89 +264,91 @@ CC Expectation/Objectives and Roadmap
 
 Circle tool & delegate voting power
 
-Action Items besides CC meetings \( suggestions \)
+Action Items besides CC meetings ( suggestions )
 
 Setting up a dev team to develop a circle-tool
 
 Enable resources to pay dev for developing the circle-tool.
 
-Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+Schedule meeting with Lauris, Felix, CF\&IOG to explore alternative catalyst funding
 
 ### Summary- suggested Agenda Items
 
 Dean, Felix, Juliane, Lauris, Victor
 
-discuss gathered problem statements \(C\)
+discuss gathered problem statements (C)
 
-discuss voting process for CCv2 \(B\)
+discuss voting process for CCv2 (B)
 
-CC potentially evolution \(A\)
+CC potentially evolution (A)
 
-Expectation/Objectives and Roadmap for the next 4 meetings \(A\)
+Expectation/Objectives and Roadmap for the next 4 meetings (A)
 
-Enable Resources to reward CC members \(D\)
+Enable Resources to reward CC members (D)
 
-CC Expectation/Objectives and Roadmap \(A\)
+CC Expectation/Objectives and Roadmap (A)
 
-Start initiative – anti-scammer bots on social media platforms, preventing bad user experience for newcomers. \(E\)
+Start initiative – anti-scammer bots on social media platforms, preventing bad user experience for newcomers. (E)
 
-Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation \(country specific\) \(F\)
+Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation (country specific) (F)
 
-CC Expectation/Objectives and Roadmap \(A\)
+CC Expectation/Objectives and Roadmap (A)
 
-Circle tool & delegate voting power \(B\)
+Circle tool & delegate voting power (B)
 
-4x \(A\) CC potentially evolution/ CC Expectation/Objectives and Roadmap
+4x (A) CC potentially evolution/ CC Expectation/Objectives and Roadmap
 
-2x \(B\) discuss voting process for CCv2/ Circle tool & delegate voting power
+2x (B) discuss voting process for CCv2/ Circle tool & delegate voting power
 
-1x \(C\) discuss gathered problem statements
+1x (C) discuss gathered problem statements
 
-1x \(D\) Enable Resources to reward CC members
+1x (D) Enable Resources to reward CC members
 
-1x \(E\) Start initiative – anti-scammer bots on social media platforms, preventing bad user
+1x (E) Start initiative – anti-scammer bots on social media platforms, preventing bad user
 
 experience for newcomers.
 
-1x \(F\) Create a dedicated website for Investor Relations and legislation news. Lobbyists for
+1x (F) Create a dedicated website for Investor Relations and legislation news. Lobbyists for
 
-future legislation \(country specific\)
+future legislation (country specific)
 
 ### Summary- suggested Action Items
 
-Setting up a dev team to develop a circle-tool \(A\)
+Setting up a dev team to develop a circle-tool (A)
 
-Enable resources to pay dev for developing the circle-tool. \(B\)
+Enable resources to pay dev for developing the circle-tool. (B)
 
 Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst
 
-funding \(C\)
+funding (C)
 
-Setting up a dev team to develop a circle-tool \(A\)
+Setting up a dev team to develop a circle-tool (A)
 
-Enable resources to pay dev for developing the circle-tool.\(B\)
+Enable resources to pay dev for developing the circle-tool.(B)
 
-Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst
+Schedule meeting with Lauris, Felix, CF\&IOG to explore alternative catalyst
 
-funding \(C\)
+funding (C)
 
-2x \(A\) Setting up a dev team to develop a circle-tool
+2x (A) Setting up a dev team to develop a circle-tool
 
-2x \(B\) Enable resources to pay dev for developing the circle-tool.
+2x (B) Enable resources to pay dev for developing the circle-tool.
 
-2x \(C\)Schedule meeting with Lauris, Felix, CF&IOG to explore alternative catalyst funding
+2x (C)Schedule meeting with Lauris, Felix, CF\&IOG to explore alternative catalyst funding
 
 ## DRAFT The Circle exists to fulfill four key goals:
 
 Source document :
 
-{% file src="../.gitbook/assets/how-to-prioritizepresent-internal-circle-proposals.pdf" caption="How to prioritize internal circle proposals" %}
+{% file src="../.gitbook/assets/how-to-prioritizepresent-internal-circle-proposals.pdf" %}
+How to prioritize internal circle proposals
+{% endfile %}
 
 #### DRAFT
 
 ### The Circle exists to fulfill four key goals:
 
-1\) To facilitate communication between the different functional groups 2\) To provide a heads-up when red lines are crossed within a certain group 3\) To suggest improvements on plans and processes that shape Project Catalyst 4\) To define the election process for Circle V2
+1\) To facilitate communication between the different functional groups 2) To provide a heads-up when red lines are crossed within a certain group 3) To suggest improvements on plans and processes that shape Project Catalyst 4) To define the election process for Circle V2
 
 ### How to prioritize/present internal circle proposals?
 
@@ -359,10 +363,9 @@ The priorities are measured against the following criteria
 ### Criteria
 
 * impact - what impact does your proposal have on the wider situation
-* feasibility - how feasible is the proposal over the short, middle or long term 
+*   feasibility - how feasible is the proposal over the short, middle or long term 
 
-  ○ - budget - what size budget is required to execute the proposal
-
+    ○ - budget - what size budget is required to execute the proposal
 * auditability - how thoroughly can the proposal be tracked for progress once adopted 
 * adjustability - as this environment is changing constantly and rapidly , proposals have to be flexible to stay in a “just in time” relation
 * inclusivity - How many groups can define their needs and interest within the submitted proposal 
@@ -373,7 +376,7 @@ Formulate the proposal in collaboration with other CC Members and/or the wider c
 
 * Submit a proposal [https://app.consenz.co.il/document/CC-meeting-agenda/welcome](https://app.consenz.co.il/document/CC-meeting-agenda/welcome) 
 * Refine a proposal [https://app.consenz.co.il/document/CC-meeting-agenda/welcome](https://app.consenz.co.il/document/CC-meeting-agenda/welcome) 
-* Finalize a proposal \( google- doc, Word or other collaborative services \) 
+* Finalize a proposal ( google- doc, Word or other collaborative services ) 
 
 ### Presentation
 
@@ -381,7 +384,7 @@ Formulate the proposal in collaboration with other CC Members and/or the wider c
 * Simplify and shorten your final presentation
 * Make sure that everyone in the CC has access to your presentation.
 
-## Project Catalyst\_CC budget v1 
+## Project Catalyst_CC budget v1 
 
 Sheet1 
 
@@ -441,21 +444,20 @@ Provide feedback on the effectiveness of the Circle
 
 ![](../.gitbook/assets/2021-08-15-4-.png)
 
-## Agenda Items for CC meeting \#4 
+## Agenda Items for CC meeting #4 
 
-### Thursday, August 26th. at 17.00 UTC Agenda items for CC meeting \#3 - 120min 
+### Thursday, August 26th. at 17.00 UTC Agenda items for CC meeting #3 - 120min 
 
-Presenting the reward for CC participants \(item 1 excel\) - Lauris and Juliane - 10 min
+Presenting the reward for CC participants (item 1 excel) - Lauris and Juliane - 10 min
 
-Present idea for a framework for collaboration \(item 5 excel\) - Victor, Lauris and Juliane - 10 min
+Present idea for a framework for collaboration (item 5 excel) - Victor, Lauris and Juliane - 10 min
 
 Present actions for Onboarding - Victor, Lauris, David, Dean - 10 min
 
-Announce Recruitment for a Challenge team- rapid funding challenge \(TH - August 18th\) 
+Announce Recruitment for a Challenge team- rapid funding challenge (TH - August 18th) 
 
 Break out rooms for problem discussion - All - 1h 
 
 Discuss voting process for CCv2 - 10 min 
 
 Fill out feedback form about the meeting productivity - 5 min
-

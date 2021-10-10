@@ -26,26 +26,26 @@ Funding from the Cardano Community via Catalyst helps to ensure increased accoun
 
 We are elected leaders from the ecosystem serving a key role in turning Catalyst into the largest decentralized innovation fund in the world 
 
-## **Detailed plan \(not required\) - Fill in here any additional details**
+## **Detailed plan (not required) - Fill in here any additional details**
 
 ### **The Catalyst Circle**
 
 IOG is currently managing the Catalyst Project, with the aspiration to decentralize Governance to the community. The Catalyst Circle is the first experiment to establish a decentralized instance, that has four major goals:
 
 {% hint style="success" %}
-**1\) To facilitate communication between the different functional groups**
+**1) To facilitate communication between the different functional groups**
 {% endhint %}
 
 {% hint style="success" %}
-**2\) To provide a heads-up when red lines are crossed within a certain group**
+**2) To provide a heads-up when red lines are crossed within a certain group**
 {% endhint %}
 
 {% hint style="success" %}
-**3\) To suggest improvements on plans and processes that shape Project Catalyst**
+**3) To suggest improvements on plans and processes that shape Project Catalyst**
 {% endhint %}
 
 {% hint style="success" %}
-**4\) To define the election process for Circle V2**
+**4) To define the election process for Circle V2**
 {% endhint %}
 
 #### Link:
@@ -78,9 +78,9 @@ Members will be able to set each meeting's agenda and periodically introduce pol
 
 As trusted best practice is established, the Circle might grow and divide. Maybe the future has many 'Circles'? Ultimately, it will be up to members to advance our goal to legitimise decentralized governance, paving the way for an alternative to the status quo, and continuing to break new ground in building the future of blockchain governance.
 
-### **Roadmap** \(3 months\) November 2021 - January 2022
+### **Roadmap** (3 months) November 2021 - January 2022
 
-Catalyst Circle 1, which has been operating since 12th of July 2021. The group has established a process to funnel work mainly focusing on addressing major problems identified within the various stakeholder groups \(for more details please see here: https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems\).
+Catalyst Circle 1, which has been operating since 12th of July 2021. The group has established a process to funnel work mainly focusing on addressing major problems identified within the various stakeholder groups (for more details please see here: https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems).
 
 The roadmap for Catalyst Circle 2 is mainly driven by the goals and responsibilities mentioned above. The backlog of problems and issues already backlogged in the trello board will give the CC2 a starting point to execute on. Nevertheless, since the Catalyst Circle 1 is still in its beginnings, additional issues will naturally evolve within the Catalyst Circle 2 - together with progression of the Fund Circles and Project CAtalyst structure and systems.
 
@@ -98,55 +98,55 @@ The Catalyst Circle commits to attend weekly town hall meetings to provide updat
 * Established new incentive and reward model for Community Advisors
 * Established a challenge Team and submitted a challenge proposal for "Rapid Funding Mechanisms"
 * Launched an Coordinated CA Outreach and Onboarding campaign for Fund6
-* Recruitment of CC Admin stuff \( see below \). Successfully recruited Secretary and Facilitator from within the Community
+* Recruitment of CC Admin stuff ( see below ). Successfully recruited Secretary and Facilitator from within the Community
 
 ### **Budget breakdown:**
 
 #### **CC member remuneration: $5000**
 
-- Meeting: 2 hours bi-weekly
+\- Meeting: 2 hours bi-weekly
 
-- Preparation \(comms, working sessions, etc.\): 2 hours \(bi-weekly\)
+\- Preparation (comms, working sessions, etc.): 2 hours (bi-weekly)
 
-- Initiative driven commitment: 2 hours \(weekly\)
+\- Initiative driven commitment: 2 hours (weekly)
 
 #### **Admin staff - Facilitator: $2000**
 
-- Being present in all the Catalyst Circle meetings, which take place each two weeks
+\- Being present in all the Catalyst Circle meetings, which take place each two weeks
 
-- Involve everybody in the discussion
+\- Involve everybody in the discussion
 
-- Steer focus and activity
+\- Steer focus and activity
 
-- Capturing action items
+\- Capturing action items
 
-- Support the Catalyst Circle in defining Agenda items for the next meeting\(s\)
+\- Support the Catalyst Circle in defining Agenda items for the next meeting(s)
 
 #### **Admin staff - Secretary: $2000**
 
-- Being present in all the Catalyst Circle meetings, which take place each two weeks
+\- Being present in all the Catalyst Circle meetings, which take place each two weeks
 
-- Coordinate CC Meeting agendas with the meeting facilitator.
+\- Coordinate CC Meeting agendas with the meeting facilitator.
 
-- Set up and record CC meetings on Zoom with the meeting facilitator
+\- Set up and record CC meetings on Zoom with the meeting facilitator
 
-- Take notes and record actions from Catalyst Circle meetings.
+\- Take notes and record actions from Catalyst Circle meetings.
 
-- Document & Track CC actions \(e.g by git, Trello\).
+\- Document & Track CC actions (e.g by git, Trello).
 
-- Publish CC meeting recordings on IOHK YouTube
+\- Publish CC meeting recordings on IOHK YouTube
 
-- Following up on action items between meetings
+\- Following up on action items between meetings
 
-#### **Internal/external communication and organisation tools: \($500\)**
+#### **Internal/external communication and organisation tools: ($500)**
 
-- Video conference/meeting \(Zoom/hangout\) x 3 monts
+\- Video conference/meeting (Zoom/hangout) x 3 monts
 
-- CC email hosting \(google/zoho/etc\)
+\- CC email hosting (google/zoho/etc)
 
-- Domain purchase
+\- Domain purchase
 
-#### **Tags \[Predefined Tag Enabled\] \(Optional\)**
+#### **Tags \[Predefined Tag Enabled] (Optional)**
 
 [https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/](https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/)
 
@@ -163,4 +163,3 @@ Received emails from communications@iohk.io, Submitted this proposal to only one
 ####  **Which of these definitions apply to you?** 
 
 Other/Prefer not to say
-

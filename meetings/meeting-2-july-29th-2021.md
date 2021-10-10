@@ -1,5 +1,5 @@
 ---
-description: 'Catalyst Circle Meeting 2 - July 29th, 2021'
+description: Catalyst Circle Meeting 2 - July 29th, 2021
 ---
 
 # Meeting 2 - July 29th, 2021
@@ -8,26 +8,28 @@ description: 'Catalyst Circle Meeting 2 - July 29th, 2021'
 
 ### Meeting Recording
 
-{% embed url="https://www.youtube.com/watch?v=oHivRmsOD\_o" caption="Meeting \#2 Recording" %}
+{% embed url="https://www.youtube.com/watch?v=oHivRmsOD_o" %}
+Meeting #2 Recording
+{% endembed %}
 
 ### Proposed Agenda July 29 Catalyst Circle meeting
 
-**Attendance**: Victor Corcino, Felix Weber, Juliane Montag, Lauris, Dor Garbash, Dean Jayes, John Buck, Pete Oliver-Krueger, David Taylor \(family emergency\).
+**Attendance**: Victor Corcino, Felix Weber, Juliane Montag, Lauris, Dor Garbash, Dean Jayes, John Buck, Pete Oliver-Krueger, David Taylor (family emergency).
 
-\(0:00\) Welcome Dean Jayes, All Ada Rep, + Opening round \(10 min\)
+(0:00) Welcome Dean Jayes, All Ada Rep, + Opening round (10 min)
 
-\(0:10\) Administrative matters \(3 min\)
+(0:10) Administrative matters (3 min)
 
 * Announcements: 
 * Our Miro board has been updated with problem statements; 
 
-{% embed url="https://miro.com/app/board/o9J\_l7a7K40=/" %}
+{% embed url="https://miro.com/app/board/o9J_l7a7K40=/" %}
 
 * Problem statements grouped
 * Same statements not grouped
 * The problem statements in Miro refer to list of problem statements document 
 
-{% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T\_14AF2vnnAZE/edit" %}
+{% embed url="https://docs.google.com/document/d/1IcORy7jkSEpFLAHpuV6O0JfiObS042T_14AF2vnnAZE/edit" %}
 
 * Trello Board created for today’s output:
 
@@ -39,31 +41,31 @@ description: 'Catalyst Circle Meeting 2 - July 29th, 2021'
 
 ### Agenda Considerations
 
-* Timeline \(End of first of 3 months — sprint 2 out of 6\)
-* Sociocracy Training Videos \(just-in-time, as needed\)
-* Clustering \(Simplify by Grouping Similar Problem Statements\) & Consent
+* Timeline (End of first of 3 months — sprint 2 out of 6)
+* Sociocracy Training Videos (just-in-time, as needed)
+* Clustering (Simplify by Grouping Similar Problem Statements) & Consent
 * Enter to Trello
-* Prioritizing the Clusters \(use grid known-unknown / energy\)
+* Prioritizing the Clusters (use grid known-unknown / energy)
 * Move forward in Trello
 
 ### Content Agenda
 
-\(0:17\) Deliberate on proposal to work initially with three clusters - see Miro board
+(0:17) Deliberate on proposal to work initially with three clusters - see Miro board
 
 * Dor: Replace “Open, Alternative Category” and call it “Alternative Funding” or “Funding Rigidity”. Group SPO’s problem statement for needing a miscellaneous Challenge category together with Toolmakers Reward System problem statement.
 * Juli: Make sure that we are acknowledging the difference between funding and the rewards system. They are currently different.
-* Lauris: Add “Awareness” to the “Onboarding” problem cluster
+*   Lauris: Add “Awareness” to the “Onboarding” problem cluster
 
-  -Dor: Suggest holding the clusters lightly. Just because the problems are clustered, doesn’t mean that the problems are the same, and the problems should be tracked separately. 
+    \-Dor: Suggest holding the clusters lightly. Just because the problems are clustered, doesn’t mean that the problems are the same, and the problems should be tracked separately. 
 
-\(0:45\) Option to split into breakout groups that reflect the consented clusters \(open space style\)
+(0:45) Option to split into breakout groups that reflect the consented clusters (open space style)
 
 * Work together or in breakout rooms to put consented cluster on two-axis grid: known-unknown / low energy - high energy
 * Use the grid to determine how to move the cluster forward into actionable columns on the Trello board 
 
-\(1:20\) Re-assemble \(if in breakout groups\). The groups brief each other on what they’ve done. Consent to Trello cards action plans entered by each group.
+(1:20) Re-assemble (if in breakout groups). The groups brief each other on what they’ve done. Consent to Trello cards action plans entered by each group.
 
-### Closing round evaluation of meeting \(1:45\)
+### Closing round evaluation of meeting (1:45)
 
 #### oral comments.
 
@@ -82,10 +84,9 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 
 * Local -- Global
 * Known -- Unknown
-* Cynefin - four quadrants: simple, complicated, complex, chaotic
+*   Cynefin - four quadrants: simple, complicated, complex, chaotic
 
-  Examples of scales:
-
+    Examples of scales:
 * Emotional/Energetic Ranking of the statements
 * 0 - No energy
 * 1 - Intellectual interest
@@ -95,9 +96,9 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 
 ### Reference Document
 
-{% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1\_oHfrxTvNT66pkhA0kdEN9a7otY/edit\#" %}
+{% embed url="https://docs.google.com/document/d/1KTd6HOjcyFPoLza1_oHfrxTvNT66pkhA0kdEN9a7otY/edit#" %}
 
-## Agenda items for CC meeting \#3
+## Agenda items for CC meeting #3
 
 ### Victors suggestions 
 
@@ -106,7 +107,7 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 * 1/2 hour: CC potentially evolution
 * Expectation/Objectives and Roadmap for the next 4 meetings
 
-#### Action Items besides CC meetings \( suggestions \)
+#### Action Items besides CC meetings ( suggestions )
 
 * Setting up a dev team to develop a circle-tool 
 * Enable resources to pay dev for developing the circle-tool.
@@ -115,7 +116,7 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 
 * 1/2 hour: Enable Resources to reward CC members
 
-#### Action Items besides CC meetings \( suggestions \)
+#### Action Items besides CC meetings ( suggestions )
 
 * Schedule meeting with Lauris, Felix, CF & IOG to explore alternative catalyst funding 
 
@@ -123,14 +124,14 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 
 * CC Expectation/Objectives and Roadmap 
 
-#### Action Items besides CC meetings \( suggestions\)
+#### Action Items besides CC meetings ( suggestions)
 
 * Second Lauris & Victor's action items
 
 ### Deans suggestions
 
 * Start initiative – anti-scammer bots on social media platforms, preventing bad user experience for newcomers.
-* Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation \(country specific\)
+* Create a dedicated website for Investor Relations and legislation news. Lobbyists for future legislation (country specific)
 * Discuss local community development groups for support. 
 * Too many proposals. Ways to allow all proposals to be reviewed. 
 
@@ -139,7 +140,7 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 * CC Expectation/Objectives and Roadmap 
 * Cicle tool & delegate voting power
 
-#### Action Items besides CC meetings \( suggestions \)
+#### Action Items besides CC meetings ( suggestions )
 
 * Setting up a dev team to develop a circle-tool 
 * Enable resources to pay dev for developing the circle-tool.
@@ -148,6 +149,4 @@ Create a grid with 2 axes and map the ideas to scales or grids. Examples of grid
 ### Reference Document
 
 {% embed url="https://docs.google.com/document/d/1ADPgUiznBeMO9hluJbPWUCophBg2uKnrzBK-DA-LTyY/edit" %}
-
-
 

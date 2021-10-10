@@ -6,21 +6,21 @@ description: Toolmakers and Maintainers Circle Activity
 
 ## Toolmakers and Maintainers problem sensing
 
-## T&M Problem sensing \#1
+## T\&M Problem sensing #1
 
 ### Saturday Swarm Session - 17/07/2021 - 18:00
 
-{% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" %}
+{% embed url="https://www.youtube.com/watch?v=r6Un6sJL_wQ" %}
 
 #### Timestamps and summary
 
 #### Victor Corcino - Introduction - [0:00](https://youtu.be/r6Un6sJL_wQ?t=1)
 
-#### Len - How is ranked voting interface going to work with the Miro board ?- [1:48](https://www.youtube.com/watch?v=r6Un6sJL_wQ&t=108s)
+#### Len - How is ranked voting interface going to work with the Miro board ?- [1:48](https://www.youtube.com/watch?v=r6Un6sJL_wQ\&t=108s)
 
-#### Victor Corcino - Listing all the problem statements first - [2:05](https://www.youtube.com/watch?v=r6Un6sJL_wQ&t=125s)
+#### Victor Corcino - Listing all the problem statements first - [2:05](https://www.youtube.com/watch?v=r6Un6sJL_wQ\&t=125s)
 
-#### Felix - Our role is only to re-present the problem statement - [2:28](https://www.youtube.com/watch?v=r6Un6sJL_wQ&t=148s)
+#### Felix - Our role is only to re-present the problem statement - [2:28](https://www.youtube.com/watch?v=r6Un6sJL_wQ\&t=148s)
 
 Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers. I prefer to start from zero. Everyone here goes on the Miro board and puts their problem statements on the notes. The iteration of this will come in the next Wednesday After Town Hall when we only use the outcomes from today's session.The idea is to include the people into the process.
 
@@ -30,40 +30,40 @@ Each week we have three sessions. The After Town Halls, Swarm Sessions and Each 
 
 {% embed url="https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit" %}
 
-### T&M Problem sensing \#1 - Transcription
+### T\&M Problem sensing #1 - Transcription
 
 Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
 
-This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process \#1. 
+This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process #1. 
 
 #### Miro Board:
 
-{% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/" %}
+{% embed url="https://miro.com/app/board/o9J_l5oK3HM=/" %}
 
-Recording: [T&M Problem sensing \#1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)
+Recording: [T\&M Problem sensing #1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)
 
 #### Statements:
 
-* Participants wrote down their problem statement\(s\) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
+* Participants wrote down their problem statement(s) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
 
 #### Selection & Filtering:
 
 * Participants which states several problems, selected their own “most important” statements
 * Participants filter statements, when statement is covered others already
-* [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J_l6p5UaQ=/?moveToWidget=3074457361598731172&cot=14)
+* [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J_l6p5UaQ=/?moveToWidget=3074457361598731172\&cot=14)
 
 #### Process: 
 
-* The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T&M problem sensing \#2 on July 21st at 18.00 UTC 
-* The outcome from T&M problem sensing \#2 will be delegated to next Swarm Session on 24/07/2021
+* The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T\&M problem sensing #2 on July 21st at 18.00 UTC 
+* The outcome from T\&M problem sensing #2 will be delegated to next Swarm Session on 24/07/2021
 
 #### 9 Selected problem statements:
 
-How to make voters aware about projects already under development? \(funded by Catalyst or not\)
+How to make voters aware about projects already under development? (funded by Catalyst or not)
 
 * Newcomers don't know where to go or how to start getting involved in the catalyst process. How can we ensure a frictionless experience for every participant?
 * Currently 3-12 people determine the ranking, and therefore likelihood of a proposal getting funded
-* How can we recruit influencers to promote community involvement \(many are simply promoting participation in crypto as a monetary construct, not social\)
+* How can we recruit influencers to promote community involvement (many are simply promoting participation in crypto as a monetary construct, not social)
 * Upcoming Fund Challenges have no place to build momentum, teams and synergy
 * Proposal system forces waterfall. How to get stakeholder input in between voting rounds?
 * Missing reputation system
@@ -79,7 +79,7 @@ How to make voters aware about projects already under development? \(funded by C
 * Need DID's solved still
 * Very high, and growing number of proposals in the system each cycle - difficult to personally attend to them in the time available
 * dominative CA role
-* What is the best practices for driving communication between the various interested community members \(example: all of the parties depicted by Charles in his governance yt video/white board\)[https://www.youtube.com/watch?v=3\_wJOF4Y8gU](https://www.youtube.com/watch?v=3_wJOF4Y8gU)
+* What is the best practices for driving communication between the various interested community members (example: all of the parties depicted by Charles in his governance yt video/white board)[https://www.youtube.com/watch?v=3\_wJOF4Y8gU](https://www.youtube.com/watch?v=3\_wJOF4Y8gU)
 * Incentives are what makes governance work. How can we clarify/quantify the incentives for each member of the community to participate?
 * missing Ideascale API access
 * no rewarding system for highly engaged community members
@@ -87,7 +87,7 @@ How to make voters aware about projects already under development? \(funded by C
 * how to improve the quality of proposals
 * Monetary Incentives - vs other system of incentivisation can we use?
 * Project Catalyst Community self-awareness that there are multiple options for funding, and this is one
-* Is there an individual or organization responsible for documenting and spreading info on the problems identified here/everywhere else? \(possible for the Circle to solve this?\)
+* Is there an individual or organization responsible for documenting and spreading info on the problems identified here/everywhere else? (possible for the Circle to solve this?)
 * How can we monitor multiple competing projects and measure their comparative success?
 
 #### Afterwards added statements
@@ -97,23 +97,25 @@ How to make voters aware about projects already under development? \(funded by C
 * you can not assume people are making a fully informed affirmative decision if they move quickly towards the largest text if given 30 secs to assess 9 statements.
 * hovering does not work on a touch screen, so my preference could not be registered in the 30 sec herding experiment.. FYI. So might want to warn ppl ahead if herding is likely to be part of decision making!!
 
-## T&M Problem sensing \#2
+## T\&M Problem sensing #2
 
 ### After Townhall, 21st July 2021
 
 {% embed url="https://www.youtube.com/watch?v=vkybM3JiK14" %}
 
-Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hall - 21st July 2021 Toolmakers and Maintainers Circle Activity
+Toolmakers and Maintainers problem sensing #2 Second Iteration - After Town Hall - 21st July 2021 Toolmakers and Maintainers Circle Activity
 
 ### Miro Board
 
-{% embed url="https://miro.com/app/board/o9J\_l5oK3HM=/?moveToWidget=3074457361682734208&cot=10" %}
+{% embed url="https://miro.com/app/board/o9J_l5oK3HM=/?moveToWidget=3074457361682734208&cot=10" %}
 
-## T&M Problem sensing \#3
+## T\&M Problem sensing #3
 
 ### Saturday Swarm Session - 24th July 2021
 
-{% embed url="https://www.youtube.com/watch?v=MavaMPz4a00" caption="T&M Problem sensing \#3 - 24th July 2021" %}
+{% embed url="https://www.youtube.com/watch?v=MavaMPz4a00" %}
+T\&M Problem sensing #3 - 24th July 2021
+{% endembed %}
 
 #### Google Document
 
@@ -121,18 +123,19 @@ Toolmakers and Maintainers problem sensing \#2 Second Iteration - After Town Hal
 
 ### Transcription
 
-#### T&M Problem sensing \#3
+#### T\&M Problem sensing #3
 
 #### Swarm Session 24/07/2021 from 17.00 -  UTC
 
-* \(1\) list the problems within your group. Problem statement rubrik
+* (1) list the problems within your group.\
+  Problem statement rubrik
   * What problem do you see? 
   * Why is solving this problem important to the mission of Project Catalyst?
   * Can you articulate the gap between the current state and the expected or envisioned state?
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
-* \(2\) Rank the problems \(focus on top two statements\) 
-* \(3\) Share our feedback with each other and look for problem statements to solve together \(eg. join with another member  - eg Victor, Juli, Felix\)
-* \(4\) Place Problems in accessible backlog tool \(E.g Trello\)
+  * How might the value of solving this problem be quantified and/or measured? (optional)
+* (2) Rank the problems (focus on top two statements) 
+* (3) Share our feedback with each other and look for problem statements to solve together (eg. join with another member  - eg Victor, Juli, Felix)
+* (4) Place Problems in accessible backlog tool (E.g Trello)
 
 #### What problem do you see?
 
@@ -148,25 +151,25 @@ The amount of information available about Cardano and Catalyst will only continu
 
 #### Can you articulate the gap between the current state and the expected or envisioned state?
 
-    -   There is an overwhelming amount of information for new people to digest in a large number of places.
+    \-   There is an overwhelming amount of information for new people to digest in a large number of places.
 
-    -   A lot of different communities support Cardano. It is hard to know where they are, which are valuable, and where to start. FOMO is real and exhausting.
+    \-   A lot of different communities support Cardano. It is hard to know where they are, which are valuable, and where to start. FOMO is real and exhausting.
 
-    -   Blockchain, Cardano, Stake Pools, Staking, Voting, Catalyst, Funding, Proposals, there is SO MUCH to learn to feel like you understand how things work.
+    \-   Blockchain, Cardano, Stake Pools, Staking, Voting, Catalyst, Funding, Proposals, there is SO MUCH to learn to feel like you understand how things work.
 
-    -   Some discord servers have an overwhelming number of servers.
+    \-   Some discord servers have an overwhelming number of servers.
 
-    -   No clear central starting point to learn about Catalyst.
+    \-   No clear central starting point to learn about Catalyst.
 
-    -   The envisioned state is having information and community mechanisms and systems available to take people deeper and deeper into the community in a safe and inclusive way.
+    \-   The envisioned state is having information and community mechanisms and systems available to take people deeper and deeper into the community in a safe and inclusive way.
 
-## T&M Problem sensing \#4
+## T\&M Problem sensing #4
 
 ### After Town Hall, 28th July 2021
 
 {% embed url="https://www.youtube.com/watch?v=47EztHUoLEY" %}
 
-### Final Form of T&M Problem Statement
+### Final Form of T\&M Problem Statement
 
 {% embed url="https://docs.google.com/document/d/12JddN22m7zjetrFjx6DwWrK-wzW6a8yQGFVRsViK6Zs/edit" %}
 
@@ -174,41 +177,42 @@ The amount of information available about Cardano and Catalyst will only continu
 
 #### After Town Hall 28/07/2021 
 
-Previous steps: [Catalyst Circle \( CC \) - Toolmakers & Maintainers \( T&M \)](https://docs.google.com/document/d/1uGn4sbaLIEiDWEGQpdX8bxU5QYaJ3SBBXjCGZzy7NnM/edit?usp=sharing)
+Previous steps: [Catalyst Circle ( CC ) - Toolmakers & Maintainers ( T\&M )](https://docs.google.com/document/d/1uGn4sbaLIEiDWEGQpdX8bxU5QYaJ3SBBXjCGZzy7NnM/edit?usp=sharing)
 
-T&M Problem sensing \#1+2 [T&M problem sensing \#1+2](https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit?usp=sharing)
+T\&M Problem sensing #1+2 [T\&M problem sensing #1+2](https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit?usp=sharing)
 
-T&M Problem sensing \#3 [T&M Problem sensing \#3](https://docs.google.com/document/d/1z47h3NSeRntWz3iekVxt295pmXEWDHHCc1J_9AHvk78/edit?usp=sharing)
+T\&M Problem sensing #3 [T\&M Problem sensing #3](https://docs.google.com/document/d/1z47h3NSeRntWz3iekVxt295pmXEWDHHCc1J\_9AHvk78/edit?usp=sharing)
 
-* \(1\) list the problems within your group. Problem statement rubrik
+* (1) list the problems within your group.\
+  Problem statement rubrik
   * What problem do you see? 
   * Why is solving this problem important to the mission of Project Catalyst?
   * Can you articulate the gap between the current state and the expected or envisioned state?
-  * How might the value of solving this problem be quantified and/or measured? \(optional\)
-* \(2\) Rank the problems \(focus on top two statements\) 
-* \(3\) Share our feedback with each other and look for problem statements to solve together 
-* \(4\) Place Problems in accessible backlog tool \(E.g Trello\)
+  * How might the value of solving this problem be quantified and/or measured? (optional)
+* (2) Rank the problems (focus on top two statements) 
+* (3) Share our feedback with each other and look for problem statements to solve together 
+* (4) Place Problems in accessible backlog tool (E.g Trello)
 
-### Problem \#1 - Onboarding & Introduction
+### Problem #1 - Onboarding & Introduction
 
 #### What problem do you see?
 
-There is an overload of information for Cardano and Catalyst, it is very dispersed and therefore hard for someone just starting out to know where to look and learn how to participate. People feel overwhelmed and lost when first starting out.   
+There is an overload of information for Cardano and Catalyst, it is very dispersed and therefore hard for someone just starting out to know where to look and learn how to participate. People feel overwhelmed and lost when first starting out. \
 
 
 Much of the available materials are in English only. Different communities do not have bridges between each other. This adds friction to world domination! Slowing down our ability to connect as a cohesive community and gain momentum.
 
 #### Why is solving this problem important to the mission of Project Catalyst?
 
-Diverse engaged and informed community participation is vital for Catalyst to be successful. We want to build a vibrant creative community able to sense local needs and act upon them collectively. Sense locally, act globally.   
+Diverse engaged and informed community participation is vital for Catalyst to be successful. We want to build a vibrant creative community able to sense local needs and act upon them collectively. Sense locally, act globally. \
 
 
-The amount of information available about Cardano and Catalyst will only continue to grow as more people join the community. Improving findability creates a reinforcing feedback loop which in itself becomes a super-power. The process of getting connected will only get more difficult, without a way to aggregate and streamline information. We need to give people orientation and confidence to contribute to the ecosystem.    
+The amount of information available about Cardano and Catalyst will only continue to grow as more people join the community. Improving findability creates a reinforcing feedback loop which in itself becomes a super-power. The process of getting connected will only get more difficult, without a way to aggregate and streamline information. We need to give people orientation and confidence to contribute to the ecosystem.  \
 
 
 #### Can you articulate the gap between the current state and the expected or envisioned state?
 
-Yes :\)
+Yes :)
 
 To find what I need when I need it and be able to work with who I need to work with.
 
@@ -220,9 +224,9 @@ Having mechanisms to separate the signal from the noise. Mechanisms and informat
 
 To build the communities we need, we need to sow radicles 🌱 so that we can work together effectively. 
 
-Written by the T&M Community
+Written by the T\&M Community
 
-### Problem \#2 - Trust, Participation, and Reward system\(s\)
+### Problem #2 - Trust, Participation, and Reward system(s)
 
 #### What problem do you see?
 
@@ -256,9 +260,9 @@ Proactive funding via proposals tends to favour certainty over outcome. Yet navi
 
 The future state gives the Cardano ecosystem a veritable treasure chest of primitives for building and navigating our space together.
 
-#### Written by the T&M Community
+#### Written by the T\&M Community
 
-![big shout out to a really engaged Toolmaker &amp; Maintainer community](../.gitbook/assets/2021-07-29-8-.png)
+![big shout out to a really engaged Toolmaker & Maintainer community](../.gitbook/assets/2021-07-29-8-.png)
 
 #### Discord context
 
@@ -266,7 +270,7 @@ The future state gives the Cardano ecosystem a veritable treasure chest of primi
 
 ## Timeline
 
-### Overview - relevant steps related to the CC history and specific regard to T&M’s
+### Overview - relevant steps related to the CC history and specific regard to T\&M’s
 
 {% embed url="https://docs.google.com/document/d/1uGn4sbaLIEiDWEGQpdX8bxU5QYaJ3SBBXjCGZzy7NnM/edit" %}
 
@@ -276,11 +280,11 @@ The future state gives the Cardano ecosystem a veritable treasure chest of primi
 
 ### Problem sensing:
 
-[T&M problem sensing](https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit?usp=sharing)
+[T\&M problem sensing](https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit?usp=sharing)
 
 [Things that are going well](https://docs.google.com/document/d/1VeZVIlWWn4q85q3SL5BaQSZ0WI_BAXWIjtWSDSvhPzc/edit?usp=sharing)
 
-{% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" caption="" %}
+{% embed url="https://miro.com/app/board/o9J_l6p5UaQ=/" %}
 
 ### Team building: ?
 
@@ -294,5 +298,4 @@ The future state gives the Cardano ecosystem a veritable treasure chest of primi
 
 ### Miro Board
 
-{% embed url="https://miro.com/app/board/o9J\_l6p5UaQ=/" caption="" %}
-
+{% embed url="https://miro.com/app/board/o9J_l6p5UaQ=/" %}

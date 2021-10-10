@@ -23,7 +23,7 @@
 * [Meeting 4 - August 26th 2021](meetings/meeting-4-august-26th-2021.md)
 * [Meeting 5 - September 9th 2021](meetings/meeting-5-september-9th-2021.md)
 * [Meeting 6 - September 23rd 2021](meetings/meeting-6-september-23rd-2021.md)
-* [Page 1](meetings/page-1.md)
+* [Meeting 7 - October 7th 2021](meetings/meeting-7-october-7th-2021.md)
 
 ## Stake Pool Operators
 
@@ -73,7 +73,3 @@
 * [Overview](facilitators-and-secretaries/facilitator-and-secretaries.md)
 * [Meetings](facilitators-and-secretaries/meetings.md)
 * [Recruiting Facilitator and Secretaries](facilitators-and-secretaries/resourcing.md)
-
-***
-
-* [Minutes](minutes.md)

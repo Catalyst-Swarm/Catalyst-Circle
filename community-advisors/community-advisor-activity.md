@@ -66,11 +66,11 @@ description: Activities of the Community Advisor Circle
 
 {% embed url="https://www.youtube.com/watch?v=P10PFuBFVL8" %}
 
-## 31st July 2021 - Update about Circle Meeting \#2 
+## 31st July 2021 - Update about Circle Meeting #2 
 
 ![](../.gitbook/assets/2021-08-02.png)
 
-![Update about Circle Meeting \#2 ](../.gitbook/assets/2021-08-02-1-.png)
+![Update about Circle Meeting #2 ](../.gitbook/assets/2021-08-02-1-.png)
 
 ### Transcription
 
@@ -80,15 +80,15 @@ In this meeting we shared our problem statements with the other groups and start
 
 Regarding the CAs problem statements, Dor mentioned that IOG has been working for some months on a new rewarding model for CAs and vCAs, which will be shared we us soon so we can check and provide feedback. I’ll have a meeting with him and then we’ll schedule a day to present it to the community. Also, if we have a good acceptance, it could even be implemented in Fund6 already. 
 
-The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU](https://bit.ly/3ykgmbU). A summary of the problem statements from the other groups follows below \(CF hasn’t shared their problems statements yet, and Ada Holder’s representant has just been elected and didn’t have time to prepare them yet\). 
+The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU](https://bit.ly/3ykgmbU). A summary of the problem statements from the other groups follows below (CF hasn’t shared their problems statements yet, and Ada Holder’s representant has just been elected and didn’t have time to prepare them yet). 
 
-**Funded proposers cohort**: 1\) Overwhelming amount of information of Project CAtalyst, in particular during onboarding phase \(supposing ongoing\) 2\) Almost non existing “ collaborative layer” to welcome newcomers
+**Funded proposers cohort**: 1) Overwhelming amount of information of Project CAtalyst, in particular during onboarding phase (supposing ongoing) 2) Almost non existing “ collaborative layer” to welcome newcomers
 
-**IOG**: 1\) How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers? 2\) How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? How do we avoid duplications of effort? How do we generate partnerships? 
+**IOG**: 1) How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers? 2) How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? How do we avoid duplications of effort? How do we generate partnerships? 
 
-**SPOs**: 1\) How to involve “ pure” SPOs in Catalyst Projects 2\) Permanent “undefined “ or “Miscellaneous” challenge bucket for projects which don’ t fit in any of the fund predefined buckets. 3\) \(Extra\) Have opportunity to apply for recurring funding 
+**SPOs**: 1) How to involve “ pure” SPOs in Catalyst Projects 2) Permanent “undefined “ or “Miscellaneous” challenge bucket for projects which don’ t fit in any of the fund predefined buckets. 3) (Extra) Have opportunity to apply for recurring funding 
 
-**Toolmakers & Maintainers** 1\) Onboarding & Introduction \(more details on meeting notes\) 2\) Trust, Participation, and Reward system\(s\) \(more details on meeting notes\)
+**Toolmakers & Maintainers** 1) Onboarding & Introduction (more details on meeting notes) 2) Trust, Participation, and Reward system(s) (more details on meeting notes)
 
 
 
@@ -98,11 +98,11 @@ The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU
 
 ### Miro Board Notes - Tevo Saks
 
-{% embed url="https://miro.com/app/board/o9J\_l0XdBwM=/" %}
+{% embed url="https://miro.com/app/board/o9J_l0XdBwM=/" %}
 
 ### Slides - Victor Corcino
 
-{% embed url="https://docs.google.com/presentation/d/1bATB7RCNKIuiKr6HalxKIOPh8lBQF9cnoY4z1OQbhX4/edit\#slide=id.p" %}
+{% embed url="https://docs.google.com/presentation/d/1bATB7RCNKIuiKr6HalxKIOPh8lBQF9cnoY4z1OQbhX4/edit#slide=id.p" %}
 
 ### Tracking - CA & vCA Rewarding Model - Project Catalyst Fund 6
 
@@ -110,6 +110,4 @@ The problem statements from all groups can be seen here: [https://bit.ly/3ykgmbU
 
 
 
-  
-
-
+\
