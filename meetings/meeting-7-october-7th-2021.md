@@ -28,7 +28,7 @@ Nadim Karam - Facilitator
 
 Stephen Whitenstall - Secretary
 
-Apologies :
+**Apologies **:
 
 David Taylor
 
