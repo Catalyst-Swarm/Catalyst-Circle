@@ -219,7 +219,7 @@ What do you guys think of extending the Circle term from three to six months whi
 
 We could make the election earlier so the next Catalyst team can join already. And we know who they are, and they can join those meetings, like at least two meetings. And understand their dynamics.
 
-#### A - Decision consensus : 3 months for members and 6 months for Admin - Nadim <a href="_wq6szu3xi6ep" id="_wq6szu3xi6ep"></a>
+#### A - Decision consensus : **3 month term for members and 6 month term for Admin** - Nadim <a href="_wq6szu3xi6ep" id="_wq6szu3xi6ep"></a>
 
 **Nadim **- So we announce the nominations 10 days in advance and secure confirmation from the nominees. We're using the same process as happened previously. Then we identify the voters and observers who're going to be in the room, who's going to vote on who's going to be just watching. Again, close to this we can also use the push notifications. Dor how much in advance do we need to notify IOG in order to ensure a push notification?
 
@@ -383,7 +383,7 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 ### Decisions : <a href="_r0ze96hmoidf" id="_r0ze96hmoidf"></a>
 
-**A - Decision consensus : 3 months for members and 6 months for Admin - Nadim**
+**A - Decision consensus : 3 month term for members and 6 month term for Admin - Nadim**
 
 **B - Decision : Nadim to manage election process with support from CC Admin.**
 
