@@ -4,6 +4,10 @@ description: Catalyst Circle Meeting 7, Thursday, 7th October 2021
 
 # Meeting 7 - October 7th 2021
 
+## **Meeting 7 - Recording**
+
+{% embed url="https://www.youtube.com/watch?v=-EMK5ou-XLY" %}
+
 **CC Meeting 7 Minutes**
 
 **Thursday, October 7th at 17.00 UTC**
