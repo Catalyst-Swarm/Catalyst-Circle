@@ -433,14 +433,6 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 **C - Decision : Felix to manage election event with support from CC Admin.**
 
-**Feedback Form Link**
-
-[https://forms.gle/Jp8UXoqP4ggFijjS8](https://forms.gle/Jp8UXoqP4ggFijjS8)
-
 ### References <a href="_16fp9t74tdu3" id="_16fp9t74tdu3"></a>
 
 **Dean’s Thoughts - **[https://docs.google.com/document/d/1-\_1CY74RzrCkHgeiU6YJ0fZvcxpJIQ-xlqKbNKHuGmw/edit?usp=sharing](https://docs.google.com/document/d/1-\_1CY74RzrCkHgeiU6YJ0fZvcxpJIQ-xlqKbNKHuGmw/edit?usp=sharing)
-
-[Circle GitBook - Previous Meeting 5 Minutes & Agenda](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-5-september-9th-2021)
-
-[Circle GitBook - Catalyst Prioritized Problems Trello prototype](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/catalyst-prioritized-problems-trello).
