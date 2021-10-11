@@ -157,7 +157,7 @@ On the other hand there is already CA onboarding, recruitment. And also two week
 
 **Dor : **We have a lot of leverage within the Voter app notification system. I'm still waiting for those kinds of curated links, like onboarding funnels, that we can use so we can divert those people to onboarding processes.
 
-#### 5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - [Stephen Whitenstall](mailto:swhitenstall@ekphrasis.co.uk) - Completed <a href="_pxs47j7tcfrr" id="_pxs47j7tcfrr"></a>
+#### 5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - Stephen - Completed <a href="_pxs47j7tcfrr" id="_pxs47j7tcfrr"></a>
 
 #### (01.00) (CC) **Open conversation** - Other CC action items and new tasks, if any. <a href="_ic8qf4liau6c" id="_ic8qf4liau6c"></a>
 
