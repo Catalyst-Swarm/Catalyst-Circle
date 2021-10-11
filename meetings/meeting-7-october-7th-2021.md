@@ -369,7 +369,7 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 **4 - Action : schedule a dedicated meeting to discuss “IOHK and Catalyst community coordination” issue - Dor, Circle Members, CC Admin**
 
-**5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - **[Stephen Whitenstall](mailto:swhitenstall@ekphrasis.co.uk)** - Completed**
+**5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - Stephen - Completed**
 
 **6 - Action : Agree in the telegram chat if we're gonna have two or three different breakout rooms and what are the themes - Circle members, Nadim**
 
