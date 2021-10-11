@@ -26,7 +26,7 @@ Lauris Steglics
 
 Victor Corcino
 
-Admin staff:
+**Admin staff:**
 
 Nadim Karam - Facilitator
 
@@ -70,9 +70,9 @@ Which brings me a lot to the point that we are building a society that is really
 
 [Cardano Blockchain Insights](https://datastudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/k5r9B)
 
+{% hint style="success" %}
 #### 1 - Action - Dean to work with Pieter Nierop on wallet analytics - Dean <a href="_8syreqrhtd28" id="_8syreqrhtd28"></a>
-
-####  <a href="_2xnc33r1hsi6" id="_2xnc33r1hsi6"></a>
+{% endhint %}
 
 #### (00:05) Revise agenda and align expectations - All - 5 min <a href="_c4tyf6y78164" id="_c4tyf6y78164"></a>
 
@@ -86,7 +86,9 @@ Which brings me a lot to the point that we are building a society that is really
 
 **Dor **- I think it's actually important that every ticket has a specific owner from the Circle. So maybe, maybe at the end of the meeting, if we have some extra time, we can go through the empty tickets and decide who's the owner of them.
 
+{% hint style="success" %}
 #### 2 - Action : Assign owners to Trello cards - Circle members / CC Admin <a href="_2mgn2r5lvuh8" id="_2mgn2r5lvuh8"></a>
+{% endhint %}
 
 #### Issue management platform discussion : <a href="_zbenty2twba" id="_zbenty2twba"></a>
 
@@ -96,7 +98,9 @@ Which brings me a lot to the point that we are building a society that is really
 
 **Dor **- I work in JIRA every day, and I absolutely hate it. I hope that we can consider other alternatives like Asana, for example, or stuff that's a bit lighter than JIRA because JIRA is very heavy. And I think it will prevent other people from participating. Also maybe a clear understanding of like, what are the requirements of the tool?
 
+{% hint style="success" %}
 #### 3 - Action : Assess alternatives to TRELLO and requirements of issue management tools. - CC Admin <a href="_1wrtu3bmupd6" id="_1wrtu3bmupd6"></a>
+{% endhint %}
 
 #### Problem - IOG: How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? - Dor <a href="_yt7rwjj9x2vs" id="_yt7rwjj9x2vs"></a>
 
@@ -111,7 +115,9 @@ OK the problem is :
 * How do we avoid duplication of efforts?
 * How does IOG and the rest of the community collaborate on things more effectively ?
 
+{% hint style="success" %}
 #### 4 - Action : schedule a dedicated meeting to discuss “IOHK and Catalyst community coordination” issue - Dor, Circle Members, CC Admin <a href="_z0x86zxl9e36" id="_z0x86zxl9e36"></a>
+{% endhint %}
 
 **Felix - **Most relevant to our Toolmakers.
 
@@ -157,7 +163,9 @@ On the other hand there is already CA onboarding, recruitment. And also two week
 
 **Dor : **We have a lot of leverage within the Voter app notification system. I'm still waiting for those kinds of curated links, like onboarding funnels, that we can use so we can divert those people to onboarding processes.
 
+{% hint style="success" %}
 #### 5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - Stephen - Completed <a href="_pxs47j7tcfrr" id="_pxs47j7tcfrr"></a>
+{% endhint %}
 
 #### (01.00) (CC) **Open conversation** - Other CC action items and new tasks, if any. <a href="_ic8qf4liau6c" id="_ic8qf4liau6c"></a>
 
@@ -169,7 +177,9 @@ On the other hand there is already CA onboarding, recruitment. And also two week
 
 **Nadim **- We can all agree in the telegram chat if we're gonna have two or three different breakout rooms and what are the themes so you can have your time to think of it sounds good.
 
+{% hint style="success" %}
 #### 6 - Action : Agree in the telegram chat if we're gonna have two or three different breakout rooms and what are the themes - Circle members, Nadim <a href="_ohfzj2xf7yp5" id="_ohfzj2xf7yp5"></a>
+{% endhint %}
 
 ### Succession Planning and Defining the next elections (30 min) <a href="_kouu31l1qju4" id="_kouu31l1qju4"></a>
 
@@ -189,7 +199,9 @@ To give enough time to reach as many as possible and to use the new App push not
 
 **Nadim **- Cool, let's do that as an action item. I think that would be great. And we can also use the push notification because we can practically reach everyone from the catalyst community.
 
+{% hint style="success" %}
 #### 7 - Action : Produce Circle Election video - Circle members, Nadim <a href="_z2ro14sjv6rn" id="_z2ro14sjv6rn"></a>
+{% endhint %}
 
 #### Circle Term length discussion <a href="_h3pyald3q4lu" id="_h3pyald3q4lu"></a>
 
@@ -313,7 +325,9 @@ For later iterations we discussed the possibility of having a rating system base
 
 Once a nominee has presented, the voters will provide feedback and then cast the votes. We need to agree on the methodology behind this. How do people cast a vote ? Is it through a Google form? Or what other mechanism will need to be used? Felix, we'll discuss this if we're going to work together on this new event. Unless anyone has any preferences in terms of how they want the voters to cast votes.
 
+{% hint style="success" %}
 #### 8 - Action - Work out how people cast votes - Nadim / Felix <a href="_r27afur4ly7g" id="_r27afur4ly7g"></a>
+{% endhint %}
 
 **Dor **- I think the voting mechanism needs to be something that doesn't require any technical proficiency so that any casual person can intuitively use it.
 
@@ -323,7 +337,9 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 **Felix **- Maybe we can arrange for the elected people to present in the Town Hall after the Saturday election. Also in the After Town Hall the new Circle members can meet and speak with their communities.
 
+{% hint style="success" %}
 #### 9 - Action - Arrange for the elected people to present in Town & After Town Hall after the Saturday elections - Nadim / Felix <a href="_46awjfzencfc" id="_46awjfzencfc"></a>
+{% endhint %}
 
 ### Next CC priority, action items, closing remarks (10 min) <a href="_k6ld105b6ee5" id="_k6ld105b6ee5"></a>
 
@@ -337,11 +353,15 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 **Nadim **- Next step here is to define a date for this session.
 
+{% hint style="success" %}
 #### 10 - Action : Announce Election in advance at next TH - Nadim / CC Admin <a href="_dxu4d5yztte3" id="_dxu4d5yztte3"></a>
+{% endhint %}
 
 **Nadim **- After this meeting we will sort all the action items with the person that owns each one and share it with the minutes.
 
+{% hint style="success" %}
 #### 11 - Action : Sort action items from meeting audio and share with minutes - Stephen - Completed <a href="_j2vw3upn87pf" id="_j2vw3upn87pf"></a>
+{% endhint %}
 
 **Dor **- This election is a fairly complex operation. It requires a lot of coordination and a bunch of deliverables. I think at least we should have come out of here with a clear definition of who the point person is, who's the project manager. The person that would work on the document and dependencies. And alert Circle if there's something not happening or if there needs to be some intervention.
 
@@ -361,25 +381,49 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 ### Action Items : <a href="_pilmpr2sl9kb" id="_pilmpr2sl9kb"></a>
 
+{% hint style="success" %}
 **1 - Action - Dean to work with Pieter Nierop on wallet analytics - Dean**
+{% endhint %}
 
+{% hint style="success" %}
 **2 - Action : Assign owners to Trello cards - Circle members / CC Admin**
+{% endhint %}
 
+{% hint style="success" %}
 **3 - Action : Assess alternatives to TRELLO and requirements of issue management tools. - CC Admin**
+{% endhint %}
 
+{% hint style="success" %}
 **4 - Action : schedule a dedicated meeting to discuss “IOHK and Catalyst community coordination” issue - Dor, Circle Members, CC Admin**
+{% endhint %}
 
+{% hint style="success" %}
 **5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - Stephen - Completed**
+{% endhint %}
 
+{% hint style="success" %}
 **6 - Action : Agree in the telegram chat if we're gonna have two or three different breakout rooms and what are the themes - Circle members, Nadim**
+{% endhint %}
 
+{% hint style="success" %}
 **7 - Action : Produce Circle Election video - Circle members, Nadim**
+{% endhint %}
 
+{% hint style="success" %}
 **8 - Action - Work out how people cast votes - Nadim / Felix**
+{% endhint %}
 
+{% hint style="success" %}
 **9 - Action - Arrange for the elected people to present in Town & After Town Hall after the Saturday elections - Nadim / Felix**
+{% endhint %}
 
+{% hint style="success" %}
 **10 - Action : Announce Election in advance at next TH - Nadim / CC Admin**
+{% endhint %}
+
+{% hint style="success" %}
+#### 11 - Action : Sort action items from meeting audio and share with minutes - Stephen - Completed <a href="_j2vw3upn87pf" id="_j2vw3upn87pf"></a>
+{% endhint %}
 
 ### Decisions : <a href="_r0ze96hmoidf" id="_r0ze96hmoidf"></a>
 
