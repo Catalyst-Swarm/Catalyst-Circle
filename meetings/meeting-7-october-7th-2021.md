@@ -104,7 +104,7 @@ Which brings me a lot to the point that we are building a society that is really
 
 #### Problem - IOG: How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? - Dor <a href="_yt7rwjj9x2vs" id="_yt7rwjj9x2vs"></a>
 
-**How do we avoid duplications of effort? How do we generate partnerships? (**[**Trello Card Link**](https://trello.com/c/I1qjAPRj)**).**
+**How do we avoid duplication of effort? How do we generate partnerships? (**[**Trello Card Link**](https://trello.com/c/I1qjAPRj)**).**
 
 **Dor **- I think it would be great that maybe we can have a discussion from the Circle, I'd love to hear from the Circle members their perspective on this problem, like how do they encounter it? And we can start to move it. So maybe we can take this off this main meeting, so we can start to define this problem a bit better and maybe schedule a dedicated meeting ?
 
@@ -141,13 +141,13 @@ So all the IOG stakeholders are unified on an approach so as to prevent messines
 
 **Problem: CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way. (**[**Trello Card Link**](https://trello.com/c/reroCIGE)**). Victor**
 
-In the CA group, we have the problem which is the lack of a reputation system for CAs and vCAs. This one has just been picked up by the community and there is a draft for a reputation system. This is now being discussed among the CAs and we plan to share this with the IOG researh once we have a better document. So I think we can move this one to picked up
+In the CA group, we have the problem which is the lack of a reputation system for CAs and vCAs. This one has just been picked up by the community and there is a draft for a reputation system. This is now being discussed among the CAs and we plan to share this with the IOG research once we have a better document. So I think we can move this one to picked up
 
 **Problem: CA: CAs and vCAs rewarding system does not incentivize higher assessments quality (CAs) or higher number of assessment reviews (vCAs). (**[**Trello Card Link**](https://trello.com/c/9pihgGiq)**). Victor**
 
 This problem concerns the system to assess and review assessments to account for the quality of the assessment itself. As well as fairer payments for vCAs.
 
-We have just finished the vCA round, the QA phase. But I am not sure we are ready to validatie. Because we have just received the data from the QA stage, and I am going to analyze it, do some charts again, and check how it went. Were we able to remove the bad assessments etc. So we are moving forward with this, but not quite ready to move this to the validation column.
+We have just finished the vCA round, the QA phase. But I am not sure we are ready to validate. Because we have just received the data from the QA stage, and I am going to analyze it, do some charts again, and check how it went. Were we able to remove the bad assessments etc. So we are moving forward with this, but not quite ready to move this to the validation column.
 
 **Problem - T\&M: There is a lack of Onboarding & Introduction systems and structures for Project Catalyst (**[**Trello Card Link**](https://trello.com/c/yuOWslgV)**) - Felix**
 
@@ -193,7 +193,13 @@ We are basing the election on the previous one. Firstly the pre-election process
 
 To give enough time to reach as many as possible and to use the new App push notification feature. So if there is a nomination based on their own constituency then a message is tailored to them.
 
-**Refence **: CCv2 Election Process - [CCv2 Election Process](https://docs.google.com/spreadsheets/d/18D7dOPCI7A3DMORIx5rVNd550n1Nyh\_\_vFUGN57qomo/edit#gid=426531943)
+**Reference **: CCv2 Election Process -
+
+[CCv2 Election Process](https://docs.google.com/spreadsheets/d/18D7dOPCI7A3DMORIx5rVNd550n1Nyh\_\_vFUGN57qomo/edit#gid=426531943)
+
+{% embed url="https://docs.google.com/spreadsheets/d/18D7dOPCI7A3DMORIx5rVNd550n1Nyh__vFUGN57qomo/edit#gid=426531943" %}
+ CCv2 Election Process
+{% endembed %}
 
 **Dor **- We could make a cool video together. A two minute video where everyone can come in and talk a bit. Something easy to disseminate. Then we can put it on Reddit, Twitter and the general Cardano Telegram. And that probably would reach a large number of people. With some kind of a basic script. Each one of us says something about what's the best thing about the circle. And what are the specific requirements of the role and the compensation. and refers you to the candidate application form.
 
@@ -221,9 +227,9 @@ What do you guys think of extending the Circle term from three to six months whi
 
 **Dor **- I think there's a reason why usually like terms are not so not so short, usually. Because I do think there's a lot of domain knowledge that needs to be transferred. I would feel more confident about the six months term. I think that's a reasonable idea, we could do three and wait. I do think that now that catalyst has a much higher profile in the community. And also the funding amounts are much bigger, so we're gonna attract many more candidates, like the quality candidate pool is going to go up. And I think it's fine to ask people to commit for longer.
 
-**Felix **- From the beginning, from my point of view, it would make sense to get as much experience from different people as possible before moving into longer iterations. Shorter iterations allow more people to have experience. So after six months, you have 14 people who had the experience instead of six. And I think this is valuable. Also, there is the admin team that can have longer durations and help the process a little bit.
+**Felix **- From the beginning, from my point of view, it would make sense to get as much experience from different people as possible before moving into longer iterations. Shorter iterations allow more people to have experience. So after six months, you have 14 people who had the experience instead of six. And I think this is valuable. Also, there is the admin team that can have a longer duration and help the process a little bit.
 
-**Lauris **- We are not yet established like a company which knows everything, how it should be done, and cetera. There are a lot of inputs which are needed from different people. And I think more people coming here with more information and more ideas would be better. Six months is a lot longer period, especially if we see the budget . We understand the kind of scope we have to do and it's not an easy task, it's not an easy job for them to do. I would think that six months will scare some people off who already are committed to other projects.
+**Lauris **- We are not yet established like a company which knows everything, how it should be done, and etc. There are a lot of inputs which are needed from different people. And I think more people coming here with more information and more ideas would be better. Six months is a lot longer period, especially if we see the budget . We understand the kind of scope we have to do and it's not an easy task, it's not an easy job for them to do. I would think that six months will scare some people off who already are committed to other projects.
 
 **Dor **- Maybe we can do three months for members and six months for admin.
 
@@ -427,12 +433,20 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 
 ### Decisions : <a href="_r0ze96hmoidf" id="_r0ze96hmoidf"></a>
 
+{% hint style="info" %}
 **A - Decision consensus : 3 month term for members and 6 month term for Admin - Nadim**
+{% endhint %}
 
+{% hint style="info" %}
 **B - Decision : Nadim to manage election process with support from CC Admin.**
+{% endhint %}
 
+{% hint style="info" %}
 **C - Decision : Felix to manage election event with support from CC Admin.**
+{% endhint %}
 
 ### References <a href="_16fp9t74tdu3" id="_16fp9t74tdu3"></a>
 
 **Dean’s Thoughts - **[https://docs.google.com/document/d/1-\_1CY74RzrCkHgeiU6YJ0fZvcxpJIQ-xlqKbNKHuGmw/edit?usp=sharing](https://docs.google.com/document/d/1-\_1CY74RzrCkHgeiU6YJ0fZvcxpJIQ-xlqKbNKHuGmw/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/document/d/1-_1CY74RzrCkHgeiU6YJ0fZvcxpJIQ-xlqKbNKHuGmw/edit?usp=sharing" %}
