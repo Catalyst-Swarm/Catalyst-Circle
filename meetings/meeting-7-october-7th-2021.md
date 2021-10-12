@@ -44,7 +44,7 @@ Juliane Montag
 
 ### Opening, Announcements and Expectations Alignment (10 min) <a href="_4xmwjvx3r3p" id="_4xmwjvx3r3p"></a>
 
-#### (00:00) Check-in - **All** - 5 min <a href="_3zh15vdlym5k" id="_3zh15vdlym5k"></a>
+### (00:00) Check-in - **All** - 5 min <a href="_3zh15vdlym5k" id="_3zh15vdlym5k"></a>
 
 **Lauris - **Several discussions with SPOs on different topics. No consensus on how to proceed. Categories are regarded as useless given that Circle influences what is “in the basket”. It may be different with the Toolmakers & Maintainers - we have to revisit this feedback.
 
@@ -74,13 +74,13 @@ Which brings me a lot to the point that we are building a society that is really
 #### 1 - Action - Dean to work with Pieter Nierop on wallet analytics - Dean <a href="_8syreqrhtd28" id="_8syreqrhtd28"></a>
 {% endhint %}
 
-#### (00:05) Revise agenda and align expectations - All - 5 min <a href="_c4tyf6y78164" id="_c4tyf6y78164"></a>
+### (00:05) Revise agenda and align expectations - All - 5 min <a href="_c4tyf6y78164" id="_c4tyf6y78164"></a>
 
 ### **Updates on CC actions (50 min) **_-> Update _[_Trello Board_](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)_ Accordingly_ <a href="_5q7vgbbfhf4n" id="_5q7vgbbfhf4n"></a>
 
 **Moving existing Items across the board**
 
-#### (00.20) (CC) **Tracking problems and actions** - ([Trello Card](https://trello.com/c/reroCIGE)) - Discuss updates and moving existing items across the board. <a href="_ix1035pl7qwl" id="_ix1035pl7qwl"></a>
+### (00.20) (CC) **Tracking problems and actions** - ([Trello Card](https://trello.com/c/reroCIGE)) - Discuss updates and moving existing items across the board. <a href="_ix1035pl7qwl" id="_ix1035pl7qwl"></a>
 
 **Lauris **- From my side,we don't have anything which is going forward at this time. We're still waiting for funding. After the voting we may move forward, otherwise, everything will say the same.
 
@@ -90,7 +90,7 @@ Which brings me a lot to the point that we are building a society that is really
 #### 2 - Action : Assign owners to Trello cards - Circle members / CC Admin <a href="_2mgn2r5lvuh8" id="_2mgn2r5lvuh8"></a>
 {% endhint %}
 
-#### Issue management platform discussion : <a href="_zbenty2twba" id="_zbenty2twba"></a>
+### Issue management platform discussion : <a href="_zbenty2twba" id="_zbenty2twba"></a>
 
 **Nadim - **We are finding that TRELLO is not easy. JIRA might be better.
 
@@ -102,7 +102,7 @@ Which brings me a lot to the point that we are building a society that is really
 #### 3 - Action : Assess alternatives to TRELLO and requirements of issue management tools. - CC Admin <a href="_1wrtu3bmupd6" id="_1wrtu3bmupd6"></a>
 {% endhint %}
 
-#### Problem - IOG: How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? - Dor <a href="_yt7rwjj9x2vs" id="_yt7rwjj9x2vs"></a>
+### Problem - IOG: How does IOHK and Catalyst community coordinate building the developer and governance eco-system effectively? - Dor <a href="_yt7rwjj9x2vs" id="_yt7rwjj9x2vs"></a>
 
 **How do we avoid duplication of effort? How do we generate partnerships? (**[**Trello Card Link**](https://trello.com/c/I1qjAPRj)**).**
 
@@ -121,7 +121,7 @@ OK the problem is :
 
 **Felix - **Most relevant to our Toolmakers.
 
-**Problem - IOG: How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers? (**[**Trello Card Link**](https://trello.com/c/nYhpDItd)**) - Dor.**
+### **Problem - IOG: How do we remove IOHK from every decision made in Catalyst? How can we transition from governors to service providers? (**[**Trello Card Link**](https://trello.com/c/nYhpDItd)**) - Dor.**
 
 Right now we're moving towards having this a well defined problem. Currently, the internal process is one of mapping. Both in Catalyst, and outside of Catalyst, we're mapping any part that IOG has any control over and then seeing if we want to move from that being under the custody IOG to not being IOG.
 
