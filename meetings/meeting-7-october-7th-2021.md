@@ -42,7 +42,7 @@ Juliane Montag
 
 ## Planned agenda items for CC meeting #7 - 120 min (2 hours) <a href="_xpmazbfcdwii" id="_xpmazbfcdwii"></a>
 
-### Opening, Announcements and Expectations Alignment (10 min) <a href="_4xmwjvx3r3p" id="_4xmwjvx3r3p"></a>
+## Opening, Announcements and Expectations Alignment (10 min) <a href="_4xmwjvx3r3p" id="_4xmwjvx3r3p"></a>
 
 ### (00:00) Check-in - **All** - 5 min <a href="_3zh15vdlym5k" id="_3zh15vdlym5k"></a>
 
@@ -76,7 +76,7 @@ Which brings me a lot to the point that we are building a society that is really
 
 ### (00:05) Revise agenda and align expectations - All - 5 min <a href="_c4tyf6y78164" id="_c4tyf6y78164"></a>
 
-### **Updates on CC actions (50 min) **_-> Update _[_Trello Board_](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)_ Accordingly_ <a href="_5q7vgbbfhf4n" id="_5q7vgbbfhf4n"></a>
+## **Updates on CC actions (50 min) **_-> Update _[_Trello Board_](https://trello.com/b/DRBO6qyF/catalyst-prioritized-problems)_ Accordingly_ <a href="_5q7vgbbfhf4n" id="_5q7vgbbfhf4n"></a>
 
 **Moving existing Items across the board**
 
@@ -139,17 +139,17 @@ What kind of framework is ready ?
 
 So all the IOG stakeholders are unified on an approach so as to prevent messiness.
 
-**Problem: CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way. (**[**Trello Card Link**](https://trello.com/c/reroCIGE)**). Victor**
+### **Problem: CA: There is no reputation/merit system for CAs/vCA, and CAs/vCAs ratings are all weighted in the same way. (**[**Trello Card Link**](https://trello.com/c/reroCIGE)**). Victor**
 
 In the CA group, we have the problem which is the lack of a reputation system for CAs and vCAs. This one has just been picked up by the community and there is a draft for a reputation system. This is now being discussed among the CAs and we plan to share this with the IOG research once we have a better document. So I think we can move this one to picked up
 
-**Problem: CA: CAs and vCAs rewarding system does not incentivize higher assessments quality (CAs) or higher number of assessment reviews (vCAs). (**[**Trello Card Link**](https://trello.com/c/9pihgGiq)**). Victor**
+### **Problem: CA: CAs and vCAs rewarding system does not incentivize higher assessments quality (CAs) or higher number of assessment reviews (vCAs). (**[**Trello Card Link**](https://trello.com/c/9pihgGiq)**). Victor**
 
 This problem concerns the system to assess and review assessments to account for the quality of the assessment itself. As well as fairer payments for vCAs.
 
 We have just finished the vCA round, the QA phase. But I am not sure we are ready to validate. Because we have just received the data from the QA stage, and I am going to analyze it, do some charts again, and check how it went. Were we able to remove the bad assessments etc. So we are moving forward with this, but not quite ready to move this to the validation column.
 
-**Problem - T\&M: There is a lack of Onboarding & Introduction systems and structures for Project Catalyst (**[**Trello Card Link**](https://trello.com/c/yuOWslgV)**) - Felix**
+### **Problem - T\&M: There is a lack of Onboarding & Introduction systems and structures for Project Catalyst (**[**Trello Card Link**](https://trello.com/c/yuOWslgV)**) - Felix**
 
 **Felix - **So we have submitted a funding proposal And met with the rapid funding mechanism challenge team. Everything's now done, just waiting for voting for the funding as well. So we are now in a position to support action later. But I'm not sure if we can move it forward already.
 
@@ -167,7 +167,7 @@ On the other hand there is already CA onboarding, recruitment. And also two week
 #### 5 - Action : Merge together duplicate “Onboarding & Introduction systems” cards - Stephen - Completed <a href="_pxs47j7tcfrr" id="_pxs47j7tcfrr"></a>
 {% endhint %}
 
-#### (01.00) (CC) **Open conversation** - Other CC action items and new tasks, if any. <a href="_ic8qf4liau6c" id="_ic8qf4liau6c"></a>
+### (01.00) (CC) **Open conversation** - Other CC action items and new tasks, if any. <a href="_ic8qf4liau6c" id="_ic8qf4liau6c"></a>
 
 #### Breakout rooms to discuss different themes <a href="_ikexpbpqm2mu" id="_ikexpbpqm2mu"></a>
 
@@ -181,9 +181,9 @@ On the other hand there is already CA onboarding, recruitment. And also two week
 #### 6 - Action : Agree in the telegram chat if we're gonna have two or three different breakout rooms and what are the themes - Circle members, Nadim <a href="_ohfzj2xf7yp5" id="_ohfzj2xf7yp5"></a>
 {% endhint %}
 
-### Succession Planning and Defining the next elections (30 min) <a href="_kouu31l1qju4" id="_kouu31l1qju4"></a>
+## Succession Planning and Defining the next elections (30 min) <a href="_kouu31l1qju4" id="_kouu31l1qju4"></a>
 
-#### (01.10) **Defining the next election process for CCv2** - Victor, Dor and Nadim update <a href="_wmqna5cv0k9e" id="_wmqna5cv0k9e"></a>
+### (01.10) **Defining the next election process for CCv2** - Victor, Dor and Nadim update <a href="_wmqna5cv0k9e" id="_wmqna5cv0k9e"></a>
 
 **Nadim **: Nadim, Dor and Victor had a call to discuss and this is the proposed direction that we would like to further agree with you. We've broken it down into three different stages. One is the pre election process, then during the election and then post election.The timeline D is the day of the election. And T plus one after the election.
 
@@ -209,7 +209,7 @@ To give enough time to reach as many as possible and to use the new App push not
 #### 7 - Action : Produce Circle Election video - Circle members, Nadim <a href="_z2ro14sjv6rn" id="_z2ro14sjv6rn"></a>
 {% endhint %}
 
-#### Circle Term length discussion <a href="_h3pyald3q4lu" id="_h3pyald3q4lu"></a>
+### Circle Term length discussion <a href="_h3pyald3q4lu" id="_h3pyald3q4lu"></a>
 
 **Nadim **: Initially, we said it would be a three month term. But you need two weeks to get on board and then you need at least two weeks for the election. And that's already one month gone. It's not enough time to really do any work. Even from the first circle, it took maybe a month or so just to get started really.
 
@@ -275,7 +275,7 @@ The counter argument is that doing a special event on the weekend may result in 
 
 **Dor **- I think the only path forward I see is if the Circle admin team does it and becomes the election committee at least for now. And I think it's a one off. It is not perfect because they are also going to get voted right at some point as administrators.So it's not good that they also are the election committee. If it rides on the back of the swarm session and happens on the weekend. And Swarm already has a zoom, invitations, people and facilitators in place, setting the space and the production. But then the admins do the election and administration. So there's a bit of a separation there, then it should be, it should work, I believe.
 
-#### Election process overview <a href="_vyp4cltfcjks" id="_vyp4cltfcjks"></a>
+### Election process overview <a href="_vyp4cltfcjks" id="_vyp4cltfcjks"></a>
 
 **Nadim **- This gives us the opportunity to rethink this now that we're having our own dedicated event. The election starts and we instruct attendees to go to the breakout rooms.
 
@@ -317,7 +317,7 @@ How can Circle execute better?
 
 How can Circle be monitored better?
 
-**Onboarding kit**
+### **Onboarding kit**
 
 This will eventually become an onboarding kit that will be given to these new joiners? So that they will know exactly what to expect and what issues that they're working with. How many meetings, how much time is expected from them and the level of knowledge they should know in terms of tools and system.
 
@@ -347,9 +347,9 @@ Post election, we introduce each person to their buddy. As agreed, Circle V1 vet
 #### 9 - Action - Arrange for the elected people to present in Town & After Town Hall after the Saturday elections - Nadim / Felix <a href="_46awjfzencfc" id="_46awjfzencfc"></a>
 {% endhint %}
 
-### Next CC priority, action items, closing remarks (10 min) <a href="_k6ld105b6ee5" id="_k6ld105b6ee5"></a>
+## Next CC priority, action items, closing remarks (10 min) <a href="_k6ld105b6ee5" id="_k6ld105b6ee5"></a>
 
-#### (01:40) Go over action items and identify ownership, closing remarks - **All** - 10 min <a href="_55d6f87zz5hh" id="_55d6f87zz5hh"></a>
+### (01:40) Go over action items and identify ownership, closing remarks - **All** - 10 min <a href="_55d6f87zz5hh" id="_55d6f87zz5hh"></a>
 
 **Lauris **- Will the voting be voting on the zoom call or something that people can do afterwards as well ?
 
