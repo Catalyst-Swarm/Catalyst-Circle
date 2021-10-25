@@ -104,7 +104,7 @@ How do we avoid duplications of effort? How do we generate partnerships?  - [htt
 
 We have slightly kind of pivoted on it, but I think it is a good pivot. Rather than dealing with the entirety of the coordination problem we have identified specific areas. Such as where the community wants to take part more at an early stage, where we can define incentives and mechanisms for Catalyst and where there is a need for a tighter collaboration with IOG and more inclusion.
 
-#### The auditing problem
+### The auditing problem
 
 So, we are addressing a subset of this problem in a pragmatic way for getting things done.
 
@@ -176,11 +176,11 @@ It was amazing to see the custom spreadsheet set up. Lucio, from the community s
 
 #### 3 - Action - Admin Team to review structure of Trello board in light of status edge cases.
 
-### Retrospective (45 mins)
+## Retrospective (45 mins)
 
 (00.40) (CC) Using the 5L’s method: Things we’ve Loved, Learned, Lacked, Longed for and List of things to note: [https://app.teleretro.com/board/907ze52I8flf](https://app.teleretro.com/board/907ze52I8flf)&#x20;
 
-#### Introduction
+### Introduction
 
 **Nori **- Let me share the retrospective link. If everybody could go to this link. This is an app called tele retro, which we've been using for community retrospectives, and it's a pretty simple retrospective tool. I'll share my screen so we can talk through this.
 
@@ -208,9 +208,9 @@ So I'm going to give each person eight votes. Please vote for two items in each 
 
 Each column was voted on for further discussion. Max - 5 minutes to vote.
 
-#### Discussion Phase :
+### Discussion Phase :
 
-#### Liked
+### Liked
 
 Things you liked or found valuable
 
@@ -248,7 +248,7 @@ I think we need to figure out how to scale up the proposals for these teams, bec
 
 **Lauris **- This is a very important topic. We'll have to figure out how to manage that and get some stable support.
 
-#### Learned&#x20;
+### Learned&#x20;
 
 {% hint style="info" %}
 That the CC is a perfect micro-picture of the overall Project Catalyst and its functional groups
@@ -270,7 +270,7 @@ I think it's great to really think about it in a systematic way. I think we're g
 
 **Victor **- I voted for this because for me it was very clear the increase in efficiency of these meetings. We had three different kinds of facilitators. And we were just improving over time. It is very clear that now we reached something very good, that could even be the standard. Moving forward.
 
-#### Lacked&#x20;
+### Lacked&#x20;
 
 {% hint style="info" %}
 More time for unofficial discussions/meetings with members to work on problem solving / defining the problems, etc.
@@ -330,7 +330,7 @@ it’s like a 2 person team - for each position
 
 **Action Item : CC Admin team to include public attendance sheet for CC v2**
 
-#### Longed for
+### Longed for
 
 {% hint style="info" %}
 An official platform for CC members for communication with their communities/voters
