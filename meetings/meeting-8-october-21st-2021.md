@@ -332,72 +332,41 @@ it’s like a 2 person team - for each position
 
 #### Longed for
 
-\
-
-
+{% hint style="info" %}
 An official platform for CC members for communication with their communities/voters
+{% endhint %}
 
-Nori - I'm using the list column to write any notable takeaway action items. Another card that got two votes was “An official platform for CC members for communication with the communities or voters.” Who wrote that card? Do you want to add some more context?
+**Nori **- I'm using the list column to write any notable takeaway action items. Another card that got two votes was “An official platform for CC members for communication with the communities or voters.” Who wrote that card? Do you want to add some more context?
 
-\
+**Lauris **- So basically, build a platform for the next Catalyst Circle to communicate with other members of the community. Currently there is no official communication channel. Catalyst Circle version 2 should have an official way to communicate. Not just internally but also for the community to contact us. Somewhere we can put some emails and other content. Make it more official and prominent.
 
+**Nori **- I think that's a really good idea. It even adds legitimacy to the group if there's an official way to contact and to reach out.
 
-Lauris - So basically, build a platform for the next Catalyst Circle to communicate with other members of the community. Currently there is no official communication channel. Catalyst Circle version 2 should have an official way to communicate. Not just internally but also for the community to contact us. Somewhere we can put some emails and other content. Make it more official and prominent.
-
-\
-
-
-Nori - I think that's a really good idea. It even adds legitimacy to the group if there's an official way to contact and to reach out.
-
-\
-
-
-Dor - I propose for Circle V2, if we get funding, to get a corporate Google account, like Google Apps (Google Workspace). So, each representative can access a common email domain for Circle communications.
+**Dor **- I propose for Circle V2, if we get funding, to get a corporate Google account, like Google Apps (Google Workspace). So, each representative can access a common email domain for Circle communications.
 
 And in the longer term, as Circle matures, maybe even start to go down the path of starting a DAO in Wyoming? To mitigate liability risks. I do think this is going to happen in V2, only something to consider in the longer term.
 
-Nori - OK, I've taken that as a note. I think a DAO would be amazing for a number of our groups longer term. And I really look forward to seeing people building out smart contracts and systems on top of Cardano. A lot of groups would benefit from tending that way longer term especially just on the liability issue and legal standing. Any other thoughts or ideas on that card?
-
-\
-
+**Nori **- OK, I've taken that as a note. I think a DAO would be amazing for a number of our groups longer term. And I really look forward to seeing people building out smart contracts and systems on top of Cardano. A lot of groups would benefit from tending that way longer term especially just on the liability issue and legal standing. Any other thoughts or ideas on that card?
 
 Lauris, you mentioned that you felt this was a lack. And I'm sure the CA's and Toolmakers and Maintainers kind of had a natural platform. Is that a shortcoming of the SPO space that it is a fractured community? That you don't have a single place where all SPOs are gathered?
 
-Lauris - I am not sure that Toolmakers and Maintainers reached all the people in their community. We have platforms, but none owned by Catalyst circle. It is up to me to leave and to give somebody this access. I think we need an official platform so we can reach all people.
+**Lauris **- I am not sure that Toolmakers and Maintainers reached all the people in their community. We have platforms, but none owned by Catalyst circle. It is up to me to leave and to give somebody this access. I think we need an official platform so we can reach all people.
 
-\
+**Nori **- Would you see that as a combined official channel for all the seats? Or would each one have their own kind of official?
 
+**Lauris **- Definitely each representative should have their own channel. A common channel would be great too. But I think Catalyst Townhall is already a good choice for common communication. But for SPOs, ADA holders, or anybody else there definitely should be some kind of channel which is owned by Catalyst Circle.
 
-Nori - Would you see that as a combined official channel for all the seats? Or would each one have their own kind of official?
+**Dor **- I would say that the nice thing about Circle is that it allows a bird’s eye perspective to understand problems within groups I'm not naturally involved with. That is the essence of the circle, right? And innovation within all these groups can be siloed or not siloed. I would super advocate for having a Slack channel ([https://slack.com](https://slack.com)) for all the groups. Each group has their own channel, but also a big chance to intermingle. Because I think that's where this kind of value comes from. I like the idea of using a good, fully featured, collaboration platform like Slack versus something like Discord which is more adapted for video gamers. Something more work oriented. Like slack or an open-source alternative. And having some sort of a mailing list that people can subscribe to and get updates directly from the Circle itself. All of these would be great to try out and see how it works.
 
-\
-
-
-Lauris - Definitely each representative should have their own channel. A common channel would be great too. But I think Catalyst Townhall is already a good choice for common communication. But for SPOs, ADA holders, or anybody else there definitely should be some kind of channel which is owned by Catalyst Circle.
-
-\
-
-
-Dor - I would say that the nice thing about Circle is that it allows a bird’s eye perspective to understand problems within groups I'm not naturally involved with. That is the essence of the circle, right? And innovation within all these groups can be siloed or not siloed. I would super advocate for having a Slack channel ([https://slack.com](https://slack.com)) for all the groups. Each group has their own channel, but also a big chance to intermingle. Because I think that's where this kind of value comes from. I like the idea of using a good, fully featured, collaboration platform like Slack versus something like Discord which is more adapted for video gamers. Something more work oriented. Like slack or an open-source alternative. And having some sort of a mailing list that people can subscribe to and get updates directly from the Circle itself. All of these would be great to try out and see how it works.
-
-\
-
-
-Lauris - Another solution is Mighty Networks (https://www.mightynetworks.com/). A platform where people can join different groups, there is chat, whatever we need without having software in order to connect. This will be something that CCV2 has to figure out. To find a solution to this is crucial.
-
-\
-
+**Lauris **- Another solution is Mighty Networks (https://www.mightynetworks.com/). A platform where people can join different groups, there is chat, whatever we need without having software in order to connect. This will be something that CCV2 has to figure out. To find a solution to this is crucial.
 
 If I can ask Felix and Victor, do you feel that you are reaching all Toolmakers, all groups, or is there something that is still missing. And would you also prefer to have some kind of platform ?
 
-Felix - It is hard to really define what are Toolmakers and Maintainers, especially when it comes to Maintainers, what exactly is a Maintainer? What is the definition of a Maintainer? I was really focusing on the problems of the people within these groups, not looking so much for a specific group. People who constantly add value in the community, who constantly work without even being in the cohort or being rewarded for this. And, to your point, no, I don't think that it was possible to include all of them. Because you never know, when new people come in, all the initiatives in the ecosystem. Especially as it's growing really fast, really rapid.
+**Felix **- It is hard to really define what are Toolmakers and Maintainers, especially when it comes to Maintainers, what exactly is a Maintainer? What is the definition of a Maintainer? I was really focusing on the problems of the people within these groups, not looking so much for a specific group. People who constantly add value in the community, who constantly work without even being in the cohort or being rewarded for this. And, to your point, no, I don't think that it was possible to include all of them. Because you never know, when new people come in, all the initiatives in the ecosystem. Especially as it's growing really fast, really rapid.
 
-\
+**Victor **- For the CAs, I think it's easier to define who is a CA, and who is not. Most of them are in the CA Telegram or Discord group, but not all of them. At the beginning of Circle V1 during the second, or first week, I asked Dany to send an email to all the CAs who were subscribed to Ideascale, inviting them to participate in the problem sensing phase and subsequent phases as well. So, I think we reached out to every CA. But the participation of the CAs in the Circle itself was not that high. We have hundreds of active CAs assessing proposals, but a maximum of 40 to 50 actively participating in Catalyst circle initiatives. Which is good. But it's a small percentage of the whole population.
 
-
-Victor - For the CAs, I think it's easier to define who is a CA, and who is not. Most of them are in the CA Telegram or Discord group, but not all of them. At the beginning of Circle V1 during the second, or first week, I asked Dany to send an email to all the CAs who were subscribed to Ideascale, inviting them to participate in the problem sensing phase and subsequent phases as well. So, I think we reached out to every CA. But the participation of the CAs in the Circle itself was not that high. We have hundreds of active CAs assessing proposals, but a maximum of 40 to 50 actively participating in Catalyst circle initiatives. Which is good. But it's a small percentage of the whole population.
-
-Dor - Felix pointed to an interesting problem about the defining toolmakers and maintainers. As there is some overlap between them and funded proposers. But they also have a unique perspective.
+**Dor **- Felix pointed to an interesting problem about the defining toolmakers and maintainers. As there is some overlap between them and funded proposers. But they also have a unique perspective.
 
 If I am building some random DEX versus building a component in the governance. Being a facilitator. For me, this is a tool, just like technology, that has a different perspective and needs.
 
@@ -409,109 +378,59 @@ Maybe a new name, new label, maybe even a more formal definition or listing is r
 
 I want to open it for like a short discussion to hear what you guys think? How do we continue to help the Toolmakers and Maintainers evolve their strong identity, strong support, stronger presentation?
 
-Nori - Felix any thoughts ?
+**Nori **- Felix any thoughts ?
 
-\
+**Felix **- I would like to hear from others first. When we are close to something we make the worst observations sometimes.
 
+**Victor **- I think T\&M are defined almost by exclusion. If you are in the community, but not a CA or SPO, then you are a Toolmaker. Not even hosting a workshop, but just participating, giving ideas, and contributing to a discussion also helps build the ecosystem. It's difficult to define. But we need to improve the identification of people with this role. I would say just try to list but not limit the different roles that people can take within Catalyst that makes them a Toolmaker or Maintainer.
 
-Felix - I would like to hear from others first. When we are close to something we make the worst observations sometimes.
-
-\
-
-
-Victor - I think T\&M are defined almost by exclusion. If you are in the community, but not a CA or SPO, then you are a Toolmaker. Not even hosting a workshop, but just participating, giving ideas, and contributing to a discussion also helps build the ecosystem. It's difficult to define. But we need to improve the identification of people with this role. I would say just try to list but not limit the different roles that people can take within Catalyst that makes them a Toolmaker or Maintainer.
-
-\
-
-
-Dor - It's nice to use the lens of function. There are different functions, and one person can fill multiple functions. If the functions are in harmony, then it doesn't even matter who the people are, then the whole organism is in harmony. Toolmakers have very specific functions, right. Their function is to expose all the tools, methodologies and processes that will deliver better governance and like it's a huge task.
+**Dor **- It's nice to use the lens of function. There are different functions, and one person can fill multiple functions. If the functions are in harmony, then it doesn't even matter who the people are, then the whole organism is in harmony. Toolmakers have very specific functions, right. Their function is to expose all the tools, methodologies and processes that will deliver better governance and like it's a huge task.
 
 One thing we can do is put out a survey and ask everyone what tools they are currently maintaining, what is the methodology and what processes are they building.
 
-Nori - Those are really good points. circling back to Felix, what are your thoughts on that topic?
+**Nori **- Those are really good points. circling back to Felix, what are your thoughts on that topic?
 
-\
+**Felix **- My thoughts are constantly evolving. In my experience, I had a high focus on Gimbalabs for the specific case of Toolmakers and Maintainers. Because Gimbalabs is a group, a collective, a community which are building tools, which also educate and onboard people everything mapped into one project. This helped me a lot in the problem sensing to also look at which problems is this Gimbalabs group facing? Because this group represents in quite an effective way Toolmakers and Maintainers in general.
 
+**Dor **- I can have different functions, hats, and intentions. I guess the question is where does it break down? Maybe a bit more analysis is required to identify concrete problems, issues, missed opportunities that are created with the current categorization. Then we can talk about the changes that can be made. So, an internal retrospective for the Toolmakers and Maintainers.
 
-Felix - My thoughts are constantly evolving. In my experience, I had a high focus on Gimbalabs for the specific case of Toolmakers and Maintainers. Because Gimbalabs is a group, a collective, a community which are building tools, which also educate and onboard people everything mapped into one project. This helped me a lot in the problem sensing to also look at which problems is this Gimbalabs group facing? Because this group represents in quite an effective way Toolmakers and Maintainers in general.
-
-\
-
-
-Dor - I can have different functions, hats, and intentions. I guess the question is where does it break down? Maybe a bit more analysis is required to identify concrete problems, issues, missed opportunities that are created with the current categorization. Then we can talk about the changes that can be made. So, an internal retrospective for the Toolmakers and Maintainers.
-
-\
-
-
-Nori - I think there is an opportunity to better define the T\&M category. It seems like there is overlap. A lot of people in the community wear a lot of hats. I am an SPO, a CA, a proposer, I identify as a toolmaker and maintainer, and I am a general ADA voter. So, I fit all five categories of the electable positions. Maybe that is why I am on the admin team because I can contribute across the board.
+**Nori **- I think there is an opportunity to better define the T\&M category. It seems like there is overlap. A lot of people in the community wear a lot of hats. I am an SPO, a CA, a proposer, I identify as a toolmaker and maintainer, and I am a general ADA voter. So, I fit all five categories of the electable positions. Maybe that is why I am on the admin team because I can contribute across the board.
 
 Many people are in the same situation because everything we do involves a community, it's not like we were hired into a job with one function. A lot of us do a lot of little things and contribute where we can.
 
 I've always wondered how to define T\&M because it seems very rigid. When I hear it, I think about coding and tools and stuff. So, I appreciate Dor’s clarification, also including systems, mechanisms, and facilitation. And being able to communicate that would be a useful thing. Because that expands the category to make more of our community feel welcome and represented.
 
-Felix - We have IOG, CF, ADA holders and CAs, then we have one group Toolmakers and Maintainers that includes two groups. From my perspective, this was often difficult. So, in a further state, it makes better sense to split them off. Also, to have better text, criteria for both, that are easier to map. Rather than put it all into one bucket.
+**Felix **- We have IOG, CF, ADA holders and CAs, then we have one group Toolmakers and Maintainers that includes two groups. From my perspective, this was often difficult. So, in a further state, it makes better sense to split them off. Also, to have better text, criteria for both, that are easier to map. Rather than put it all into one bucket.
 
-\
-\
-
-
-Dor - “Technology is the sum of any techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation”
-
-\
-
+**Dor **- “Technology is the sum of any techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation”
 
 So facilitation is a technology. Retrospectives is a technology
 
-\
+**Lauris **- I think also that is a good idea, to better define the toolmakers and to split in smaller chunks. It's the same with SPOs, if you're doing something else, then you're in other groups. And most probably you are in the toolmaker group because there is nothing else. Should we have more people from more specific groups joining the Catalyst Circle?
 
+**Felix **- For CAs, Funded Cohort and SPOS we have guidelines.
 
-Lauris - I think also that is a good idea, to better define the toolmakers and to split in smaller chunks. It's the same with SPOs, if you're doing something else, then you're in other groups. And most probably you are in the toolmaker group because there is nothing else. Should we have more people from more specific groups joining the Catalyst Circle?
+**Dor **- I think toolmakers should have guidelines as well. There definitely needs to be formalization of privacy, user rights etc. Right now, it's a group of early adopters. But what happens when someone creates a voting tool that is then used to extort or dox people? These things are going to happen. We are building an open API and driving towards an open ecosystem. And now is the time to put some principles in place that can help us evolve in the right direction.
 
-\
+**Nori **- OK, thank you. Let's wrap this up. Thanks for all of your input and conversation. I think a lot of us will be super useful for Circle v2. And I'm sure the admin team will have a lot of takeaways as well. Any final comments or reflections from Circle members ?
 
+**Lauris **- A lot of things happened during these three months, and I think we learned a lot. And the community learned a lot about this as well. it's nice to see that we started something great, it will evolve and become more important. Also in decision power, etc. I hope this will be successful and provide a template that other people can copy into other areas. And, yeah, I'm happy to be part of that.
 
-Felix - For CAs, Funded Cohort and SPOS we have guidelines.
+**Victor **- So, for me as well I am very happy to be part of the first Catalyst Circle, and I think it was a quite long journey. It was only three to four months, but it was very satisfying. At least for me, to help build the foundations for the future of governance. And I think that it's good that it's a short mandate because we can have different people working here with different perspectives. And at the same time, we can evaluate different approaches to similar problems. And I think this is very valuable.
 
-\
-
-
-Dor - I think toolmakers should have guidelines as well. There definitely needs to be formalization of privacy, user rights etc. Right now, it's a group of early adopters. But what happens when someone creates a voting tool that is then used to extort or dox people? These things are going to happen. We are building an open API and driving towards an open ecosystem. And now is the time to put some principles in place that can help us evolve in the right direction.
-
-\
-
-
-Nori - OK, thank you. Let's wrap this up. Thanks for all of your input and conversation. I think a lot of us will be super useful for Circle v2. And I'm sure the admin team will have a lot of takeaways as well. Any final comments or reflections from Circle members ?
-
-\
-
-
-Lauris - A lot of things happened during these three months, and I think we learned a lot. And the community learned a lot about this as well. it's nice to see that we started something great, it will evolve and become more important. Also in decision power, etc. I hope this will be successful and provide a template that other people can copy into other areas. And, yeah, I'm happy to be part of that.
-
-\
-
-
-Victor - So, for me as well I am very happy to be part of the first Catalyst Circle, and I think it was a quite long journey. It was only three to four months, but it was very satisfying. At least for me, to help build the foundations for the future of governance. And I think that it's good that it's a short mandate because we can have different people working here with different perspectives. And at the same time, we can evaluate different approaches to similar problems. And I think this is very valuable.
-
-\
-\
-
-
-Dor - Yeah, I think we were the lemmings crashing into all the crazy traps and challenges at the start and we have the scars to show it. But we did a phenomenal job. And I think we're leaving Circle V2 a good foundation for them to tackle weird new traps, going further than us. We led some important first things and showed that it can be done.
+**Dor **- Yeah, I think we were the lemmings crashing into all the crazy traps and challenges at the start and we have the scars to show it. But we did a phenomenal job. And I think we're leaving Circle V2 a good foundation for them to tackle weird new traps, going further than us. We led some important first things and showed that it can be done.
 
 I think that there are very few people tracking all these conversations and noticing the progress. But the few who do can see the potential, they can see the progress made. What we accomplish with a bunch of volunteers working with not a lot of resources and support.
 
 When we do get support and become incentivized then I think the sky's the limit. We have planted that seed. To show it's possible. And for that we are awesome, and we should feel good about ourselves.
 
-Felix - I agree with what everybody said, and I have a huge respect for what everybody did.
+**Felix **- I agree with what everybody said, and I have a huge respect for what everybody did.
 
 In the beginning, it was said it's about leadership and I have a natural antipathy to authoritarianism and leadership. And I am really surprised seeing what leadership can look like. A group of people taking initiative and responsibility in a direction where nobody knows where to go leads to. So, I think we made some amazing, good steps in this direction on the right matters. We did not abuse our leadership roles. We stuck to the ground. We never described our code of conduct, but there was a natural code of conduct of respecting and listening to each other. Even when we disagreed, we somehow found a common ground. And in this regard, I think it was a total success, and I feel very honoured to be part of it.
 
 And the last mark, Dor it's hard to catch up with you. You have really high levels of acting. And I know that I speak also for other people in the Catalyst Circle. You set the bar so high that you have an atmosphere of expectation around you. I think you are aware of this, which pushes people which pushes them extremely sometimes to that limit.
 
-\
-
-
-Dor - Thank you. I will process this. We need everybody to be well. I take it as a complement and something to work on.
+**Dor **- Thank you. I will process this. We need everybody to be well. I take it as a complement and something to work on.
 
 #### (01.25) (CC) Open conversation - Other CC action items and new tasks, if any.
 
