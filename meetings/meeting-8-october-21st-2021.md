@@ -4,7 +4,6 @@
 
 Thursday, October 21st at 17.00 UTC
 
-\
 Topic template:
 
 (Topic start time) Topic of discussion/Objective - Leader(s) - Duration in minutes
@@ -13,31 +12,31 @@ Topic template:
 
 ### Circle Members :
 
-Lauris Steglics - Stakepool Operators (SPOs)
+**Lauris Steglics** - Stakepool Operators (SPOs)
 
-Dor Garbash - IOHK
+**Dor Garbash** - IOHK
 
-Felix Weber - Tool Makers and Maintainers (T\&M)
+**Felix Weber** - Tool Makers and Maintainers (T\&M)
 
-Victor Corcino - Community Advisors (CAs)
+**Victor Corcino** - Community Advisors (CAs)
 
 ### Apologies :
 
-Dean Jayes - General Voters
+**Dean Jayes** - General Voters
 
-David Taylor - Cardano Foundation (CF)
+**David Taylor** - Cardano Foundation (CF)
 
-Juliane Montag - Funded Cohort (Co-ordinators)
+**Juliane Montag** - Funded Cohort (Co-ordinators)
 
 ### Circle Admin :&#x20;
 
-Nadim Karam - Facilitator
+**Nadim Karam** - Facilitator
 
-Nori - Facilitator
+**Nori **- Facilitator
 
-Stephen Whitenstall - Secretary - Minutes
+**Stephen Whitenstall **- Secretary - Minutes
 
-Peter Wolcott - Secretary - Trello
+**Peter Wolcott** - Secretary - Trello
 
 {% hint style="info" %}
 This meeting will be transcribed using [Otter.ai](http://otter.ai)&#x20;
@@ -229,19 +228,17 @@ I think of the hard times and the only reason now we're here feeling good is by 
 
 **Victor **- I think this experience showed us that even when we are dealing with specific problems, whether they are simple or complex, it's impossible to not receive outputs from outside when we are dealing with them. It was the first iteration of Circle and I think we faced more challenges than we were expecting. And I think this is a kind of skill or characteristic that is required for this task. To be resilient, to know how to be flexible, to adapt and to meet the world in its different aspects.
 
+{% hint style="info" %}
 Having a small consistent group learning to work together over time
+{% endhint %}
 
 **Felix **- I voted for because I think it's one of the most important parts of what actually is happening in the ecosystem, not only for Catalyst Circle. People coming together with totally different backgrounds, in small teams, and educating themselves. This is how collaboration can look like. We don't have any playbooks. We don't have any scripts. But it helps us a lot in this regard. We have to explore by ourselves.&#x20;
 
+{% hint style="info" %}
 Secretary and facilitation teams are awesome
-
-\
-
+{% endhint %}
 
 Lauris - Facilitation and secretaries helped us a lot. I think it was a great idea to have them. And, it has been expanded to several people, which is helpful for us. And we have great people here. So, we feel blessed to have you guys here.
-
-\
-
 
 Dor - I think, I think you're the secret weapon. The magical butterflies of harmony of this Circle. And I really hope that the secretary and facilitation teams continue with version two. Because we really need you and you are adding lots of value.
 
