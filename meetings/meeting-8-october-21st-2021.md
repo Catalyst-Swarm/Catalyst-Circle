@@ -467,5 +467,9 @@ And the last mark, Dor it's hard to catch up with you. You have really high leve
 
 {% embed url="https://app.teleretro.com/board/907ze52I8flf" %}
 
+### TeleRetro Report
+
+{% embed url="https://drive.google.com/file/d/14JKderuVEfpx3vOVwHQ-mFTNbJakhehS/view?usp=sharing" %}
+
 \
 \
