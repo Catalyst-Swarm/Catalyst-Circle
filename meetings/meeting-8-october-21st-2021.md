@@ -180,6 +180,8 @@ It was amazing to see the custom spreadsheet set up. Lucio, from the community s
 
 (00.40) (CC) Using the 5L’s method: Things we’ve Loved, Learned, Lacked, Longed for and List of things to note: [https://app.teleretro.com/board/907ze52I8flf](https://app.teleretro.com/board/907ze52I8flf)&#x20;
 
+![teleretro board](../.gitbook/assets/2021-10-25.png)
+
 ### Introduction
 
 **Nori **- Let me share the retrospective link. If everybody could go to this link. This is an app called tele retro, which we've been using for community retrospectives, and it's a pretty simple retrospective tool. I'll share my screen so we can talk through this.
@@ -449,9 +451,11 @@ And the last mark, Dor it's hard to catch up with you. You have really high leve
 
 ### Feedback Form Link
 
-[https://forms.gle/Jp8UXoqP4ggFijjS8](https://forms.gle/Jp8UXoqP4ggFijjS8)
+## References
 
-### References
+### Teleretro board
+
+{% embed url="https://app.teleretro.com/board/907ze52I8flf" %}
 
 \
 \
