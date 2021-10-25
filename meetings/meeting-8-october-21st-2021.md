@@ -1,5 +1,9 @@
 # Meeting 8 - October 21st 2021
 
+## Meeting Recording
+
+
+
 ## Minutes for Catalyst Circle meeting #8
 
 Thursday, October 21st at 17.00 UTC
