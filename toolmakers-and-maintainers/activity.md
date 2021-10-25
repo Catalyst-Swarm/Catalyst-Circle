@@ -14,13 +14,13 @@ description: Toolmakers and Maintainers Circle Activity
 
 #### Timestamps and summary
 
-#### Victor Corcino - Introduction - [0:00](https://youtu.be/r6Un6sJL_wQ?t=1)
+#### Victor Corcino - Introduction - [0:00](https://youtu.be/r6Un6sJL\_wQ?t=1)
 
-#### Len - How is ranked voting interface going to work with the Miro board ?- [1:48](https://www.youtube.com/watch?v=r6Un6sJL_wQ\&t=108s)
+#### Len - How is ranked voting interface going to work with the Miro board ?- [1:48](https://www.youtube.com/watch?v=r6Un6sJL\_wQ\&t=108s)
 
-#### Victor Corcino - Listing all the problem statements first - [2:05](https://www.youtube.com/watch?v=r6Un6sJL_wQ\&t=125s)
+#### Victor Corcino - Listing all the problem statements first - [2:05](https://www.youtube.com/watch?v=r6Un6sJL\_wQ\&t=125s)
 
-#### Felix - Our role is only to re-present the problem statement - [2:28](https://www.youtube.com/watch?v=r6Un6sJL_wQ\&t=148s)
+#### Felix - Our role is only to re-present the problem statement - [2:28](https://www.youtube.com/watch?v=r6Un6sJL\_wQ\&t=148s)
 
 Each week we have three sessions. The After Town Halls, Swarm Sessions and Each of the sessions are recorded. Each session we work on a miro board as well. We have to filter two problem statements. Which are able to represent the problems of all toolmakers and maintainers. I prefer to start from zero. Everyone here goes on the Miro board and puts their problem statements on the notes. The iteration of this will come in the next Wednesday After Town Hall when we only use the outcomes from today's session.The idea is to include the people into the process.
 
@@ -34,27 +34,27 @@ Each week we have three sessions. The After Town Halls, Swarm Sessions and Each 
 
 Swarm Session 17/07/2021 from 17.00 - 19.30 UTC
 
-This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process #1. 
+This problem statements have been stated, selected and filtered by Community members, participating in the problem sensing process #1.&#x20;
 
 #### Miro Board:
 
 {% embed url="https://miro.com/app/board/o9J_l5oK3HM=/" %}
 
-Recording: [T\&M Problem sensing #1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)
+Recording: [T\&M Problem sensing #1 17/07/2021](https://drive.google.com/file/d/1g8DnVHvrIQ\_ZyFmEU0C-7lJKQQLNcuY7/view?usp=sharing)
 
 #### Statements:
 
-* Participants wrote down their problem statement(s) on a [Miro board](https://miro.com/app/board/o9J_l5oK3HM=/)
+* Participants wrote down their problem statement(s) on a [Miro board](https://miro.com/app/board/o9J\_l5oK3HM=/)
 
 #### Selection & Filtering:
 
 * Participants which states several problems, selected their own “most important” statements
 * Participants filter statements, when statement is covered others already
-* [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J_l6p5UaQ=/?moveToWidget=3074457361598731172\&cot=14)
+* [Beginning 26 statements to selected & filtered 9 statements](https://miro.com/app/board/o9J\_l6p5UaQ=/?moveToWidget=3074457361598731172\&cot=14)
 
-#### Process: 
+#### Process:&#x20;
 
-* The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T\&M problem sensing #2 on July 21st at 18.00 UTC 
+* The 9 selected statements will be restated and selected in the next sensing step. After Town Hall breakout room T\&M problem sensing #2 on July 21st at 18.00 UTC&#x20;
 * The outcome from T\&M problem sensing #2 will be delegated to next Swarm Session on 24/07/2021
 
 #### 9 Selected problem statements:
@@ -129,11 +129,11 @@ T\&M Problem sensing #3 - 24th July 2021
 
 * (1) list the problems within your group.\
   Problem statement rubrik
-  * What problem do you see? 
+  * What problem do you see?&#x20;
   * Why is solving this problem important to the mission of Project Catalyst?
   * Can you articulate the gap between the current state and the expected or envisioned state?
   * How might the value of solving this problem be quantified and/or measured? (optional)
-* (2) Rank the problems (focus on top two statements) 
+* (2) Rank the problems (focus on top two statements)&#x20;
 * (3) Share our feedback with each other and look for problem statements to solve together (eg. join with another member  - eg Victor, Juli, Felix)
 * (4) Place Problems in accessible backlog tool (E.g Trello)
 
@@ -151,17 +151,17 @@ The amount of information available about Cardano and Catalyst will only continu
 
 #### Can you articulate the gap between the current state and the expected or envisioned state?
 
-    \-   There is an overwhelming amount of information for new people to digest in a large number of places.
+&#x20;   \-   There is an overwhelming amount of information for new people to digest in a large number of places.
 
-    \-   A lot of different communities support Cardano. It is hard to know where they are, which are valuable, and where to start. FOMO is real and exhausting.
+&#x20;   \-   A lot of different communities support Cardano. It is hard to know where they are, which are valuable, and where to start. FOMO is real and exhausting.
 
-    \-   Blockchain, Cardano, Stake Pools, Staking, Voting, Catalyst, Funding, Proposals, there is SO MUCH to learn to feel like you understand how things work.
+&#x20;   \-   Blockchain, Cardano, Stake Pools, Staking, Voting, Catalyst, Funding, Proposals, there is SO MUCH to learn to feel like you understand how things work.
 
-    \-   Some discord servers have an overwhelming number of servers.
+&#x20;   \-   Some discord servers have an overwhelming number of servers.
 
-    \-   No clear central starting point to learn about Catalyst.
+&#x20;   \-   No clear central starting point to learn about Catalyst.
 
-    \-   The envisioned state is having information and community mechanisms and systems available to take people deeper and deeper into the community in a safe and inclusive way.
+&#x20;   \-   The envisioned state is having information and community mechanisms and systems available to take people deeper and deeper into the community in a safe and inclusive way.
 
 ## T\&M Problem sensing #4
 
@@ -175,7 +175,7 @@ The amount of information available about Cardano and Catalyst will only continu
 
 ### Transcription
 
-#### After Town Hall 28/07/2021 
+#### After Town Hall 28/07/2021&#x20;
 
 Previous steps: [Catalyst Circle ( CC ) - Toolmakers & Maintainers ( T\&M )](https://docs.google.com/document/d/1uGn4sbaLIEiDWEGQpdX8bxU5QYaJ3SBBXjCGZzy7NnM/edit?usp=sharing)
 
@@ -185,12 +185,12 @@ T\&M Problem sensing #3 [T\&M Problem sensing #3](https://docs.google.com/docume
 
 * (1) list the problems within your group.\
   Problem statement rubrik
-  * What problem do you see? 
+  * What problem do you see?&#x20;
   * Why is solving this problem important to the mission of Project Catalyst?
   * Can you articulate the gap between the current state and the expected or envisioned state?
   * How might the value of solving this problem be quantified and/or measured? (optional)
-* (2) Rank the problems (focus on top two statements) 
-* (3) Share our feedback with each other and look for problem statements to solve together 
+* (2) Rank the problems (focus on top two statements)&#x20;
+* (3) Share our feedback with each other and look for problem statements to solve together&#x20;
 * (4) Place Problems in accessible backlog tool (E.g Trello)
 
 ### Problem #1 - Onboarding & Introduction
@@ -216,13 +216,13 @@ Yes :)
 
 To find what I need when I need it and be able to work with who I need to work with.
 
-Any gap must be filled by us as humans to focus on what matters most individually; Specialization with a method toward awareness of what is happening around us. 
+Any gap must be filled by us as humans to focus on what matters most individually; Specialization with a method toward awareness of what is happening around us.&#x20;
 
-Many different communities can flourish in Cardano. It is hard to know where they are and where to start. In the “Experiment” there is an overwhelming amount of information for new people to digest. Scattered in a large number of places. We’re achieving a lot, however keeping up is exhausting. 
+Many different communities can flourish in Cardano. It is hard to know where they are and where to start. In the “Experiment” there is an overwhelming amount of information for new people to digest. Scattered in a large number of places. We’re achieving a lot, however keeping up is exhausting.&#x20;
 
-Having mechanisms to separate the signal from the noise. Mechanisms and information to bring people into the community in a safe and inclusive way are important. To be able to create new knowledge and merge that with the collective intelligence of Cardano. Markets are after all, conversations. 
+Having mechanisms to separate the signal from the noise. Mechanisms and information to bring people into the community in a safe and inclusive way are important. To be able to create new knowledge and merge that with the collective intelligence of Cardano. Markets are after all, conversations.&#x20;
 
-To build the communities we need, we need to sow radicles 🌱 so that we can work together effectively. 
+To build the communities we need, we need to sow radicles 🌱 so that we can work together effectively.&#x20;
 
 Written by the T\&M Community
 
@@ -230,33 +230,33 @@ Written by the T\&M Community
 
 #### What problem do you see?
 
-As the community grows larger it becomes harder for people to establish direct connections. Knowing who to trust, who delivers value, and what expertise other people bring to the table becomes important. 
+As the community grows larger it becomes harder for people to establish direct connections. Knowing who to trust, who delivers value, and what expertise other people bring to the table becomes important.&#x20;
 
 The key problem is related to building the next layer of trust.
 
 For example, one person stated, "I do not know who to trust for engagement, mentorship, technical expertise." The flip-side is people need to be able to build a sustainable livelihood in the ecosystem if Cardano is to flourish.
 
-As a community, we don't have any way to reward community participation and contribution. People participate and contribute to the greater Catalyst community; In chat rooms, meetings, events and other forums where time, energy, and enthusiasm are routinely on display. This effort is not acknowledged or rewarded. We don’t want to create sweatshops. 
+As a community, we don't have any way to reward community participation and contribution. People participate and contribute to the greater Catalyst community; In chat rooms, meetings, events and other forums where time, energy, and enthusiasm are routinely on display. This effort is not acknowledged or rewarded. We don’t want to create sweatshops.&#x20;
 
 #### Why is solving this problem important to the mission of Project Catalyst?
 
 Creating honest trustworthy signals becomes important for the growth of our ecosystem.
 
-A certain level of altruism and passion are needed for the community to flourish, but taken to an extreme it is not sustainable long term. Egalitarianism verses slavery. Having a mechanism for the community to state what is valued, track contributions, and reward those that participate and provide value will be key in growing the community and keeping people engaged over the long term. 
+A certain level of altruism and passion are needed for the community to flourish, but taken to an extreme it is not sustainable long term. Egalitarianism verses slavery. Having a mechanism for the community to state what is valued, track contributions, and reward those that participate and provide value will be key in growing the community and keeping people engaged over the long term.&#x20;
 
-As the community grows, knowing who to trust and who has expertise in specific areas will allow people to safely express their preferences and also delegate to respected experts. 
+As the community grows, knowing who to trust and who has expertise in specific areas will allow people to safely express their preferences and also delegate to respected experts.&#x20;
 
 Knowing who to trust in different scenarios will allow people to collaborate effectively with the best possible individuals, projects and teams.
 
 #### Can you articulate the gap between the current state and the expected or envisioned state?
 
-There are currently many emergent systems in operation to assess proposals; however, their utility has not been proven nor their behavior well characterized. 
+There are currently many emergent systems in operation to assess proposals; however, their utility has not been proven nor their behavior well characterized.&#x20;
 
-Working on projects which are unfunded or under-resourced because of inadequate information is not sustainable either. Ultimately we want to give super-powers to people and ideas. 
+Working on projects which are unfunded or under-resourced because of inadequate information is not sustainable either. Ultimately we want to give super-powers to people and ideas.&#x20;
 
 Creating reputation and reward systems are complex and must balance extrinsic reward with intrinsic motivation. Defining these components is a difficult undertaking but amplifies and focuses effort. Data and the construction of honest signals are required. Ideally modelled and evolved based on empirical evidence to move forward.
 
-Proactive funding via proposals tends to favour certainty over outcome. Yet navigating uncharted territory needs explorers and some continuity of funding for productive engagement in the ecosystem. 
+Proactive funding via proposals tends to favour certainty over outcome. Yet navigating uncharted territory needs explorers and some continuity of funding for productive engagement in the ecosystem.&#x20;
 
 The future state gives the Cardano ecosystem a veritable treasure chest of primitives for building and navigating our space together.
 
@@ -282,7 +282,7 @@ The future state gives the Cardano ecosystem a veritable treasure chest of primi
 
 [T\&M problem sensing](https://docs.google.com/document/d/1JHTeMgNN1segQrEkShIly3DPEtkJugYKnF3mSa6wODk/edit?usp=sharing)
 
-[Things that are going well](https://docs.google.com/document/d/1VeZVIlWWn4q85q3SL5BaQSZ0WI_BAXWIjtWSDSvhPzc/edit?usp=sharing)
+[Things that are going well](https://docs.google.com/document/d/1VeZVIlWWn4q85q3SL5BaQSZ0WI\_BAXWIjtWSDSvhPzc/edit?usp=sharing)
 
 {% embed url="https://miro.com/app/board/o9J_l6p5UaQ=/" %}
 
