@@ -42,7 +42,7 @@ Topic template:
 
 **Nadim Karam** - Facilitator
 
-**Nori **- Facilitator
+**Nori Nishigaya** - Facilitator
 
 **Stephen Whitenstall **- Secretary - Minutes
 
