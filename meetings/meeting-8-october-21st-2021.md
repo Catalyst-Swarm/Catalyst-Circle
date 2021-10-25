@@ -238,127 +238,73 @@ Having a small consistent group learning to work together over time
 Secretary and facilitation teams are awesome
 {% endhint %}
 
-Lauris - Facilitation and secretaries helped us a lot. I think it was a great idea to have them. And, it has been expanded to several people, which is helpful for us. And we have great people here. So, we feel blessed to have you guys here.
+**Lauris **- Facilitation and secretaries helped us a lot. I think it was a great idea to have them. And, it has been expanded to several people, which is helpful for us. And we have great people here. So, we feel blessed to have you guys here.
 
-Dor - I think, I think you're the secret weapon. The magical butterflies of harmony of this Circle. And I really hope that the secretary and facilitation teams continue with version two. Because we really need you and you are adding lots of value.
+**Dor **- I think, I think you're the secret weapon. The magical butterflies of harmony of this Circle. And I really hope that the secretary and facilitation teams continue with version two. Because we really need you and you are adding lots of value.
 
 I think you're putting up a model for all the governance, that is key. I don't see us succeeding either in the Circle or in decentralizing the governance of Cardano without the Secretary and Facilitation teams taking on additional responsibilities.
 
 I think we need to figure out how to scale up the proposals for these teams, because I think we can all see how important it is and how much value it brings. And these people need to be compensated accordingly.
 
-Lauris - This is a very important topic. We'll have to figure out how to manage that and get some stable support.
-
-\
-
+**Lauris **- This is a very important topic. We'll have to figure out how to manage that and get some stable support.
 
 #### Learned&#x20;
 
-\
-
-
+{% hint style="info" %}
 That the CC is a perfect micro-picture of the overall Project Catalyst and its functional groups
+{% endhint %}
 
-\
+**Felix **- This is amazing when you look at it. Because cohorts really lack structure, communications and they have problems getting involved in Project catalyst. For the SPOs there are not really incentives. Nothing against the people who are representing but from a philosophic point of view It's extremely interesting. The SPOS are mostly not present in Project Catalyst. Emurgo was not even invited. Cardano Foundation has no presence in Project catalyst. Toolmakers and CAs are extremely engaged, taking a lot of initiative and responsibility. And given this situation, IOG must make the decisions. So, what we have in Project Catalyst is exactly what we have in Catalyst Circle. It's a very condensed microcosmic synthesis. I am really amazed by this thought to say, yeah, this experiment is successful. Because somehow it arrived naturally. There wasn't coordination behind the representatives to act and design it that way. Also, what we saw with the general Ada holders, extremely struggling to contribute into the process. It just fits perfectly. And so yeah, a successful experiment.
 
+**Victor **- I voted for it because I was curious about who wrote it, but I agree with Felix. I also think that currently there is some overlap between toolmakers, CAs and proposers. This point of view could help us with solving all the problems outside Catalyst Circle as well.
 
-Felix - This is amazing when you look at it. Because cohorts really lack structure, communications and they have problems getting involved in Project catalyst. For the SPOs there are not really incentives. Nothing against the people who are representing but from a philosophic point of view It's extremely interesting. The SPOS are mostly not present in Project Catalyst. Emurgo was not even invited. Cardano Foundation has no presence in Project catalyst. Toolmakers and CAs are extremely engaged, taking a lot of initiative and responsibility. And given this situation, IOG must make the decisions. So, what we have in Project Catalyst is exactly what we have in Catalyst Circle. It's a very condensed microcosmic synthesis. I am really amazed by this thought to say, yeah, this experiment is successful. Because somehow it arrived naturally. There wasn't coordination behind the representatives to act and design it that way. Also, what we saw with the general Ada holders, extremely struggling to contribute into the process. It just fits perfectly. And so yeah, a successful experiment.
-
-\
-
-
-Victor - I voted for it because I was curious about who wrote it, but I agree with Felix. I also think that currently there is some overlap between toolmakers, CAs and proposers. This point of view could help us with solving all the problems outside Catalyst Circle as well.
-
-\
-\
-
-
+{% hint style="info" %}
 How important it is to have the right facilitation and methods in place to get work done
+{% endhint %}
 
-\
+**Nori **- Okay, the next one is “How important is it to have the right facilitation and methods in place to get work done?” Who put that card up? And can you add some more context?
 
-
-Nori - Okay, the next one is “How important is it to have the right facilitation and methods in place to get work done?” Who put that card up? And can you add some more context?
-
-\
-
-
-Dor - I'm now in the perspective of transition planning and scaling up stuff. And I really think that the human processes that drive governance are a critical fundamental part. It is crazy how much of an afterthought it is. Even if you only think about a normal government like, a cabinet of the US. How are they making discussions, what kind of tools and methods do they use to determine the future of the planet? And if it's so lacking, so blah.
+**Dor **- I'm now in the perspective of transition planning and scaling up stuff. And I really think that the human processes that drive governance are a critical fundamental part. It is crazy how much of an afterthought it is. Even if you only think about a normal government like, a cabinet of the US. How are they making discussions, what kind of tools and methods do they use to determine the future of the planet? And if it's so lacking, so blah.
 
 I think it's great to really think about it in a systematic way. I think we're going to see better decisions, superior decisions coming out of such structures as we build them simply because we're aware of these issues and pay attention to them. Better decisions come from awareness of how we facilitate.
 
-Victor - I voted for this because for me it was very clear the increase in efficiency of these meetings. We had three different kinds of facilitators. And we were just improving over time. It is very clear that now we reached something very good, that could even be the standard. Moving forward.
+**Victor **- I voted for this because for me it was very clear the increase in efficiency of these meetings. We had three different kinds of facilitators. And we were just improving over time. It is very clear that now we reached something very good, that could even be the standard. Moving forward.
 
 #### Lacked&#x20;
 
-\
-
-
+{% hint style="info" %}
 More time for unofficial discussions/meetings with members to work on problem solving / defining the problems, etc.
+{% endhint %}
 
-\
+**Lauris **- We are lacking additional meetings. And that was one of the issues when I messed up with budget things. All the members are super busy with different projects. So, it really was hard to get more than two people together. I think the next Catalyst Circle V2 members will have to calculate in additional time that is not only the official time. But you must have time for additional meetings with other members and with some additional groups. It is not only about being a Catalyst Circle member. It is Catalyst Circle plus experts in some kind of area who can really provide insights.
 
+**Nori **- Thanks, Lauris. As part of our nomination criteria, we added 10 plus hours a week to devote to Circle work as one of the criteria. I would be curious to hear from people how much time you think we should be asking people to commit to, to be effective in this role.
 
-Lauris - We are lacking additional meetings. And that was one of the issues when I messed up with budget things. All the members are super busy with different projects. So, it really was hard to get more than two people together. I think the next Catalyst Circle V2 members will have to calculate in additional time that is not only the official time. But you must have time for additional meetings with other members and with some additional groups. It is not only about being a Catalyst Circle member. It is Catalyst Circle plus experts in some kind of area who can really provide insights.
+**Victor **- I estimate 6 to 8 hours a week
 
-\
+**Felix **- I would even go further, at least from the community side. I would envision having people who have this almost like a full time or half time job. So, 20 hours per week to really get things done. We can't expect this from the IOG side as they have their official roles and official commitments. But from the community side, when a frame like this is given, people can be rewarded and could live from this. Which could produce a huge value in control and outcomes.
 
-
-Nori - Thanks, Lauris. As part of our nomination criteria, we added 10 plus hours a week to devote to Circle work as one of the criteria. I would be curious to hear from people how much time you think we should be asking people to commit to, to be effective in this role.
-
-\
-
-
-Victor - I estimate 6 to 8 hours a week
-
-\
-
-
-Felix - I would even go further, at least from the community side. I would envision having people who have this almost like a full time or half time job. So, 20 hours per week to really get things done. We can't expect this from the IOG side as they have their official roles and official commitments. But from the community side, when a frame like this is given, people can be rewarded and could live from this. Which could produce a huge value in control and outcomes.
-
-&#x20;
-
+{% hint style="info" %}
 In-person interaction
+{% endhint %}
 
-\
+**Dor **- I think in person interaction could be brought to a completely new level. Imagine if we met in person and had a three-day workshop when we started Circle. It would have been such a different type of experience going forward. I would love even for v3 to include a travel budget for people when a new circle is formed. To get all the new members together in the same place. Just for a shared retreat. Because this is fundamental to building relationships. I think it can really help accelerate trust and better communication.
 
+**Lauris **- On the next Cardano summit there should be an additional room for people to meet Catalyst Circle. Unfortunately, this year, it was not possible with the restrictions. In the London summit when I met with people and afterwards. It is on a more personal level and engagement is higher.
 
-Dor - I think in person interaction could be brought to a completely new level. Imagine if we met in person and had a three-day workshop when we started Circle. It would have been such a different type of experience going forward. I would love even for v3 to include a travel budget for people when a new circle is formed. To get all the new members together in the same place. Just for a shared retreat. Because this is fundamental to building relationships. I think it can really help accelerate trust and better communication.
+**Nori **-  I can envision the future maybe having the circle gather for three days at Charles's ranch
 
-\
-
-
-Lauris - On the next Cardano summit there should be an additional room for people to meet Catalyst Circle. Unfortunately, this year, it was not possible with the restrictions. In the London summit when I met with people and afterwards. It is on a more personal level and engagement is higher.
-
-\
-
-
-Nori -  I can envision the future maybe having the circle gather for three days at Charles's ranch
-
-\
-
-
+{% hint style="info" %}
 The missing participation from CF
+{% endhint %}
 
-\
+**Felix **- The missing participation from Cardano Foundation which normally plays a key role in the ecosystem. This lack, I would say,was almost 100 percent and impacted Circle.
 
+**Lauris **- Maybe CF and IOG should have a full timer dedicated to this ?
 
-Felix - The missing participation from Cardano Foundation which normally plays a key role in the ecosystem. This lack, I would say,was almost 100 percent and impacted Circle.
+**Nori **- From what I saw from the outside there definitely seemed to be a lack of participation from the Cardano Foundation. I don't know if anybody has communication channels with them. Perhaps David didn't have enough time to participate meaningfully and maybe somebody else within the organisation does, or maybe an ambassador could sit in and represent or something like that. But I agree that having participation from one of the key pillars of the community makes a lot of sense. And I think for V2 can we iterate and figure out a way to get greater participation?
 
-\
-
-
-Lauris - Maybe CF and IOG should have a full timer dedicated to this ?
-
-\
-
-
-Nori - From what I saw from the outside there definitely seemed to be a lack of participation from the Cardano Foundation. I don't know if anybody has communication channels with them. Perhaps David didn't have enough time to participate meaningfully and maybe somebody else within the organisation does, or maybe an ambassador could sit in and represent or something like that. But I agree that having participation from one of the key pillars of the community makes a lot of sense. And I think for V2 can we iterate and figure out a way to get greater participation?
-
-\
-\
-
-
-Dor - It is a complex issue. There are a lot of things in play here. And how we're going to react to it is going to define also how things evolve. So, I think we need to be strategic. I think the next Circle needs to have a clear protocol of what to do if someone is not attending. So that a representative alerts people in advance, listens to the recording, and writes down their comments. And if they fail to do that then they're like out of the Circle and someone else comes to replace them.
+**Dor **- It is a complex issue. There are a lot of things in play here. And how we're going to react to it is going to define also how things evolve. So, I think we need to be strategic. I think the next Circle needs to have a clear protocol of what to do if someone is not attending. So that a representative alerts people in advance, listens to the recording, and writes down their comments. And if they fail to do that then they're like out of the Circle and someone else comes to replace them.
 
 We’ve had three individuals missing from meetings and not communicating with them. So, it's not just the Cardano Foundation, it's a general kind of governance issue. With the first Circle it's like an experiment with volunteers. I don't feel very attached to people coming or not coming.
 
@@ -366,34 +312,23 @@ But in Circle V2 it needs to be a bit tighter and an understanding that legitima
 
 I am happy we had it happen early. Because the whole thing about accountability is one of the things that happens in governance. Those who don't develop an immune system for lack of accountability are going to end up being stagnant and toothless. I feel very strongly about it as you can hear
 
+{% hint style="info" %}
 Protocol to deal with elected members not showing up
+{% endhint %}
 
-Nori - This aligns with a card on the next column. protocols dealing with elected members not showing up so maybe we can move on to that one. Does anybody else have anything else to contribute there?
+**Nori **- This aligns with a card on the next column. protocols dealing with elected members not showing up so maybe we can move on to that one. Does anybody else have anything else to contribute there?
 
-Lauris - maybe if person can’t come - he has his “representative”
+**Lauris **- maybe if person can’t come - he has his “representative”
 
 it’s like a 2 person team - for each position
 
-\
+**Felix **- Maybe the admin team can draft a code of conduct for Catalyst Circle members which can evolve over iterations. But at a minimum you say if you present yourself to represent a group you are accountable to them as well. Catalyst Circle functions as a group and how you represent yourself and the actions you are doing falling back to the whole group as well. If people don't agree they don't have to sign up. But Circle is a commitment to something.
 
+**Dor **- Funded proposers have a public table that shows who is and is not submitting reports. This is very effective because it creates visibility and  transparency about who is accountable. So just having attendance sheets making Circle participation visible is already a social tool to drive better behavior.
 
-Felix - Maybe the admin team can draft a code of conduct for Catalyst Circle members which can evolve over iterations. But at a minimum you say if you present yourself to represent a group you are accountable to them as well. Catalyst Circle functions as a group and how you represent yourself and the actions you are doing falling back to the whole group as well. If people don't agree they don't have to sign up. But Circle is a commitment to something.
+**Action Item : CC Admin team to draft code of conduct for CC v2**
 
-\
-
-
-Dor - Funded proposers have a public table that shows who is and is not submitting reports. This is very effective because it creates visibility and  transparency about who is accountable. So just having attendance sheets making Circle participation visible is already a social tool to drive better behavior.
-
-\
-\
-
-
-Action Item : CC Admin team to draft code of conduct for CC v2
-
-\
-
-
-Action Item : CC Admin team to include public attendance sheet for CC v2
+**Action Item : CC Admin team to include public attendance sheet for CC v2**
 
 #### Longed for
 
