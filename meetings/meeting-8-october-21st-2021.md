@@ -161,23 +161,11 @@ It was amazing to see the custom spreadsheet set up. Lucio, from the community s
 
 #### Quest for Taxonomy: https://docs.google.com/spreadsheets/d/1fFkECwqnMUF\_qMJJHyMFhXH3Y5OWFMMUyeqrIRn\_C5U/edit#gid=0
 
-\
+**Dor **- Are you in close touch with Kriss? About reporting? He can help integrating
 
+**Felix **- Not yet. We started this just Wednesday when we came together in the After Town Hall getting people on the train, to see who is willing to contribute. So I think the problem “Cohort: Almost non existing “collaborative layer” to welcome newcomers” can move from the backlog forward. I don't know, what do you think?&#x20;
 
-Dor - Are you in close touch with Kriss? About reporting? He can help integrating
-
-\
-
-
-Felix - Not yet. We started this just Wednesday when we came together in the After Town Hall getting people on the train, to see who is willing to contribute. So I think the problem “Cohort: Almost non existing “collaborative layer” to welcome newcomers” can move from the backlog forward. I don't know, what do you think?&#x20;
-
-\
-
-
-Dor - The question is, how well defined is it? Is there some kind of a document? If there was a short document that defines the problems and the goals. If your group can get working on it now, produce something, then you can come to the town hall and present it. This may inspire more people to join the group or to try more things in parallel because everybody has a shared understanding. So, it's kind of picked up, but it also needs to be well defined and shared with the community.
-
-\
-
+**Dor **- The question is, how well defined is it? Is there some kind of a document? If there was a short document that defines the problems and the goals. If your group can get working on it now, produce something, then you can come to the town hall and present it. This may inspire more people to join the group or to try more things in parallel because everybody has a shared understanding. So, it's kind of picked up, but it also needs to be well defined and shared with the community.
 
 #### 1 - Action - Audit team to present to Town Hall
 
@@ -185,7 +173,7 @@ Dor - The question is, how well defined is it? Is there some kind of a document?
 
 #### (00.30) (CC) Tracking problems and actions - ([Trello Card](https://trello.com/c/reroCIGE)) - Discuss updates and moving existing items across the board.
 
-Dor : The schema we set up for the Trello board I can now see that when we act on stuff it doesn't necessarily neatly move in a linear fashion. So I would invite the facilitator team to reflect on this. I do think the structure really helps our work. But what about all these edge cases?
+**Dor **: The schema we set up for the Trello board I can now see that when we act on stuff it doesn't necessarily neatly move in a linear fashion. So I would invite the facilitator team to reflect on this. I do think the structure really helps our work. But what about all these edge cases?
 
 #### 3 - Action - Admin Team to review structure of Trello board in light of status edge cases.
 
@@ -195,10 +183,7 @@ Dor : The schema we set up for the Trello board I can now see that when we act o
 
 #### Introduction
 
-Nori - Let me share the retrospective link. If everybody could go to this link. This is an app called tele retro, which we've been using for community retrospectives, and it's a pretty simple retrospective tool. I'll share my screen so we can talk through this.
-
-\
-
+**Nori **- Let me share the retrospective link. If everybody could go to this link. This is an app called tele retro, which we've been using for community retrospectives, and it's a pretty simple retrospective tool. I'll share my screen so we can talk through this.
 
 The way to add a card which is a kind of an encapsulated thought of your own is to hit the plus at the top and a card will appear. And then you can type something. Then hit enter and it'll complete the card.
 
@@ -210,11 +195,11 @@ There are no preferences, so we'll do it in an open style. I'll set a timer for 
 
 To explain things. There are five columns here:
 
-Liked - these are things that you really liked or found valuable.
+**Liked **- these are things that you really liked or found valuable.
 
-Learned - things that you learned or are going to take away.
+**Learned **- things that you learned or are going to take away.
 
-Lacked - things that you felt were lacking or could be better longed for was something you wish for, and that we can maybe introduce with circle V2.
+**Lacked **- things that you felt were lacking or could be better longed for was something you wish for, and that we can maybe introduce with circle V2.
 
 And then if something doesn't fit in any of these categories, feel free to list them on the fifth column.
 
@@ -230,42 +215,23 @@ Each column was voted on for further discussion. Max - 5 minutes to vote.
 
 Things you liked or found valuable
 
-\
-
-
+{% hint style="info" %}
 Resilience dealing with hard issues and ambiguity while being civil and supportive
+{% endhint %}
 
-\
+**Nori **- Liked column - Resilience dealing with hard issues and ambiguity while being civil and supportive - got the most votes.  Do you want to talk a little bit Dor about what you saw? And what prompted you to write that card?
 
-
-Nori - Liked column - Resilience dealing with hard issues and ambiguity while being civil and supportive - got the most votes.  Do you want to talk a little bit Dor about what you saw? And what prompted you to write that card?
-
-\
-
-
-Dor - I think we did incredibly well, we took on a really big bite out of something. And most of us haven't worked together before. And it's just incredible.
+**Dor **- I think we did incredibly well, we took on a really big bite out of something. And most of us haven't worked together before. And it's just incredible.
 
 I think of the hard times and the only reason now we're here feeling good is by managing to deal with all this stuff that came our way. And while mistakes were made, miscommunications were had, this is very normal human activity. There was never blame. Never anger. Always constructive, always patience and giving people a chance to figure things out. And that's something that is not trivial. This is something that needs to be pursued and persist in the culture and values of Circle going forward.
 
-Nori -  Do people who voted for this one want to say anything about it, and why you voted for it?&#x20;
+**Nori **-  Do people who voted for this one want to say anything about it, and why you voted for it?&#x20;
 
-\
-
-
-Victor - I think this experience showed us that even when we are dealing with specific problems, whether they are simple or complex, it's impossible to not receive outputs from outside when we are dealing with them. It was the first iteration of Circle and I think we faced more challenges than we were expecting. And I think this is a kind of skill or characteristic that is required for this task. To be resilient, to know how to be flexible, to adapt and to meet the world in its different aspects.
-
-\
-
+**Victor **- I think this experience showed us that even when we are dealing with specific problems, whether they are simple or complex, it's impossible to not receive outputs from outside when we are dealing with them. It was the first iteration of Circle and I think we faced more challenges than we were expecting. And I think this is a kind of skill or characteristic that is required for this task. To be resilient, to know how to be flexible, to adapt and to meet the world in its different aspects.
 
 Having a small consistent group learning to work together over time
 
-\
-
-
-Felix - I voted for because I think it's one of the most important parts of what actually is happening in the ecosystem, not only for Catalyst Circle. People coming together with totally different backgrounds, in small teams, and educating themselves. This is how collaboration can look like. We don't have any playbooks. We don't have any scripts. But it helps us a lot in this regard. We have to explore by ourselves.&#x20;
-
-\
-
+**Felix **- I voted for because I think it's one of the most important parts of what actually is happening in the ecosystem, not only for Catalyst Circle. People coming together with totally different backgrounds, in small teams, and educating themselves. This is how collaboration can look like. We don't have any playbooks. We don't have any scripts. But it helps us a lot in this regard. We have to explore by ourselves.&#x20;
 
 Secretary and facilitation teams are awesome
 
