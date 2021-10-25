@@ -471,5 +471,9 @@ And the last mark, Dor it's hard to catch up with you. You have really high leve
 
 {% embed url="https://drive.google.com/file/d/14JKderuVEfpx3vOVwHQ-mFTNbJakhehS/view?usp=sharing" %}
 
+### Transcription
+
+{% embed url="https://docs.google.com/document/d/1umFs7Ws8wW3UkwtQU3vHSv_zpg2Dcl-l8l6IPFjZlpU/edit?usp=sharing" %}
+
 \
 \
