@@ -1,3 +1,7 @@
+---
+description: Catalyst Circle Meeting 8, Thursday, 21st October 2021
+---
+
 # Meeting 8 - October 21st 2021
 
 ## Meeting Recording
