@@ -2,7 +2,9 @@
 
 ## Meeting Recording
 
-
+{% embed url="https://youtu.be/vzuYlhG5zxQ" %}
+Catalyst Circle Meeting #8
+{% endembed %}
 
 ## Minutes for Catalyst Circle meeting #8
 
