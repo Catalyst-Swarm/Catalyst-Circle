@@ -6,6 +6,10 @@ description: >-
 
 # Oversight of Catalyst Circle
 
+## Voices of the Catalyst Circle
+
+{% embed url="https://www.youtube.com/watch?v=RP9t8hbr-Eo" %}
+
 ## Quality Assurance DAO
 
 This site is maintained by QA-DAO in collaboration with the Cardano and Project Catalyst communities. All content recorded here is open source, licensed under Apache 2.0.
