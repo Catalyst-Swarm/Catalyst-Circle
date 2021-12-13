@@ -7,7 +7,7 @@ description: >-
 # Oversight of Catalyst Circle
 
 {% hint style="info" %}
-This GitBook documents Circle V1. For Circle V2 please refer to this GitBook.
+This GitBook documents Circle V1. For Circle V2 please refer [to this GitBook](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/).
 {% endhint %}
 
 ## Voices of the Catalyst Circle
