@@ -6,6 +6,10 @@ description: >-
 
 # Oversight of Catalyst Circle
 
+{% hint style="info" %}
+This GitBook documents Circle V1. For Circle V2 please refer to this GitBook.
+{% endhint %}
+
 ## Voices of the Catalyst Circle
 
 {% embed url="https://www.youtube.com/watch?v=RP9t8hbr-Eo" %}
