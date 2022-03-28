@@ -12,15 +12,17 @@ I started the initiative to organize the Catalyst Circle by approach in SPOCRA. 
 
 {% embed url="https://docs.google.com/document/d/1ODXMuQvKnI-06fdH-EbF7IiyabwhwyPmT7Lgc_Mgh5c/edit?usp=sharing" %}
 
-SPOCRA offered to help with the process of approaching other community groups. After a hold put on that process, Dor and I generated the following strategy and aimed at organizing the first minimal CC : 
+SPOCRA offered to help with the process of approaching other community groups. After a hold put on that process, Dor and I generated the following strategy and aimed at organizing the first minimal CC :&#x20;
 
 {% embed url="https://docs.google.com/document/d/1QbHZKwj_7EUq5VRMEz8G6llyoEi8b2LVu2J-xOXx7t0/edit?usp=sharing" %}
+
+### CCv1 Definition
 
 That evolved into this definition of the CC :
 
 {% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit?usp=sharing" %}
 
-For each of the groups that elected a representative in a Town Hall breakout room, we first described the process one week and asked candidates to nominate themselves - or they could nominate someone else. 
+For each of the groups that elected a representative in a Town Hall breakout room, we first described the process one week and asked candidates to nominate themselves - or they could nominate someone else.&#x20;
 
 For example, here is Victor's self-nomination statement
 
@@ -32,13 +34,13 @@ We followed roughly a sociocracy election format in which attendees, proposed on
 
 ![](.gitbook/assets/2021-10-06-1-.png)
 
-Here is the plan we prepared for selecting the Ada voter's representative 
+Here is the plan we prepared for selecting the Ada voter's representative&#x20;
 
-[https://docs.google.com/document/d/1Bv_rBFJYnzMxI1FuoyH_WMUefdmkdqK9cCgqkQpXE2Y/edit?usp=sharing](https://docs.google.com/document/d/1Bv_rBFJYnzMxI1FuoyH_WMUefdmkdqK9cCgqkQpXE2Y/edit?usp=sharing)
+[https://docs.google.com/document/d/1Bv\_rBFJYnzMxI1FuoyH\_WMUefdmkdqK9cCgqkQpXE2Y/edit?usp=sharing](https://docs.google.com/document/d/1Bv\_rBFJYnzMxI1FuoyH\_WMUefdmkdqK9cCgqkQpXE2Y/edit?usp=sharing)
 
-Basically we sent out a request for nominations (including self-nominations) for people who would be willing to serve on a committee to select a representative. We received 39 nominations and then used a random number generator to select about 10 members of the committee. The committee met, interviewed nominated candidates, and selected Dean with Jordon as his back-up. The Committee then decided to keep meeting in order to support Dean. (Jordon subsequently joined the Committee.) 
+Basically we sent out a request for nominations (including self-nominations) for people who would be willing to serve on a committee to select a representative. We received 39 nominations and then used a random number generator to select about 10 members of the committee. The committee met, interviewed nominated candidates, and selected Dean with Jordon as his back-up. The Committee then decided to keep meeting in order to support Dean. (Jordon subsequently joined the Committee.)&#x20;
 
-Here are the Search Committee's meeting records: 
+Here are the Search Committee's meeting records:&#x20;
 
 {% embed url="https://docs.google.com/document/d/1HOZPsTq6ip173Fn887Q_aDGbZEhS-QzFLitrzI02P_Q/edit?usp=sharing" %}
 
