@@ -12,6 +12,42 @@ I started the initiative to organize the Catalyst Circle by approach in SPOCRA. 
 
 {% embed url="https://docs.google.com/document/d/1ODXMuQvKnI-06fdH-EbF7IiyabwhwyPmT7Lgc_Mgh5c/edit?usp=sharing" %}
 
+### Catalyst Circle Aim, Duties & Responsibilities
+
+[Link to original](https://docs.google.com/document/d/1fMe9LVx80DXyLKpd6vf2uz5mm\_pfUGka3eWdF5qR33o/edit?usp=sharing)
+
+The following describes the function of the Catalyst Circle and lists proposed duties, responsibilities, qualifications, and terms in office for members of the Catalyst Circle acting as Representatives (up links) of their community.
+
+#### Aim of Catalyst Circle
+
+The Catalyst Circle will have the aim of producing two consent proposals related to CIP&#x20;
+
+And Software Updates with Community support. The CIP process can affect the very foundation of the Cardano ecosystem, what it is, and how it fits in a larger whole. It’s important that it not be done pooly and the Catalyst Circle now will give you a say in getting the ecosystem right. It will be at the heart of affecting lasting change and finding the optimal path for the community’s evolution into understanding and executing self-governance.&#x20;
+
+The Catalyst Circle will meet on a proposed cadence of every two weeks and utilize time-tested Agile principles. GovernanceAlive will train and coach the Catalyst Circle in approaches for working with the community to solicit problems and obstacles within each area using psychologically-safe techniques that allow every voice to be heard, and the best ideas to bubble to the top. This will reveal conflicts and disagreements before actual voting starts and de-risk these votes. The Circle will develop measures of success that establish guardrails to ensure that solutions are developed for the benefit of the whole community.
+
+#### Duties of Members:&#x20;
+
+Members will represent the community that selected them. Representatives participate fully in the governance of the Catalyst Circle, exercising their own best judgement about matters that come before the circle. Best judgement is  informed, but not dictated by the news, ideas, suggestions, needs, requests, or proposals of current interest or concern in their community. Representatives are responsible for familiarising members of the Catalyst Circle about the projects, activities, aims, hopes and concerns of their communities. Representatives will periodically have the opportunity to introduce policy proposals into the Catalyst Circle’s agenda for consideration. Representatives support their communities by participating in the decision making for any proposals brought for consideration to the Catalyst Circle. Representatives keep their communities informed about the decisions and actions of the Catalyst Circle and, as appropriate, offer rationale for decisions made.&#x20;
+
+#### Responsibilities:
+
+Representatives will prepare for Catalyst Circle meetings by reviewing and commenting on draft proposals and related documents. Representatives will regularly attend meetings in accordance with participation policies set by the Circle. They are committed to dutifully keeping an awareness of the interests and concerns of their community. In service of their goals, they will build their understanding of the whole community as a means to exercise their best judgement in making decisions and consider the perspective of the whole community. Likewise, Representatives will learn and practice effective meeting procedures as well as attend training focused on inclusive and lean startup leadership techniques. Finally, Representatives will participate in this iterative process by evaluating and providing feedback regarding the Catalyst Circle meetings and the effectiveness of the Circle’s activities and initiatives.
+
+#### Qualifications:
+
+Representatives should have enough experience in their community to be familiar with the hopes, motivations, and challenges of their members. Representatives will be natural networkers and community builders. Representatives should have the ability to express ideas clearly and effectively, have good judgement, be willing to listen deeply, be conscientious, and have ethical integrity.&#x20;
+
+#### Term in office:
+
+Initial term in office is four months. The Circle will set its own policies concerning length of terms, term renewals, staggering of terms, number of members (including providing, e.g., for temporary members who have expertise in a particular topic, and so on. NOTE: If needed, a community can replace its “link” before their term in office has expired.
+
+#### Time commitment: &#x20;
+
+At the start, the cadence is a meeting every two weeks and the circle has the power to decide it’s own cadence. The first two meetings will be extended to provide training on effective meeting practices. Most training will occur in the context of getting the work done.
+
+### SPOCRA&#x20;
+
 SPOCRA offered to help with the process of approaching other community groups. After a hold put on that process, Dor and I generated the following strategy and aimed at organizing the first minimal CC :&#x20;
 
 {% embed url="https://docs.google.com/document/d/1QbHZKwj_7EUq5VRMEz8G6llyoEi8b2LVu2J-xOXx7t0/edit?usp=sharing" %}
