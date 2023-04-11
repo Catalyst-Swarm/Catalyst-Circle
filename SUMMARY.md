@@ -12,6 +12,7 @@
 * [Catalyst Prioritized Problems Trello](activities/catalyst-prioritized-problems-trello.md)
 * [Fund 6 Proposal: Power Up The Catalyst Circle](activities/fund-6-proposal-power-up-the-catalyst-circle.md)
 * [MVP Lists of Prioritized Problems](activities/mvp-lists-of-prioritized-problems.md)
+* [CC Trello Board - User Journey](activities/cc-trello-board-user-journey.md)
 * [Catalyst Circle Tracking](activities/catalyst-circle-tracking.md)
 
 ## Meetings
